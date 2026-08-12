@@ -42,11 +42,11 @@ Three meals a day (breakfast / lunch / dinner), plus snacks and warm teas betwee
 
 ## Week 3 — Lactation Boost ⭐ 进补 (Days 15–21)
 
-**Focus:** maximum milk supply + deep nourishment. Green papaya fish soup and oatmeal are the stars.
+**Focus:** maximum milk supply + deep nourishment. Oatmeal, plenty of warm fluids, and frequent feeding/pumping do the real work; green papaya fish soup is a nourishing *traditional* galactagogue.
 
 | Day | Breakfast | Lunch | Dinner |
 |---|---|---|---|
-| **15** | Oatmeal (lactation!) + egg | Rice, **green papaya fish soup** (生鱼/马鲛鱼), stir-fried kai lan, braised lean pork | Rice, sesame oil chicken, blanched spinach |
+| **15** | Oatmeal (lactation!) + egg | Rice, **green papaya fish soup** (生鱼/午鱼), stir-fried kai lan, braised lean pork | Rice, sesame oil chicken, blanched spinach |
 | **16** | Black chicken congee w/ goji | Rice, steamed threadfin, stir-fried asparagus, green papaya fish soup | Rice, braised pork collar w/ chestnuts, stir-fried cabbage |
 | **17** | Oatmeal + red dates | Rice, **herbal black chicken soup** (药材鸡汤 — dang gui + astragalus + red dates), stir-fried broccoli | Rice, pan-fried salmon, stir-fried nai bai |
 | **18** | Ginger porridge + egg | Rice, steamed seabass, stir-fried spinach, papaya fish soup | Rice, sesame oil chicken, braised black fungus |
@@ -54,7 +54,9 @@ Three meals a day (breakfast / lunch / dinner), plus snacks and warm teas betwee
 | **20** | Black sesame paste + egg | Rice, yellow wine chicken, stir-fried asparagus, fish soup | Rice, braised pork ribs w/ lotus root + red dates, blanched broccoli |
 | **21** | Red date porridge + egg | Rice, green papaya fish soup, stir-fried sweet potato leaves | Rice, steamed cod, stir-fried mixed veg |
 
-**Key (week 3):** green papaya fish soup 4–5×, oatmeal most days, constant warm tea. These are your milk-boosters.
+**Key (week 3):** oatmeal most days, ~2–3 L/day of warm fluids (bedside thermos), and frequent feeding/pumping — these are the evidence-based moves. Green papaya fish soup 4–5× is a nourishing *traditional* booster; its galactagogue effect is anecdotal, so don't over-promise it.
+
+> ⚠️ **Dang gui (当归):** a blood-moving herb. Pause it if lochia is still heavy or bleeding restarts. Astragalus and red dates are safe throughout.
 
 ---
 
@@ -78,7 +80,7 @@ Three meals a day (breakfast / lunch / dinner), plus snacks and warm teas betwee
 
 | Missing ingredient | Use instead |
 |---|---|
-| Threadfin (马鲛) | Batang, snapper, pomfret |
+| Threadfin (午鱼) | Batang (马鲛), snapper, pomfret |
 | Seabass | Any white fish (cod, grouper) |
 | Pork collar/ribs | Pork shoulder, lean pork, chicken |
 | Kai lan / choy sum | Bok choy, nai bai, spinach, broccoli |

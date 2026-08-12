@@ -3,7 +3,7 @@
 Step-by-step recipes for **every** dish in the 28-day plan. Recipes 1–8 are the signature dishes; 9–68 cover everything else that appears in [`meal-plan.md`](meal-plan.md). All quantities serve 1–2 people (scale up as needed).
 
 **Contents**
-- Signature dishes — 1. [Sesame Oil Chicken](#1-sesame-oil-chicken-麻油鸡) · 2. [Green Papaya Fish Soup](#2-green-papaya-fish-soup-青木瓜鱼汤-lactation-booster) · 3. [Herbal Black Chicken Soup](#3-herbal-black-chicken-soup-药材鸡汤) · 4. [Yellow Wine Chicken](#4-yellow-wine-chicken-黄酒鸡) · 5. [Ginger Millet Porridge](#5-ginger-millet-porridge-姜香小米粥) · 6. [Red Date & Longan Tea](#6-red-date--longan-tea-红枣龙眼茶) · 7. [Peanut & Pork Rib Soup](#7-peanut--pork-rib-soup-花生排骨汤) · 8. [Steamed Fish with Ginger](#8-steamed-fish-with-ginger-姜丝蒸鱼)
+- Signature dishes — 1. [Sesame Oil Chicken](#1-sesame-oil-chicken-麻油鸡) · 2. [Green Papaya Fish Soup](#2-green-papaya-fish-soup-青木瓜鱼汤-traditional-galactagogue) · 3. [Herbal Black Chicken Soup](#3-herbal-black-chicken-soup-药材鸡汤) · 4. [Yellow Wine Chicken](#4-yellow-wine-chicken-黄酒鸡) · 5. [Ginger Millet Porridge](#5-ginger-millet-porridge-姜香小米粥) · 6. [Red Date & Longan Tea](#6-red-date--longan-tea-红枣龙眼茶) · 7. [Peanut & Pork Rib Soup](#7-peanut--pork-rib-soup-花生排骨汤) · 8. [Steamed Fish with Ginger](#8-steamed-fish-with-ginger-姜丝蒸鱼)
 - 🍚 Congee, Porridge & Oatmeal — 9–14
 - 🍲 Soups & Broths — 15–25
 - 🍜 Noodle Bowls — 26–29
@@ -36,16 +36,16 @@ Step-by-step recipes for **every** dish in the 28-day plan. Recipes 1–8 are th
 
 **Trick:** simmer the wine at least 20–30 min after adding so the alcohol cooks off and only the fragrance remains.
 
-> ⚠️ **Alcohol note (breastfeeding):** a 30-minute simmer still leaves ~30% of the alcohol. For peace of mind, simmer 60+ minutes, use low-alcohol confinement-brewed wine (米酒), or swap some of the wine for extra water/stock.
+> ⚠️ **Alcohol note (breastfeeding):** alcohol does **not** boost milk supply — and it passes into breastmilk — so treat the wine as flavour and tradition, not a supply tool. A 30-minute simmer still leaves ~30% of the alcohol; for peace of mind, simmer 60+ minutes, use low-alcohol confinement-brewed wine (米酒), or swap some of the wine for extra water/stock. **Practical rule:** cook the wine dishes in the evening, or plan feeds ~2 hours after eating them.
 
 ---
 
-## 2. Green Papaya Fish Soup (青木瓜鱼汤) ⭐ Lactation Booster
+## 2. Green Papaya Fish Soup (青木瓜鱼汤) ⭐ Traditional Galactagogue
 
 *Appears: days 15, 16, 18, 21, 26*
 
 **Ingredients**
-- 400 g fish (snakehead 生鱼, threadfin 马鲛, or batang) — fillets + bones
+- 400 g fish (snakehead 生鱼, threadfin 午鱼, or batang 马鲛) — fillets + bones
 - 1 semi-ripe green papaya, peeled, seeded, chunked
 - 6–8 slices old ginger
 - 1.5 L boiling water (this is the milky-broth secret)
@@ -59,6 +59,8 @@ Step-by-step recipes for **every** dish in the 28-day plan. Recipes 1–8 are th
 5. Season lightly, serve hot.
 
 **Trick:** frying the fish + adding boiling water = the white colour. Never add cold water.
+
+> 💡 **On the "lactation booster" label:** green papaya fish soup is a *traditional* galactagogue, but the evidence is anecdotal. What actually has evidence behind it: **oatmeal, adequate total fluids (~2–3 L/day of warm liquids), and frequent emptying of the breast** — more feeds/pumps = more supply. It's a lovely, nourishing soup regardless — serve it with pride, promise a bit less.
 
 ---
 
@@ -81,6 +83,8 @@ Step-by-step recipes for **every** dish in the 28-day plan. Recipes 1–8 are th
 
 **Shortcut:** buy pre-packed confinement herbal packs from Eu Yan Sang, Ma Kuang, or any Chinese medical hall — zero measuring needed.
 
+> ⚠️ **Dang gui (当归) caution:** dang gui is a blood-moving herb. If lochia is still heavy — or bleeding restarts — pause the dang gui until it settles. Astragalus and red dates are safe throughout.
+
 ---
 
 ## 4. Yellow Wine Chicken (黄酒鸡)
@@ -99,7 +103,7 @@ Step-by-step recipes for **every** dish in the 28-day plan. Recipes 1–8 are th
 2. Add black fungus, then pour in the yellow wine and a splash of water.
 3. Simmer 20–30 min so the wine mellows. Serve hot over rice.
 
-> ⚠️ **Alcohol note (breastfeeding):** simmer at least 60 minutes (or use low-alcohol confinement wine) if you want to keep the alcohol content minimal.
+> ⚠️ **Alcohol note (breastfeeding):** alcohol doesn't boost milk supply and passes into breastmilk — the wine is for flavour and tradition. Simmer at least 60 minutes (or use low-alcohol confinement wine) to keep the alcohol content minimal, and prefer cooking this in the evening or ~2 hours before a feed.
 
 ---
 
@@ -183,7 +187,7 @@ Step-by-step recipes for **every** dish in the 28-day plan. Recipes 1–8 are th
 **Ingredients**
 - 100 g rice
 - 1 L water
-- 150 g threadfin (马鲛) fillet, or any white fish
+- 150 g threadfin (午鱼) fillet, or any white fish
 - 6 slices ginger
 - 1 tsp sesame oil
 - Salt & white pepper to taste
@@ -774,12 +778,12 @@ Step-by-step recipes for **every** dish in the 28-day plan. Recipes 1–8 are th
 
 ---
 
-## 37. Pan-Fried Threadfin (香煎马鲛鱼)
+## 37. Pan-Fried Threadfin (香煎午鱼)
 
 *Appears: day 23*
 
 **Ingredients**
-- 2 threadfin fillets (马鲛)
+- 2 threadfin fillets (午鱼)
 - 6 slices ginger
 - 1–2 tbsp sesame oil
 - Pinch of salt
@@ -857,7 +861,7 @@ Step-by-step recipes for **every** dish in the 28-day plan. Recipes 1–8 are th
 3. Add wine + water + soy, simmer 10–12 min until tender and the wine mellows.
 4. Serve hot with rice.
 
-> ⚠️ **Alcohol note:** a 10–12 min simmer still retains some alcohol. Simmer 20+ min or use low-alcohol confinement wine if you want it minimal.
+> ⚠️ **Alcohol note:** a 10–12 min simmer still retains some alcohol. Simmer 20+ min or use low-alcohol confinement wine if you want it minimal. (Remember: wine doesn't boost supply — it's flavour and tradition.)
 
 ---
 
@@ -1404,7 +1408,7 @@ Step-by-step recipes for **every** dish in the 28-day plan. Recipes 1–8 are th
 2. Warm gently 2–3 min, sweeten with brown sugar.
 3. Top with a soft-boiled egg for protein if she wants. Serve warm.
 
-**Trick:** jarred black sesame paste makes this a 2-minute breakfast. It's iron + calcium + healthy fats — an underrated milk-supply helper.
+**Trick:** jarred black sesame paste makes this a 2-minute breakfast. It's iron + calcium + healthy fats — a *traditional* milk-supply helper (anecdotal evidence, so enjoy it as a nourishing bonus rather than a guarantee).
 
 ---
 

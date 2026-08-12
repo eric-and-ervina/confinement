@@ -39,12 +39,13 @@ A complete home-cooking plan for a husband preparing 28 days of postpartum meals
 | [`meal-plan.md`](meal-plan.md) | The full 28-day plan, day by day, week by week |
 | [`recipes.md`](recipes.md) | Step-by-step recipes for **every** dish in the plan — 8 signature recipes + 60 more (68 total) |
 | [`shopping-list.md`](shopping-list.md) | Grocery staples, where to buy, and time-saving tips |
+| [`avoid-limit-card.md`](avoid-limit-card.md) | One-page "avoid / limit" quick-reference for the fridge |
 
 ---
 
 ## Quick answers
 
 - **What should I cook first?** Start with the Week 1 meals — they're the gentlest and easiest (porridge, steamed fish, light soups).
-- **What boosts milk supply?** Green papaya fish soup (4–5× in week 3), oatmeal most days, black chicken herbal soup, and constant warm fluids.
+- **What boosts milk supply?** The evidence-based trio: oatmeal most days, ~2–3 L/day of warm fluids, and frequent feeding/pumping. Traditional boosters (green papaya fish soup, black sesame) are nourishing additions, but their galactagogue effect is anecdotal.
 - **What if she gets bored?** Swap any fish for another fish, any leafy green for another leafy green — the structure stays the same.
-- **Alcohol in rice wine?** Long simmers (60+ min) reduce alcohol to trace levels. Short simmer (20–30 min) retains ~30%, so for shorter dishes use a low-alcohol confinement-brewed 米酒, or simmer longer — see the ⚠️ notes in recipes.md.
+- **Alcohol in rice wine?** Wine doesn't boost milk supply — it's for flavour and tradition — and alcohol passes into breastmilk. Long simmers (60+ min) reduce alcohol to trace levels. Short simmer (20–30 min) retains ~30%, so for shorter dishes use a low-alcohol confinement-brewed 米酒, or simmer longer — see the ⚠️ notes in recipes.md. Practical rule: cook wine dishes in the evening, or plan feeds ~2 hours after eating them.
