@@ -37,7 +37,7 @@ A complete home-cooking plan for a husband preparing 28 days of postpartum meals
 | File | Contents |
 |---|---|
 | [`meal-plan.md`](meal-plan.md) | The full 28-day plan, day by day, week by week |
-| [`recipes.md`](recipes.md) | Step-by-step recipes for the signature dishes |
+| [`recipes.md`](recipes.md) | Step-by-step recipes for **every** dish in the plan — 8 signature recipes + 60 more (68 total) |
 | [`shopping-list.md`](shopping-list.md) | Grocery staples, where to buy, and time-saving tips |
 
 ---
