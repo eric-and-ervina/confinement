@@ -70,20 +70,35 @@ Step-by-step recipes for **every** dish in the 28-day plan. Recipes 1–8 are th
 
 **Ingredients**
 - 1 black chicken (Silkie 乌鸡), chopped
-- 1 confinement herbal pack (dang gui 当归, astragalus 黄芪, red dates 红枣, goji 枸杞, longan 龙眼) — or assemble your own
+- Herbal pack — pick one:
+  - **Pre-packed:** 1 confinement herbal pack (from Eu Yan Sang, Ma Kuang, or any Chinese medical hall), or
+  - **Assembled yourself:** the DIY pack in the table below
 - 8 slices ginger
 - 2 L water
 - 1 tbsp rice wine (optional)
 
+**DIY herbal pack (for 1 pot / 2 L)**
+
+| Herb | Amount | Role |
+|---|---|---|
+| Dang gui 当归 (slices) | 12 g (about 4–6 slices) | Blood-building; the classic confinement herb |
+| Astragalus 黄芪 (slices) | 15 g (a small handful) | Qi/energy support — safe throughout |
+| Red dates 红枣 | 8, pitted | Sweetness + blood-building |
+| Dried longan 龙眼 | 10 | Natural sweetness, energy |
+| Goji 枸杞 | 1 tbsp | Added at the very end, last 10 min |
+
 **Method**
 1. Blanch the chicken in boiling water 2 min, drain (removes scum).
-2. Rinse the dried herbs. Add everything to a pot or slow cooker.
-3. Pour in 2 L water, bring to a boil, skim, then simmer 1.5–2 hours (or slow cooker 4 hours).
-4. Season lightly. Drink the soup, eat the chicken.
+2. **Assemble the pack:** rinse the herbs (except goji). Either tie them in a muslin bag/cloth, or add them loose — if loose, just scoop the big slices out before serving.
+3. Add the chicken, herbs, ginger and 2 L water to a pot or slow cooker. Bring to a boil, skim, then simmer 1.5–2 hours (or slow cooker 4 hours).
+4. Add the goji in the last 10–15 min so they plump but keep their colour.
+5. Season lightly. Remove the herb bag (or scoop out the large pieces). Drink the soup, eat the chicken.
 
-**Shortcut:** buy pre-packed confinement herbal packs from Eu Yan Sang, Ma Kuang, or any Chinese medical hall — zero measuring needed.
+**Shortcut:** pre-packed confinement herbal packs (Eu Yan Sang, Ma Kuang, any Chinese medical hall) are built for exactly this — zero measuring. If using one, follow the pack's weight (typically one pack per 2 L), and add goji at the end if it isn't already inside.
 
-> ⚠️ **Dang gui (当归) caution:** dang gui is a blood-moving herb. If lochia is still heavy — or bleeding restarts — pause the dang gui until it settles. Astragalus and red dates are safe throughout.
+**Batch tip:** this soup is on the plan 5× (days 17, 19, 23, 24, 28) — cook a double batch once and freeze half in meal-size portions. Reheat gently; it tastes even better the next day.
+
+> ⚠️ **Dang gui (当归) caution:** dang gui is a blood-moving herb. If lochia is still heavy — or bleeding restarts — pause the dang gui until it settles. Simply leave it out (or swap in a little more astragalus) — astragalus and red dates are safe throughout.
 
 ---
 

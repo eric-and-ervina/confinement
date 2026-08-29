@@ -32,7 +32,7 @@
 
 **Dried goods**
 - Red dates, longan, goji berries
-- Dang gui, astragalus (or pre-packed herbal sets)
+- Dang gui, astragalus — for DIY packs (per pot: 12 g dang gui + 15 g astragalus + 8 red dates + 10 longan + 1 tbsp goji — see [recipe 3](recipes.md#3-herbal-black-chicken-soup-药材鸡汤)); or buy pre-packed herbal sets
 - Black fungus (wood ear), dried scallops (optional)
 - Peanuts (raw, skin on), black sesame paste
 - Brown sugar, fermented black beans (for steamed fish)

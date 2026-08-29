@@ -52,7 +52,7 @@ Three meals a day (breakfast / lunch / dinner), plus snacks and warm teas betwee
 |---|---|---|---|
 | **15** | Oatmeal (lactation!) + egg | Rice, **green papaya fish soup** (生鱼/午鱼), stir-fried kai lan, braised lean pork | Rice, sesame oil chicken, blanched spinach |
 | **16** | Black chicken congee w/ goji | Rice, steamed threadfin, stir-fried asparagus, green papaya fish soup | Rice, braised pork collar w/ chestnuts, stir-fried cabbage |
-| **17** | Oatmeal + red dates | Rice, **herbal black chicken soup** (药材鸡汤 — dang gui + astragalus + red dates), stir-fried broccoli | Rice, pan-fried salmon, stir-fried nai bai |
+| **17** | Oatmeal + red dates | Rice, **herbal black chicken soup** (药材鸡汤 — dang gui + astragalus + red dates; DIY herbal pack amounts in [recipe 3](recipes.md#3-herbal-black-chicken-soup-药材鸡汤)), stir-fried broccoli | Rice, pan-fried salmon, stir-fried nai bai |
 | **18** | Ginger porridge + egg | Rice, steamed seabass, stir-fried spinach, papaya fish soup | Rice, sesame oil chicken, braised black fungus |
 | **19** | Oatmeal + longan | Rice, **herbal black chicken soup**, stir-fried choy sum | Rice, steamed pomfret w/ ginger, stir-fried okra |
 | **20** | Black sesame paste + egg | Rice, yellow wine chicken, stir-fried asparagus, fish soup | Rice, braised pork ribs w/ lotus root + red dates, blanched broccoli |
