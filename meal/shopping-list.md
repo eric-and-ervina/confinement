@@ -44,6 +44,11 @@
 - Mushrooms, snow peas, carrots, corn on the cob, tomatoes
 - **Green papaya** (traditional galactagogue — buy 2 per week in weeks 3–4)
 - Sweet potato (snacks)
+- **Warm fruit (daily snack):** apples, pears, bananas, a little papaya
+
+**Calcium boosters**
+- **Soy milk 豆奶** (serve warm with 2 slices ginger)
+- **Ikan bilis 江鱼仔** (calcium-rich — toss a small handful into soups)
 
 **Pantry & fridge (small, but used)**
 - Spring onions, light soy sauce, salt
@@ -76,3 +81,5 @@
 | Vegetables & fruit (incl. green papaya) | $20–30 |
 | Dried goods & pantry | $15–25 |
 | **Total** | **~$95–150/week** |
+
+> 💡 **Budget is optimistic if you use fresh 午鱼 daily.** Threadfin runs ~$18–25/kg here; with fish at nearly every lunch *and* dinner the fish line alone can hit $70–100+/week. To stay on budget, rotate in **frozen fish fillets, batang, and pomfret**, and lean on the batch-cooking tips above.

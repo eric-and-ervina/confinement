@@ -20,6 +20,8 @@ Three meals a day (breakfast / lunch / dinner), plus snacks and warm teas betwee
 
 **Snacks / teas (week 1):** warm red date tea, warm red date + longan tea, plain congee. Keep everything light.
 
+> 🍎 **Daily warm fruit (all weeks):** add 1 portion a day as a snack — stewed apple/pear with ginger + a red date, banana at room temperature, or a little papaya. Fibre + vitamin C help with postpartum constipation and iron absorption; always serve warm.
+
 ---
 
 ## Week 2 — Blood-Building 收缩 (Days 8–14)
@@ -37,6 +39,8 @@ Three meals a day (breakfast / lunch / dinner), plus snacks and warm teas betwee
 | **14** | Oatmeal + egg | Rice, **sesame oil chicken**, stir-fried spinach, peanut pork rib soup | Steamed fish, stir-fried mixed veg, red date chicken soup |
 
 **Snacks (week 2):** steamed sweet potato, black sesame paste, red date tea.
+
+> 🥩 **Week-2 tip:** beef appears only on days 7, 11 and 25, but beef's iron absorbs better than pork's. Swap one pork lunch for a beef stir-fry in this blood-building week (e.g. day 9), and pair any red meat with a vitamin-C vegetable (broccoli, kai lan).
 
 ---
 
@@ -57,6 +61,8 @@ Three meals a day (breakfast / lunch / dinner), plus snacks and warm teas betwee
 **Key (week 3):** oatmeal most days, ~2–3 L/day of warm fluids (bedside thermos), and frequent feeding/pumping — these are the evidence-based moves. Green papaya fish soup 4–5× is a nourishing *traditional* booster; its galactagogue effect is anecdotal, so don't over-promise it.
 
 > ⚠️ **Dang gui (当归):** a blood-moving herb. Pause it if lochia is still heavy or bleeding restarts. Astragalus and red dates are safe throughout.
+
+> 🐟 **DHA tip:** salmon appears only on day 17 in this stretch. Aim for **salmon twice a week** in weeks 3–4 for baby brain DHA — an easy swap is pan-fried salmon in place of a white fish dinner. Batang (马鲛) can sub for one of those two, but keep it to small fish and max ~once a week (see the limit card).
 
 ---
 

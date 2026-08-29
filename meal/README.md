@@ -19,6 +19,18 @@ A complete home-cooking plan for a husband preparing 28 days of postpartum meals
 
 ---
 
+## 🍎 Nutrition refinements (applied)
+
+These fill the gaps the original plan (deliberately kept simple) skipped over — **without changing the 28‑day day tables**, so everything stays consistent with the recipes.
+
+1. **Warm fruit every day — add as a snack.** Postpartum constipation is common, and fruit's fibre + vitamin C (which also helps iron absorption) makes a real difference. Warm fits the "everything warm" rule: stewed/poached apple or pear (with ginger + a red date), banana at room temperature (Singapore room temp is fine), or a little papaya. **Aim for at least 1 portion/day.**
+2. **Boost calcium.** Breastfeeding needs ~1000–1300 mg calcium/day. Your plan has tofu and black sesame paste but is light on dairy. Add: **warm soy milk (soy 豆奶, add 2 slices ginger)**, or **ikan bilis / 江鱼仔 in soups** for a free calcium bump.
+3. **Blood-building week = more red meat.** Beef appears only on days 7, 11 and 25. Beef's iron absorbs better than pork's — in week 2, swap one pork lunch for a beef stir-fry, and pair any red meat with a vitamin-C veg.
+4. **DHA: salmon twice a week.** Salmon appears only days 4 and 17. Add pan-fried salmon **twice a week** in weeks 3–4 for DHA (baby brain development); batang (马鲛) can stand in for one of those — but keep it to small fish, max ~once a week (see the limit card).
+5. **Watch the sweetness.** Most sweet dishes already say "to taste — use as little sugar as possible." Also, with old ginger + sesame oil + longan daily, some people get 热气 (heaty): if she develops a sore throat or mouth ulcers, ease off the ginger and longan.
+
+---
+
 ## Week-by-Week Logic
 
 | Week | Theme | What it does |
