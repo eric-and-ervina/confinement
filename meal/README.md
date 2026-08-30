@@ -7,6 +7,7 @@ A complete home-cooking plan for a husband preparing 28 days of postpartum meals
 - ✅ Breastfeeding — lactation-boosting foods emphasised (weeks 3–4)
 - ✅ Simple home-style dishes — nothing that takes all day
 - ⚠️ Delivery method TBD — plan works for both; see the C-section note below
+- ✅ **Set-and-forget friendly:** nearly every recipe runs on the **pressure cooker + air-fryer oven + steaming rack + a boiling pot** — the only pan work is gentle, medium-heat vegetable stir-fries (or you can blanch them instead). No hot-oil splatter, no scary high-heat frying (see [`recipes.md`](recipes.md) "Your 4 cooking tools").
 
 ---
 
@@ -25,8 +26,8 @@ These fill the gaps the original plan (deliberately kept simple) skipped over �
 
 1. **Warm fruit every day — add as a snack.** Postpartum constipation is common, and fruit's fibre + vitamin C (which also helps iron absorption) makes a real difference. Warm fits the "everything warm" rule: stewed/poached apple or pear (with ginger + a red date), banana at room temperature (Singapore room temp is fine), or a little papaya. **Aim for at least 1 portion/day.**
 2. **Boost calcium.** Breastfeeding needs ~1000–1300 mg calcium/day. Your plan has tofu and black sesame paste but is light on dairy. Add: **warm soy milk (soy 豆奶, add 2 slices ginger)**, or **ikan bilis / 江鱼仔 in soups** for a free calcium bump.
-3. **Blood-building week = more red meat.** Beef appears only on days 7, 11 and 25. Beef's iron absorbs better than pork's — in week 2, swap one pork lunch for a beef stir-fry, and pair any red meat with a vitamin-C veg.
-4. **DHA: salmon twice a week.** Salmon appears only days 4 and 17. Add pan-fried salmon **twice a week** in weeks 3–4 for DHA (baby brain development); batang (马鲛) can stand in for one of those — but keep it to small fish, max ~once a week (see the limit card).
+3. **Blood-building week = more red meat.** Beef appears only on days 7, 11 and 25. Beef's iron absorbs better than pork's — in week 2, swap one pork lunch for a beef dish (gentle pan or braise), and pair any red meat with a vitamin-C veg.
+4. **DHA: salmon twice a week.** Salmon appears only days 4 and 17. Add baked salmon (air-fry) **twice a week** in weeks 3–4 for DHA (baby brain development); batang (马鲛) can stand in for one of those — but keep it to small fish, max ~once a week (see the limit card).
 5. **Watch the sweetness.** Most sweet dishes already say "to taste — use as little sugar as possible." Also, with old ginger + sesame oil + longan daily, some people get 热气 (heaty): if she develops a sore throat or mouth ulcers, ease off the ginger and longan.
 
 ---
@@ -49,7 +50,7 @@ These fill the gaps the original plan (deliberately kept simple) skipped over �
 | File | Contents |
 |---|---|
 | [`meal-plan.md`](meal-plan.md) | The full 28-day plan, day by day, week by week |
-| [`recipes.md`](recipes.md) | Step-by-step recipes for **every** dish in the plan — 8 signature recipes + 60 more (68 total) |
+| [`recipes.md`](recipes.md) | Step-by-step recipes for **every** dish in the plan — 8 signature recipes + 60 more (68 total), all set-and-forget (pressure cooker + air-fryer oven + steaming rack + boiling pot) |
 | [`shopping-list.md`](shopping-list.md) | Grocery staples, where to buy, and time-saving tips |
 | [`avoid-limit-card.md`](avoid-limit-card.md) | One-page "avoid / limit" quick-reference for the fridge |
 

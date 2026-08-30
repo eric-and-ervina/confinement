@@ -15,6 +15,23 @@
 
 ---
 
+## 🧰 Equipment — the 4 tools you'll use (nothing more needed)
+
+| # | Tool | Role in this plan | Bought? |
+|---|---|---|---|
+| 1 | **Joyoung 5L electric pressure cooker** | rice, congee/porridge/oatmeal, soups, braises, seasoned chicken — **set-and-forget** | ✅ (shopping list) |
+| 2 | **Steaming rack + a deep pot of boiling water** | every steamed dish (fish, egg custard, chicken, sweet potato) | ✅ already owned |
+| 3 | **AUX 10L air-fryer oven** | baked / air-fried fish dinners + oven snacks | ✅ (shopping list) |
+| 4 | **A plain pot / gentle pan (gas hob)** | vegetable sides (stir-fried **or** blanched), simmering noodles/broth, poaching eggs | ✅ already have |
+
+**Two things to keep in mind:**
+- **The AUX oven's "steam" is micro-steam/humidity, not a real steamer** — so we don't steam in it. Real steaming is done with the rack + boiling water (foolproof).
+- **On the gas hob:** the only pan work is the gentle, medium-heat vegetable stir-fries (or you can blanch the veg instead) — nothing with hot oil or a high flame. All the real "cooking" is set-and-forget in the electric appliances.
+
+**Right-sized to-cook-on-hand:** get **2 heatproof plates/bowls that fit on the steam rack** (so you can steam two dishes at once — e.g. fish + egg custard), and a **kettle** to make fast boiling water for the white-fish-broth trick. Both are cheap and usually already in a kitchen.
+
+---
+
 ## The Big Shop — One-Time Staples
 
 **Proteins**
@@ -23,7 +40,7 @@
 - Threadfin 午鱼/马友, batang 马鲛 (cheaper substitute), seabass, snapper, pomfret, cod, salmon
 - Snakehead 生鱼 (if C-section)
 - Lean pork, pork collar, pork ribs, **pork belly**
-- Beef slices (for stir-fries), **beef brisket** (for braises), eggs (always have a dozen)
+- Beef slices (for gentle-pan beef), **beef brisket** (for pressure-cooker braises), eggs (always have a dozen)
 
 **The holy trinity (never run out)**
 - Old ginger 老姜
@@ -63,8 +80,8 @@
 
 ## ⏰ Husband Time-Savers
 
-1. **Batch-cook 2–3 big pots per week** in a slow cooker or thermal pot (Cornell-type): herbal chicken soup, pork rib soup, fish soup. Reheat daily — soups taste *better* the next day.
-2. **Fish soup trick:** fry fish bones + ginger first, then add *boiling* water → instantly milky white broth.
+1. **Batch-cook with the pressure cooker — 2–3 big pots per week:** herbal chicken soup, pork rib soup, fish soup (each ~set-and-forget in the 煲汤 program). Reheat daily — soups taste *better* the next day.
+2. **Fish soup trick:** fry fish bones + ginger first in the **pressure cooker's 开盖煮 open-lid**, then add *boiling* water → instantly milky white broth.
 3. **Prep the night before:** slice ginger, portion vegetables, marinate meats. Morning meals then take ~15 minutes.
 4. **Bedside thermos:** fill with warm red date & longan tea 2× daily so she sips warm fluids constantly — aim for ~2–3 L/day of warm liquids total (fluids support supply more than any single food).
 5. **Freeze portions:** double any soup recipe and freeze half in meal-size containers for days you're short on time.
