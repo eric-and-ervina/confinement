@@ -20,7 +20,7 @@
 | Item | Rule |
 |---|---|
 | **Caffeine** (coffee, strong/black tea, cola, energy drinks) | Keep minimal while supply is establishing; caffeine can make baby fussy and jittery. Red date/longan tea is your everyday drink instead |
-| **Wine dishes** (sesame oil chicken, yellow wine chicken, etc.) | Wine is for **flavour and tradition only — it does not boost milk supply.** Simmer 60+ min, use low-alcohol confinement 米酒, and **cook wine dishes in the evening** or plan feeds ~2 hours after eating |
+| **Wine dishes** (sesame oil chicken, yellow wine chicken, etc.) | Wine is for **flavour and tradition only — it does not boost milk supply.** Use low-alcohol confinement 米酒, simmer as long as the recipe allows (these wines cook 20–30 min under pressure, which does **not** fully drive the alcohol off), and **cook wine dishes in the evening** or plan feeds ~2 hours after eating |
 | **Dang gui (当归)** | Blood-moving herb — **pause it if lochia is still heavy or bleeding restarts.** Astragalus (黄芪) and red dates are safe throughout |
 | **Batang 马鲛 (mackerel)** | Bigger ones accumulate more mercury. **Prefer small batang, and don't eat it more than ~once a week** — choose snapper/pomfret/seabass as the everyday fish instead |
 | **Sugar / sweet dishes** (red date porridge, black sesame paste, oatmeal, red date-longan tea) | Most are "to taste" — **use as little sugar as possible**; a sweet dish most days is fine, a sweet-every-thing habit isn't |

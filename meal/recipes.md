@@ -170,7 +170,7 @@ Memorise one line and the whole plan makes sense:
 
 ## 5. Ginger Millet Porridge (姜香小米粥)
 
-*Breakfast staple, weeks 1–4*
+*Appears: days 1, 5*
 
 **Ingredients**
 - 100 g millet (小米) or rice
@@ -223,7 +223,7 @@ Memorise one line and the whole plan makes sense:
 
 ## 8. Steamed Fish with Ginger (姜丝蒸鱼)
 
-*Appears regularly in weeks 1–2*
+*Appears: days 1, 5, 6, 8, 10, 12, 14, 16, 18, 19, 21, 24, 27, 28 — your most-used fish method*
 
 **Ingredients**
 - 1 whole fish (snapper, pomfret, seabass) or thick fillet
@@ -1202,6 +1202,7 @@ Memorise one line and the whole plan makes sense:
 4. Serve hot. Simple, iron-rich, and endlessly repeatable.
 
 ---
+
 # 🥬 Greens
 
 *All the stir-fried greens below are done the classic way: sesame oil, ginger, quick toss — everything fully cooked, never raw. Amounts serve 2.*
@@ -1498,6 +1499,7 @@ Memorise one line and the whole plan makes sense:
 3. Drain well, plate, drizzle light soy + sesame oil. Serve warm.
 
 **Note:** the gentlest way to eat greens — ideal for week 1 when digestion needs a soft landing. Drizzle with a little hot sesame-ginger oil for extra warmth.
+
 ---
 
 # 🍠 Snacks

@@ -71,6 +71,8 @@ Every dish runs on the **two electric appliances + the steaming rack + a boiling
 | **20** | Black sesame paste + egg | Rice, yellow wine chicken, stir-fried asparagus, fish soup | Rice, braised pork ribs w/ lotus root + red dates, blanched broccoli |
 | **21** | Red date porridge + egg | Rice, green papaya fish soup, stir-fried sweet potato leaves | Rice, steamed cod, stir-fried mixed veg |
 
+**Snacks / teas (week 3):** warm fruit, black sesame paste, warm red date & longan tea.
+
 **Key (week 3):** oatmeal most days, ~2–3 L/day of warm fluids (bedside thermos), and frequent feeding/pumping — these are the evidence-based moves. Green papaya fish soup 4–5× is a nourishing *traditional* booster; its galactagogue effect is anecdotal, so don't over-promise it.
 
 > ⚠️ **Dang gui (当归):** a blood-moving herb. Pause it if lochia is still heavy or bleeding restarts. Astragalus and red dates are safe throughout.
@@ -92,6 +94,8 @@ Every dish runs on the **two electric appliances + the steaming rack + a boiling
 | **26** | Oatmeal w/ red dates | Rice, green papaya fish soup, stir-fried asparagus | Rice, sesame oil chicken, stir-fried nai bai |
 | **27** | Red date porridge + egg | Rice, steamed pomfret, stir-fried spinach, pork rib-corn soup | Rice, braised pork collar w/ mushrooms, blanched broccoli |
 | **28** | Ginger fried rice w/ egg | Rice, herbal chicken soup, stir-fried kai lan | Rice, steamed fish, stir-fried mixed veg — celebrate! 🎉 |
+
+**Snacks / teas (week 4):** warm fruit, black sesame paste, warm red date & longan tea — same as week 3.
 
 ---
 
