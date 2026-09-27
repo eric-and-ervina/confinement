@@ -52,7 +52,7 @@ If any of these appear, do not wait for the 6-week check. Go to the doctor, or A
 | **Heavy bleeding** — soaking a pad in an hour, or passing big clots | Postpartum haemorrhage |
 | **Fever ≥ 38 °C, chills, foul-smelling discharge** | Infection (womb, wound, or urine) |
 | **Calf pain, swelling, redness, warmth in one leg** | Possible deep-vein thrombosis (blood clot) — also chest pain, breathlessness, or coughing blood = **emergency, call 995** |
-| **Severe headache, blurred vision, flashing lights, upper-abdominal pain, sudden swelling** | Possible pre-eclampsia/epilepsy risk after birth |
+| **Severe headache, blurred vision, flashing lights, upper-abdominal pain, sudden swelling** | Possible pre-eclampsia/eclampsia after birth |
 | **Wound not healing, opening, or angry red and hot** (C-section or tear) | Wound infection |
 | **Breast red, hot, hard, wedge-shaped, with fever/flu feeling** | Mastitis — needs prompt treatment |
 | **Thoughts of harming yourself or the baby, or of "disappearing"** | Postpartum crisis — seek help immediately (see [`mind-body.md`](mind-body.md)) |
@@ -78,7 +78,7 @@ If any of these appear, do not wait for the 6-week check. Go to the doctor, or A
 
 - **Where do I start?** With your wife, on day 1: warm meals from the [meal plan](../meal/meal-plan.md), 5 slow breaths a few times a day, ankle pumps, and as much rest as the newborn allows. That's Phase 1.
 - **When can she exercise?** Gentle walking and breathing from day 1 (if comfortable). Everything else waits for the **6-week check** and her doctor's clearance — and for core work, ideally a women's-health physio screen.
-- **Will her hair fall out?** It will, around months 3–4 — and it regrows. It's a hormone crash, not a deficiency. See [`appearance.md`](appearance.md).
+- **Will her hair fall out?** It will, starting around month 3 and peaking around months 4–5 — and it regrows. It's a hormone crash, not a deficiency. See [`appearance.md`](appearance.md).
 - **How long until she feels like herself?** Most women feel meaningfully better by 3 months and "back" — a new version of it — by 6–12 months. Faster is not better.
 - **What if she's bottle-feeding?** Every part of this program still applies. Just skip the breastfeeding-specific notes.
 - **What if it's a C-section?** Same program, gentler first 2 weeks: no lifting beyond baby + car seat, splint the wound when coughing/sneezing, and wound/scar care starts once the doctor says the wound is healed (see [`appearance.md`](appearance.md)).

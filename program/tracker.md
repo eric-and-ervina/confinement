@@ -88,12 +88,12 @@ Fill in once a week (Sunday works). Trends matter more than any single day. **1 
 **Call the doctor soon (same week):**
 
 - Big increase in pain, or pain that isn't improving
-- Forgetting problems? **Over 2 weeks of low mood, or can't sleep even when the baby sleeps**
+- **Over 2 weeks of low mood, or can't sleep even when the baby sleeps**
 - Urine leaking on cough/sneeze/lift, heaviness or bulging in the vagina
 - Persistent headache, dizziness, or racing heart
 - No bowel movement for days, or painful haemorrhoids
 
-**Singapore emergency numbers:** A&E / ambulance **995**; non-emergency medical advice **1777** (or your polyclinic/ GP).
+**Singapore emergency numbers:** A&E / emergency ambulance **995**; non-emergency ambulance **1777** (or call your polyclinic/GP for advice).
 
 ---
 
