@@ -54,6 +54,8 @@ These fill the gaps the original plan (deliberately kept simple) skipped over �
 | [`shopping-list.md`](shopping-list.md) | Grocery staples, where to buy, and time-saving tips |
 | [`avoid-limit-card.md`](avoid-limit-card.md) | One-page "avoid / limit" quick-reference for the fridge |
 
+> 🌿 **Want the herb-forward version?** This plan is deliberately light on 药材. For the TCM-native 28 days — 生化汤, 四物/八珍/十全大补, 通草, 杜仲 with measured gram amounts — see the companion folder [`../tcm/`](../tcm/README.md).
+
 ---
 
 ## Quick answers
