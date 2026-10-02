@@ -31,9 +31,11 @@ Every dish runs on the **two electric appliances + the steaming rack + a boiling
 | **6** | Ginger porridge + egg | Rice, lean pork slices w/ mushrooms & ginger, blanched spinach, tofu soup | Steamed fish, stir-fried cabbage w/ ginger, chicken broth |
 | **7** | Oatmeal + red dates | Rice, beef w/ ginger & onion (gentle pan), blanched choy sum, fish soup | Mee sua w/ poached egg + chicken in broth |
 
-**Snacks / teas (week 1):** warm red date tea, warm red date + longan tea, plain congee. Keep everything light.
+**Snacks / teas (week 1):** warm red date tea, warm red date + longan tea, plain congee, warm soy milk (豆奶) with 2 slices ginger. Keep everything light.
 
 > 🍎 **Daily warm fruit (all weeks):** add 1 portion a day as a snack — stewed apple/pear with ginger + a red date, banana at room temperature, or a little papaya. Fibre + vitamin C help with postpartum constipation and iron absorption; always serve warm.
+
+> 🦴 **Daily calcium (all weeks):** breastfeeding needs ~1000–1300 mg/day. Have a **warm soy milk** (豆奶, with 2 slices ginger) most days, and toss a small handful of **ikan bilis 江鱼仔** into soups for a free calcium boost.
 
 ---
 
@@ -44,16 +46,16 @@ Every dish runs on the **two electric appliances + the steaming rack + a boiling
 | Day | Breakfast | Lunch | Dinner |
 |---|---|---|---|
 | **8** | Black sesame paste + egg | Rice, **sesame oil chicken** (first time!), stir-fried broccoli, tofu soup | Rice, steamed threadfin, braised black fungus + snow peas, peanut & pork rib soup |
-| **9** | Ginger congee + egg | Rice, braised pork belly (light soy + ginger, not too rich), stir-fried okra, fish soup | Rice, steamed chicken w/ ginger, blanched spinach, red date & chicken soup |
+| **9** | Ginger congee + egg | Rice, **beef w/ ginger & onion** (gentle pan), stir-fried okra, fish soup | Rice, steamed chicken w/ ginger, blanched spinach, red date & chicken soup |
 | **10** | Oatmeal w/ longan | Rice, steamed pomfret, stir-fried cauliflower, pork collar & carrot soup | Rice, sesame oil pork slices w/ ginger, stir-fried kai lan |
 | **11** | Red date porridge + egg | Rice, baked cod (air-fry), stir-fried nai bai, egg & tomato soup (warm) | Rice noodles w/ beef slices + greens in broth |
 | **12** | Black sesame paste | Rice, **yellow wine chicken** (黄酒鸡, light on wine), stir-fried zucchini, fish tofu soup | Rice, steamed seabass, braised lotus root slices, pork rib soup |
 | **13** | Ginger porridge + egg | Rice, steamed chicken thigh w/ goji, stir-fried sweet potato leaves, clear fish soup | Rice, pork collar w/ black fungus (gentle pot), blanched broccoli |
 | **14** | Oatmeal + egg | Rice, **sesame oil chicken**, stir-fried spinach, peanut pork rib soup | Steamed fish, stir-fried mixed veg, red date chicken soup |
 
-**Snacks (week 2):** steamed sweet potato, black sesame paste, red date tea.
+**Snacks (week 2):** steamed sweet potato, black sesame paste, red date tea, warm soy milk with ginger.
 
-> 🥩 **Week-2 tip:** beef appears only on days 7, 11 and 25, but beef's iron absorbs better than pork's. Swap one pork lunch for a beef dish in this blood-building week (e.g. day 9), and pair any red meat with a vitamin-C vegetable (broccoli, kai lan).
+> 🥩 **Week-2 tip:** beef now appears on days 7, **9**, 11 and 25 — day 9's pork lunch has been swapped for **beef w/ ginger & onion**. Beef's iron absorbs better than pork's, so pair any red meat with a vitamin-C vegetable (broccoli, kai lan).
 
 ---
 
@@ -67,17 +69,17 @@ Every dish runs on the **two electric appliances + the steaming rack + a boiling
 | **16** | Black chicken congee w/ goji | Rice, steamed threadfin, stir-fried asparagus, green papaya fish soup | Rice, braised pork collar w/ chestnuts, stir-fried cabbage |
 | **17** | Oatmeal + red dates | Rice, **herbal black chicken soup** (药材鸡汤 — dang gui + astragalus + red dates; DIY herbal pack amounts in [recipe 3](recipes.md#3-herbal-black-chicken-soup-药材鸡汤)), stir-fried broccoli | Rice, baked salmon (air-fry), stir-fried nai bai |
 | **18** | Ginger porridge + egg | Rice, steamed seabass, stir-fried spinach, papaya fish soup | Rice, sesame oil chicken, braised black fungus |
-| **19** | Oatmeal + longan | Rice, **herbal black chicken soup**, stir-fried choy sum | Rice, steamed pomfret w/ ginger, stir-fried okra |
+| **19** | Oatmeal + longan | Rice, **herbal black chicken soup**, stir-fried choy sum | Rice, **baked salmon** (air-fry), stir-fried okra |
 | **20** | Black sesame paste + egg | Rice, yellow wine chicken, stir-fried asparagus, fish soup | Rice, braised pork ribs w/ lotus root + red dates, blanched broccoli |
-| **21** | Red date porridge + egg | Rice, green papaya fish soup, stir-fried sweet potato leaves | Rice, steamed cod, stir-fried mixed veg |
+| **21** | Red date porridge + egg | Rice, green papaya fish soup, stir-fried sweet potato leaves | Rice, **braised pork belly w/ ginger**, stir-fried mixed veg |
 
-**Snacks / teas (week 3):** warm fruit, black sesame paste, warm red date & longan tea.
+**Snacks / teas (week 3):** warm fruit, black sesame paste, warm red date & longan tea, warm soy milk with ginger.
 
 **Key (week 3):** oatmeal most days, ~2–3 L/day of warm fluids (bedside thermos), and frequent feeding/pumping — these are the evidence-based moves. Green papaya fish soup 4–5× is a nourishing *traditional* booster; its galactagogue effect is anecdotal, so don't over-promise it.
 
 > ⚠️ **Dang gui (当归):** a blood-moving herb. Pause it if lochia is still heavy or bleeding restarts. Astragalus and red dates are safe throughout.
 
-> 🐟 **DHA tip:** salmon appears only on day 17 in this stretch. Aim for **salmon twice a week** in weeks 3–4 for baby brain DHA — an easy swap is baked salmon (air-fry) in place of a white fish dinner. Batang (马鲛) can sub for one of those two, but keep it to small fish and max ~once a week (see the limit card).
+> 🐟 **DHA tip:** salmon now appears on **days 17 and 19** this week (and days 24 & 27 in week 4) — **twice a week** in weeks 3–4 for baby brain DHA. Batang (马鲛) can sub for one of those, but keep it to small fish and max ~once a week (see the limit card).
 
 ---
 
@@ -89,13 +91,13 @@ Every dish runs on the **two electric appliances + the steaming rack + a boiling
 |---|---|---|---|
 | **22** | Ginger fried rice w/ chicken + egg | Rice, sesame oil chicken, stir-fried kai lan, peanut pork rib soup | Steamed fish w/ fermented black beans, stir-fried mixed veg |
 | **23** | Oatmeal + egg | Rice, braised pork belly w/ chestnuts, stir-fried spinach, herbal black chicken soup | Rice, baked threadfin (air-fry), stir-fried zucchini |
-| **24** | Black sesame paste | Rice, **herbal black chicken soup**, stir-fried broccoli | Rice, steamed seabass, braised lotus root |
+| **24** | Black sesame paste | Rice, **herbal black chicken soup**, stir-fried broccoli | Rice, **baked salmon** (air-fry), braised lotus root |
 | **25** | Ginger congee + egg | Rice, yellow wine chicken, stir-fried sweet potato leaves, fish soup | Rice, braised beef brisket w/ ginger, blanched choy sum |
 | **26** | Oatmeal w/ red dates | Rice, green papaya fish soup, stir-fried asparagus | Rice, sesame oil chicken, stir-fried nai bai |
-| **27** | Red date porridge + egg | Rice, steamed pomfret, stir-fried spinach, pork rib-corn soup | Rice, braised pork collar w/ mushrooms, blanched broccoli |
+| **27** | Red date porridge + egg | Rice, **baked salmon** (air-fry), stir-fried spinach, pork rib-corn soup | Rice, braised pork collar w/ mushrooms, blanched broccoli |
 | **28** | Ginger fried rice w/ egg | Rice, herbal chicken soup, stir-fried kai lan | Rice, steamed fish, stir-fried mixed veg — celebrate! 🎉 |
 
-**Snacks / teas (week 4):** warm fruit, black sesame paste, warm red date & longan tea — same as week 3.
+**Snacks / teas (week 4):** warm fruit, black sesame paste, warm red date & longan tea, warm soy milk with ginger — same as week 3.
 
 ---
 

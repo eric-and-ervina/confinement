@@ -223,7 +223,7 @@ Memorise one line and the whole plan makes sense:
 
 ## 8. Steamed Fish with Ginger (姜丝蒸鱼)
 
-*Appears: days 1, 5, 6, 8, 10, 12, 14, 16, 18, 19, 21, 24, 27, 28 — your most-used fish method*
+*Appears: days 1, 5, 6, 8, 10, 12, 14, 16, 18, 28 — your most-used fish method*
 
 **Ingredients**
 - 1 whole fish (snapper, pomfret, seabass) or thick fillet
@@ -816,7 +816,7 @@ Memorise one line and the whole plan makes sense:
 
 ## 35. Baked Salmon with Ginger (香烤三文鱼)
 
-*Appears: days 4, 17*
+*Appears: days 4, 17, 19, 24, 27*
 
 **Ingredients**
 - 1 salmon fillet, skin on
@@ -880,7 +880,7 @@ Memorise one line and the whole plan makes sense:
 
 ## 38. Beef with Ginger & Onion (姜葱炒牛肉) — gentle pan
 
-*Appears: day 7*
+*Appears: days 7, 9*
 
 **Ingredients**
 - 150 g beef slices (sirloin or tenderloin)
@@ -990,7 +990,7 @@ Memorise one line and the whole plan makes sense:
 
 ## 43. Braised Pork Belly, Light Soy & Ginger (酱油姜焖五花肉)
 
-*Appears: day 9*
+*Appears: day 21*
 
 **Ingredients**
 - 300 g pork belly, cubed

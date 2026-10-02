@@ -2,6 +2,8 @@
 
 *Print this and stick it on the fridge. Full details live in [`meal-plan.md`](meal-plan.md) and [`recipes.md`](recipes.md).*
 
+> ⚕️ **Not medical advice.** General guidance only — confirm specifics (medications, allergies, bleeding, supply worries) with her doctor, a lactation consultant, or a dietitian. Get medical help promptly for heavy bleeding, fever/chills or worsening pain, or a red, hot, painful breast with flu-like symptoms (possible mastitis).
+
 ---
 
 ## ❌ Avoid entirely

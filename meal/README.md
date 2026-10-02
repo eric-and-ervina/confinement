@@ -2,6 +2,8 @@
 
 A complete home-cooking plan for a husband preparing 28 days of postpartum meals for his wife, using ingredients readily available in Singapore.
 
+> ⚕️ **Medical note — please read.** This is a home-cooking plan, not medical advice. Confinement traditions and postpartum nutrition vary, and individual needs differ (wound healing, bleeding, medications, allergies, existing conditions). Please check with your wife's **OB/GYN, a lactation consultant, or a dietitian** before starting, and treat the "avoid/limit" card as general guidance rather than a prescription. **Seek medical care promptly** — don't just adjust the menu — if she has heavy bleeding, fever/chills or worsening pain, or a red, hot, painful breast with flu-like symptoms (possible mastitis).
+
 **Plan notes:**
 - ✅ Pork is fine — but **no pork innards and no pig trotters**
 - ✅ Breastfeeding — lactation-boosting foods emphasised (weeks 3–4)
@@ -20,14 +22,14 @@ A complete home-cooking plan for a husband preparing 28 days of postpartum meals
 
 ---
 
-## 🍎 Nutrition refinements (applied)
+## 🍎 Nutrition refinements (now built into the day tables)
 
-These fill the gaps the original plan (deliberately kept simple) skipped over — **without changing the 28‑day day tables**, so everything stays consistent with the recipes.
+These fill the gaps the original plan (deliberately kept simple) skipped over — and they are now **reflected in the 28‑day day tables** (and the matching recipe notes), so the day-by-day plan actually delivers them.
 
 1. **Warm fruit every day — add as a snack.** Postpartum constipation is common, and fruit's fibre + vitamin C (which also helps iron absorption) makes a real difference. Warm fits the "everything warm" rule: stewed/poached apple or pear (with ginger + a red date), banana at room temperature (Singapore room temp is fine), or a little papaya. **Aim for at least 1 portion/day.**
-2. **Boost calcium.** Breastfeeding needs ~1000–1300 mg calcium/day. Your plan has tofu and black sesame paste but is light on dairy. Add: **warm soy milk (soy 豆奶, add 2 slices ginger)**, or **ikan bilis / 江鱼仔 in soups** for a free calcium bump.
-3. **Blood-building week = more red meat.** Beef appears only on days 7, 11 and 25. Beef's iron absorbs better than pork's — in week 2, swap one pork lunch for a beef dish (gentle pan or braise), and pair any red meat with a vitamin-C veg.
-4. **DHA: salmon twice a week.** Salmon appears only days 4 and 17. Add baked salmon (air-fry) **twice a week** in weeks 3–4 for DHA (baby brain development); batang (马鲛) can stand in for one of those — but keep it to small fish, max ~once a week (see the limit card).
+2. **Boost calcium.** Breastfeeding needs ~1000–1300 mg calcium/day. Your plan has tofu and black sesame paste but is light on dairy. Add: **warm soy milk (soy 豆奶, add 2 slices ginger)**, or **ikan bilis / 江鱼仔 in soups** for a free calcium bump. (Now worked into the week 1–4 snack lists, with a daily calcium note on the plan.)
+3. **Blood-building week = more red meat.** Beef now appears on days 7, **9**, 11 and 25 — day 9's pork lunch is swapped for **beef w/ ginger & onion** (gentle pan). Beef's iron absorbs better than pork's, so pair any red meat with a vitamin-C veg (broccoli, kai lan).
+4. **DHA: salmon twice a week.** Salmon now appears on days 4, **17, 19** (week 3) and **24, 27** (week 4) — **twice a week** in weeks 3–4 for DHA (baby brain development); batang (马鲛) can stand in for one of those — but keep it to small fish, max ~once a week (see the limit card).
 5. **Watch the sweetness.** Most sweet dishes already say "to taste — use as little sugar as possible." Also, with old ginger + sesame oil + longan daily, some people get 热气 (heaty): if she develops a sore throat or mouth ulcers, ease off the ginger and longan.
 
 ---
