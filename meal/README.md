@@ -54,6 +54,7 @@ These fill the gaps the original plan (deliberately kept simple) skipped over �
 | [`meal-plan.md`](meal-plan.md) | The full 28-day plan, day by day, week by week |
 | [`recipes.md`](recipes.md) | Step-by-step recipes for **every** dish in the plan — 8 signature recipes + 60 more (68 total), all set-and-forget (pressure cooker + air-fryer oven + steaming rack + boiling pot) |
 | [`shopping-list.md`](shopping-list.md) | Grocery staples, where to buy, and time-saving tips |
+| [`herbs-shopping-list.md`](herbs-shopping-list.md) | 🌿 Herb-only shopping checklist — the 6 herbs the regular plan uses, with quantities |
 | [`avoid-limit-card.md`](avoid-limit-card.md) | One-page "avoid / limit" quick-reference for the fridge |
 
 > 🌿 **Want the herb-forward version?** This plan is deliberately light on 药材. For the TCM-native 28 days — 生化汤, 四物/八珍/十全大补, 通草, 杜仲 with measured gram amounts — see the companion folder [`../tcm/`](../tcm/README.md).
