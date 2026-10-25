@@ -82,7 +82,7 @@ Memorise one line and the whole plan makes sense:
 
 **Trick:** the open-lid sear inside the pot gives you golden, aromatic chicken without ever using the stove or dealing with splatter.
 
-> ⚠️ **Alcohol note (breastfeeding):** alcohol does **not** boost milk supply — and it passes into breastmilk — so treat the wine as flavour and tradition, not a supply tool. A pressure-cook finish still leaves some alcohol; for peace of mind, use low-alcohol confinement-brewed wine (米酒), or swap some of the wine for extra water/stock. **Practical rule:** cook the wine dishes in the evening, or plan feeds ~2 hours after eating them.
+> ⚠️ **Alcohol note (breastfeeding):** alcohol does **not** boost milk supply — and it passes into breastmilk — so treat the wine as flavour and tradition, not a supply tool. A pressure-cook finish still leaves some alcohol; for peace of mind, use low-alcohol confinement-brewed wine (米酒), or swap some of the wine for extra water/stock. **Practical rule:** have her feed/pump just before the meal, or wait ~2 hours after it — most of this plan's wine dishes land at lunch, so feed-first is the realistic version (cooking them at dinner when you can is still the easy win).
 
 ---
 
@@ -164,7 +164,7 @@ Memorise one line and the whole plan makes sense:
 2. Add black fungus, then pour in the yellow wine and a splash of water.
 3. Close the lid, select the **chicken / 收汁 / meat** programme, cook ~20–25 min so the wine mellows. Serve hot over rice.
 
-> ⚠️ **Alcohol note (breastfeeding):** alcohol doesn't boost milk supply and passes into breastmilk — the wine is for flavour and tradition. Use low-alcohol confinement wine to keep the alcohol content minimal, and prefer cooking this in the evening or ~2 hours before a feed.
+> ⚠️ **Alcohol note (breastfeeding):** alcohol doesn't boost milk supply and passes into breastmilk — the wine is for flavour and tradition. Use low-alcohol confinement wine to keep the alcohol content minimal, and have her feed/pump just before the meal (or wait ~2 hours after it) — cooking it at dinner is still the easiest.
 
 ---
 
@@ -1512,12 +1512,12 @@ Memorise one line and the whole plan makes sense:
 - 4 tbsp black sesame paste (黑芝麻糊 powder/paste)
 - 500 ml warm water
 - 2 tbsp brown sugar (to taste)
-- 1 egg (optional, soft-boiled on top)
+- 1 egg, soft-boiled, on top — **not optional**: the paste alone is ~200 kcal and barely any protein
 
 **Method**
 1. Whisk the sesame paste with warm water until smooth — no lumps.
 2. Warm gently 2–3 min (hob pot on low, or microwave).
-3. Top with a soft-boiled egg for protein if she wants. Serve warm.
+3. Top with the soft-boiled egg — that egg is the protein in this breakfast, so don't skip it on the day-12 and day-24 mornings. Serve warm.
 
 **Trick:** jarred black sesame paste makes this a 2-minute breakfast. It's iron + calcium + healthy fats — a *traditional* milk-supply helper (anecdotal evidence, so enjoy it as a nourishing bonus rather than a guarantee).
 
@@ -1576,6 +1576,6 @@ Memorise one line and the whole plan makes sense:
 
 **No-wine version:** swap the 150 ml wine for 150 ml chicken broth + 1 tsp rice vinegar. You lose a little warmth but keep the red, savoury character — and it's completely alcohol-free.
 
-> ⚠️ **Alcohol note (breastfeeding):** as with every wine dish here — the wine is flavour and tradition, **not** a supply booster, and alcohol passes into breastmilk. Use low-alcohol confinement 米酒, cook it in the evening, or plan feeds ~2 hours after. And **do not use arak** for this dish: it's a distilled 30–40% spirit, and a short braise does not cook that off.
+> ⚠️ **Alcohol note (breastfeeding):** as with every wine dish here — the wine is flavour and tradition, **not** a supply booster, and alcohol passes into breastmilk. Use low-alcohol confinement 米酒 and have her feed/pump just before the meal (or wait ~2 hours after it) — this is a lunch dish on both days, so feed-first is the one you'll use. And **do not use arak** for this dish: it's a distilled 30–40% spirit, and a short braise does not cook that off.
 
 > ⚠️ **Angkak note (why only 1–2 tsp):** angkak contains monacolin K — the same compound as the cholesterol drug lovastatin — so at supplement doses (grams a day) it behaves like a medicine. As a teaspoon in a braise it's just a seasoning, which is exactly how it's meant to be used. Two extra cautions: buy **sealed, properly labelled** packs (cheap loose angkak can carry citrinin, a mould toxin), and **pause it if her lochia is heavy or bleeding restarts** — 红曲 moves blood, like dang gui. If she's on any blood thinner or statin, ask her doctor first; it's a small ingredient, not worth an interaction.

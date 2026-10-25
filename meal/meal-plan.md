@@ -15,6 +15,8 @@ Every dish runs on the **two electric appliances + the steaming rack + a boiling
 
 > 💡 **Most greens are your choice — stir-fried or blanched, whichever you feel like** (see [`recipes.md`](recipes.md): recipes 53–65 are *originally stir-fried* with an optional blanch; recipe 66 is the deliberately-blanched version). The stir-fry runs on *medium* heat (gentle, no splatter) and takes the same ~2–3 min as blanching, so neither is slower or riskier. The heavy, time-consuming work (rice, soups, braises, fish) stays set-and-forget in the electric appliances.
 
+> 🍶 **Wine dishes are marked 🍶** — the ones with 150–250 ml of 米酒/黄酒 ([recipes 1](recipes.md#1-sesame-oil-chicken-麻油鸡), [4](recipes.md#4-yellow-wine-chicken-黄酒鸡), [69](recipes.md#69-angkak-chicken-红曲米鸡), plus the sesame-oil pork on day 10). Most of them land at **lunch** in this plan, so use the other half of the rule on those days: **have her feed or pump just before the meal, then eat** — that's the practical version of "wait ~2 hours after". Use low-alcohol confinement 米酒, and keep the 20–30 min pressure cook (it drives off roughly 30% of the alcohol, not all of it). Cooking them at dinner, when you can, is still the easiest win.
+
 ---
 
 ## Week 1 — Gentle Recovery 排毒 (Days 1–7)
@@ -35,7 +37,9 @@ Every dish runs on the **two electric appliances + the steaming rack + a boiling
 
 > 🍎 **Daily warm fruit (all weeks):** add 1 portion a day as a snack — stewed apple/pear with ginger + a red date, banana at room temperature, or a little papaya. Fibre + vitamin C help with postpartum constipation and iron absorption; always serve warm.
 
-> 🦴 **Daily calcium (all weeks):** breastfeeding needs ~1000–1300 mg/day. Have a **warm soy milk** (豆奶, with 2 slices ginger) most days, and toss a small handful of **ikan bilis 江鱼仔** into soups for a free calcium boost.
+> 🦴 **Daily calcium (all weeks) — target ~1000 mg.** Breastfeeding needs ~1000–1300 mg/day, and soy milk alone does **not** get you there (unfortified 豆奶 is only ~30–75 mg/100 ml). Stack **two or three of these every day** — one cup of soy milk is only ~300 mg, so a single hit can't cover it: **1 cup fortified/high-calcium milk or soy milk (~300 mg)** · **calcium-set tofu, 150–200 g (~250 mg)** · **20 g ikan bilis 江鱼仔 in a soup (~250–300 mg — go light on the soy sauce that day)** · **100 g kai lan / choy sum / bok choy cooked (~100–150 mg)**. Note that **spinach is oxalate-rich and a poor calcium source** — it's on the plan for iron and folate, not calcium. Short on the tally? **Calcium 500–600 mg + vitamin D3** covers it — ask her doctor.
+
+> 🥚 **Breakfast protein (all weeks):** every breakfast gets a whole egg plus a warm protein drink (soy milk or broth). The paste mornings (days 8, 12, 20, 24) are the easy ones to under-eat — the egg there is part of the meal, not a garnish.
 
 ---
 
@@ -45,13 +49,13 @@ Every dish runs on the **two electric appliances + the steaming rack + a boiling
 
 | Day | Breakfast | Lunch | Dinner |
 |---|---|---|---|
-| **8** | Black sesame paste + egg | Rice, **sesame oil chicken** (first time!), stir-fried broccoli, tofu soup | Rice, steamed threadfin, braised black fungus + snow peas, peanut & pork rib soup |
+| **8** | Black sesame paste + egg | Rice, **sesame oil chicken** 🍶 (first time!), stir-fried broccoli, tofu soup | Rice, steamed threadfin, braised black fungus + snow peas, peanut & pork rib soup |
 | **9** | Ginger congee + egg | Rice, **beef w/ ginger & onion** (gentle pan), stir-fried okra, fish soup | Rice, steamed chicken w/ ginger, blanched spinach, red date & chicken soup |
-| **10** | Oatmeal w/ longan | Rice, steamed pomfret, stir-fried cauliflower, pork collar & carrot soup | Rice, sesame oil pork slices w/ ginger, stir-fried kai lan |
+| **10** | Oatmeal w/ longan | Rice, steamed pomfret, stir-fried cauliflower, pork collar & carrot soup | Rice, sesame oil pork slices w/ ginger 🍶, stir-fried kai lan |
 | **11** | Red date porridge + egg | Rice, baked cod (air-fry), stir-fried nai bai, egg & tomato soup (warm) | Rice noodles w/ beef slices + greens in broth |
-| **12** | Black sesame paste | Rice, **angkak chicken** (红曲米鸡 — [recipe 69](recipes.md#69-angkak-chicken-红曲米鸡), light on wine), stir-fried zucchini, fish tofu soup | Rice, steamed seabass, braised lotus root slices, pork rib soup |
+| **12** | Black sesame paste + egg | Rice, **angkak chicken** 🍶 (红曲米鸡 — [recipe 69](recipes.md#69-angkak-chicken-红曲米鸡), light on wine), stir-fried zucchini, fish tofu soup | Rice, steamed seabass, braised lotus root slices, pork rib soup |
 | **13** | Ginger porridge + egg | Rice, steamed chicken thigh w/ goji, stir-fried sweet potato leaves, clear fish soup | Rice, pork collar w/ black fungus (gentle pot), blanched broccoli |
-| **14** | Oatmeal + egg | Rice, **sesame oil chicken**, stir-fried spinach, peanut pork rib soup | Steamed fish, stir-fried mixed veg, red date chicken soup |
+| **14** | Oatmeal + egg | Rice, **sesame oil chicken** 🍶, stir-fried spinach, peanut pork rib soup | Steamed fish, stir-fried mixed veg, red date chicken soup |
 
 **Snacks (week 2):** steamed sweet potato, black sesame paste, red date tea, warm soy milk with ginger.
 
@@ -71,12 +75,12 @@ Every dish runs on the **two electric appliances + the steaming rack + a boiling
 
 | Day | Breakfast | Lunch | Dinner |
 |---|---|---|---|
-| **15** | Oatmeal (lactation!) + egg | Rice, **green papaya fish soup** (生鱼/午鱼), stir-fried kai lan, braised lean pork | Rice, sesame oil chicken, blanched spinach |
+| **15** | Oatmeal (lactation!) + egg | Rice, **green papaya fish soup** (生鱼/午鱼), stir-fried kai lan, braised lean pork | Rice, sesame oil chicken 🍶, blanched spinach |
 | **16** | Black chicken congee w/ goji | Rice, steamed threadfin, stir-fried asparagus, green papaya fish soup | Rice, braised pork collar w/ chestnuts, stir-fried cabbage |
 | **17** | Oatmeal + red dates | Rice, **herbal black chicken soup** (药材鸡汤 — dang gui + astragalus + red dates; DIY herbal pack amounts in [recipe 3](recipes.md#3-herbal-black-chicken-soup-药材鸡汤)), stir-fried broccoli | Rice, baked salmon (air-fry), stir-fried nai bai |
-| **18** | Ginger porridge + egg | Rice, steamed seabass, stir-fried spinach, papaya fish soup | Rice, sesame oil chicken, braised black fungus |
+| **18** | Ginger porridge + egg | Rice, steamed seabass, stir-fried spinach, papaya fish soup | Rice, sesame oil chicken 🍶, braised black fungus |
 | **19** | Oatmeal + longan | Rice, **herbal black chicken soup**, stir-fried choy sum | Rice, **baked salmon** (air-fry), stir-fried okra |
-| **20** | Black sesame paste + egg | Rice, yellow wine chicken, stir-fried asparagus, fish soup | Rice, braised pork ribs w/ lotus root + red dates, blanched broccoli |
+| **20** | Black sesame paste + egg | Rice, yellow wine chicken 🍶 (250 ml — the biggest wine dose in the plan), stir-fried asparagus, fish soup | Rice, braised pork ribs w/ lotus root + red dates, blanched broccoli |
 | **21** | Red date porridge + egg | Rice, green papaya fish soup, stir-fried sweet potato leaves | Rice, **braised pork belly w/ ginger**, stir-fried mixed veg |
 
 **Snacks / teas (week 3):** warm fruit, black sesame paste, warm red date & longan tea, warm soy milk with ginger.
@@ -95,11 +99,11 @@ Every dish runs on the **two electric appliances + the steaming rack + a boiling
 
 | Day | Breakfast | Lunch | Dinner |
 |---|---|---|---|
-| **22** | Ginger fried rice w/ chicken + egg | Rice, sesame oil chicken, stir-fried kai lan, peanut pork rib soup | Steamed fish w/ fermented black beans, stir-fried mixed veg |
+| **22** | Ginger fried rice w/ chicken + egg | Rice, sesame oil chicken 🍶, stir-fried kai lan, peanut pork rib soup | Steamed fish w/ fermented black beans, stir-fried mixed veg |
 | **23** | Oatmeal + egg | Rice, braised pork belly w/ chestnuts, stir-fried spinach, herbal black chicken soup | Rice, baked threadfin (air-fry), stir-fried zucchini |
-| **24** | Black sesame paste | Rice, **herbal black chicken soup**, stir-fried broccoli | Rice, **baked salmon** (air-fry), braised lotus root |
-| **25** | Ginger congee + egg | Rice, **angkak chicken** (红曲米鸡 — mum's [recipe 69](recipes.md#69-angkak-chicken-红曲米鸡)), stir-fried sweet potato leaves, fish soup | Rice, braised beef brisket w/ ginger, blanched choy sum |
-| **26** | Oatmeal w/ red dates | Rice, green papaya fish soup, stir-fried asparagus | Rice, sesame oil chicken, stir-fried nai bai |
+| **24** | Black sesame paste + egg | Rice, **herbal black chicken soup**, stir-fried broccoli | Rice, **baked salmon** (air-fry), braised lotus root |
+| **25** | Ginger congee + egg | Rice, **angkak chicken** 🍶 (红曲米鸡 — mum's [recipe 69](recipes.md#69-angkak-chicken-红曲米鸡)), stir-fried sweet potato leaves, fish soup | Rice, braised beef brisket w/ ginger, blanched choy sum |
+| **26** | Oatmeal w/ red dates | Rice, green papaya fish soup, stir-fried asparagus | Rice, sesame oil chicken 🍶, stir-fried nai bai |
 | **27** | Red date porridge + egg | Rice, **baked salmon** (air-fry), stir-fried spinach, pork rib-corn soup | Rice, braised pork collar w/ mushrooms, blanched broccoli |
 | **28** | Ginger fried rice w/ egg | Rice, herbal chicken soup, stir-fried kai lan | Rice, steamed fish, stir-fried mixed veg — celebrate! 🎉 |
 

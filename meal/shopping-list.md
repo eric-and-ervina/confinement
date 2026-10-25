@@ -65,9 +65,11 @@
 - Sweet potato (snacks)
 - **Warm fruit (daily snack):** apples, pears, bananas, a little papaya
 
-**Calcium boosters**
-- **Soy milk 豆奶** (serve warm with 2 slices ginger)
-- **Ikan bilis 江鱼仔** (calcium-rich — toss a small handful into soups)
+**Calcium boosters** (target ~1000 mg/day — stack 2–3 of these daily; see the plan's calcium note)
+- **High-calcium / fortified soy milk, or fresh milk** — check the label for ~120 mg/100 ml; plain 豆奶 is only ~30–75 mg/100 ml, so a cup of it is a drink, not a calcium source
+- **Firm tofu set with calcium sulphate** — look for 硫酸钙 / calcium sulphate on the label; ~250 mg per 150–200 g
+- **Ikan bilis 江鱼仔** — ~250–300 mg per 20 g handful, but salty: go light on the soy sauce that day
+- **Kai lan, choy sum, bok choy** — the greens that actually carry calcium (spinach is oxalate-rich and doesn't)
 
 **Pantry & fridge (small, but used)**
 - Spring onions, light soy sauce, salt
