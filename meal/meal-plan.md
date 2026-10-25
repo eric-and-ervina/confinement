@@ -41,7 +41,7 @@ Every dish runs on the **two electric appliances + the steaming rack + a boiling
 
 ## Week 2 — Blood-Building 收缩 (Days 8–14)
 
-**Focus:** build blood and strength, introduce warming elements (sesame oil chicken, rice wine dishes, red dates).
+**Focus:** build blood and strength, introduce warming elements (sesame oil chicken, rice wine dishes, red dates — and mum's angkak chicken from day 12).
 
 | Day | Breakfast | Lunch | Dinner |
 |---|---|---|---|
@@ -49,13 +49,19 @@ Every dish runs on the **two electric appliances + the steaming rack + a boiling
 | **9** | Ginger congee + egg | Rice, **beef w/ ginger & onion** (gentle pan), stir-fried okra, fish soup | Rice, steamed chicken w/ ginger, blanched spinach, red date & chicken soup |
 | **10** | Oatmeal w/ longan | Rice, steamed pomfret, stir-fried cauliflower, pork collar & carrot soup | Rice, sesame oil pork slices w/ ginger, stir-fried kai lan |
 | **11** | Red date porridge + egg | Rice, baked cod (air-fry), stir-fried nai bai, egg & tomato soup (warm) | Rice noodles w/ beef slices + greens in broth |
-| **12** | Black sesame paste | Rice, **yellow wine chicken** (黄酒鸡, light on wine), stir-fried zucchini, fish tofu soup | Rice, steamed seabass, braised lotus root slices, pork rib soup |
+| **12** | Black sesame paste | Rice, **angkak chicken** (红曲米鸡 — [recipe 69](recipes.md#69-angkak-chicken-红曲米鸡), light on wine), stir-fried zucchini, fish tofu soup | Rice, steamed seabass, braised lotus root slices, pork rib soup |
 | **13** | Ginger porridge + egg | Rice, steamed chicken thigh w/ goji, stir-fried sweet potato leaves, clear fish soup | Rice, pork collar w/ black fungus (gentle pot), blanched broccoli |
 | **14** | Oatmeal + egg | Rice, **sesame oil chicken**, stir-fried spinach, peanut pork rib soup | Steamed fish, stir-fried mixed veg, red date chicken soup |
 
 **Snacks (week 2):** steamed sweet potato, black sesame paste, red date tea, warm soy milk with ginger.
 
 > 🥩 **Week-2 tip:** beef now appears on days 7, **9**, 11 and 25 — day 9's pork lunch has been swapped for **beef w/ ginger & onion**. Beef's iron absorbs better than pork's, so pair any red meat with a vitamin-C vegetable (broccoli, kai lan).
+
+> 🍚 **Mum's angkak (红曲米) — days 12 and 25.** A fermented rice used in small spoonfuls for colour and flavour; 红糟鸡 is a classic confinement chicken and a nice change from the same wine dish. How to use it safely:
+> - **Culinary amounts only — 1–2 tsp per pot.** It's a seasoning here, not a supplement (angkak contains monacolin K, the same compound as lovastatin, so it only behaves like medicine at gram-a-day doses).
+> - **Buy sealed, properly labelled packs** from a medical hall or supermarket — cheap loose angkak can carry citrinin, a mould toxin. Mum's pack: check it's labelled, then keep it in the fridge.
+> - **Pause it if lochia is still heavy or bright red** — 红曲 is 活血 (blood-moving), the same rule as dang gui. That's why it starts in week 2, not week 1.
+> - **Cook it with 米酒/黄酒 — never arak.** Arak is a distilled 30–40% spirit and doesn't belong in a breastfeeding kitchen this month ([recipe 69](recipes.md#69-angkak-chicken-红曲米鸡) has a zero-alcohol version).
 
 ---
 
@@ -92,7 +98,7 @@ Every dish runs on the **two electric appliances + the steaming rack + a boiling
 | **22** | Ginger fried rice w/ chicken + egg | Rice, sesame oil chicken, stir-fried kai lan, peanut pork rib soup | Steamed fish w/ fermented black beans, stir-fried mixed veg |
 | **23** | Oatmeal + egg | Rice, braised pork belly w/ chestnuts, stir-fried spinach, herbal black chicken soup | Rice, baked threadfin (air-fry), stir-fried zucchini |
 | **24** | Black sesame paste | Rice, **herbal black chicken soup**, stir-fried broccoli | Rice, **baked salmon** (air-fry), braised lotus root |
-| **25** | Ginger congee + egg | Rice, yellow wine chicken, stir-fried sweet potato leaves, fish soup | Rice, braised beef brisket w/ ginger, blanched choy sum |
+| **25** | Ginger congee + egg | Rice, **angkak chicken** (红曲米鸡 — mum's [recipe 69](recipes.md#69-angkak-chicken-红曲米鸡)), stir-fried sweet potato leaves, fish soup | Rice, braised beef brisket w/ ginger, blanched choy sum |
 | **26** | Oatmeal w/ red dates | Rice, green papaya fish soup, stir-fried asparagus | Rice, sesame oil chicken, stir-fried nai bai |
 | **27** | Red date porridge + egg | Rice, **baked salmon** (air-fry), stir-fried spinach, pork rib-corn soup | Rice, braised pork collar w/ mushrooms, blanched broccoli |
 | **28** | Ginger fried rice w/ egg | Rice, herbal chicken soup, stir-fried kai lan | Rice, steamed fish, stir-fried mixed veg — celebrate! 🎉 |

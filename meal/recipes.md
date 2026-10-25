@@ -1,6 +1,6 @@
 # 👨‍🍳 The Complete Recipe Book — Set-and-Forget Two-Appliance Edition
 
-Step-by-step recipes for **every** dish in the 28-day plan, rewritten so a cooking novice (dad-as-月嫂) can run them almost entirely on **electric appliances**. Recipes 1–8 are the signature dishes; 9–68 cover everything else that appears in [`meal-plan.md`](meal-plan.md). All quantities serve 1–2 people (scale up as needed).
+Step-by-step recipes for **every** dish in the 28-day plan, rewritten so a cooking novice (dad-as-月嫂) can run them almost entirely on **electric appliances**. Recipes 1–8 are the signature dishes; 9–69 cover everything else that appears in [`meal-plan.md`](meal-plan.md) — 69 is mum's angkak chicken, an add-on from the family. All quantities serve 1–2 people (scale up as needed).
 
 If you already have the original (stove-heavy) version, this replaces it. Nothing fancy, no oil-splatter, no close-up stove work.
 
@@ -150,7 +150,7 @@ Memorise one line and the whole plan makes sense:
 
 ## 4. Yellow Wine Chicken (黄酒鸡)
 
-*Appears: days 12, 20, 25*
+*Appears: day 20 (days 12 and 25 use mum's angkak version instead — [recipe 69](#69-angkak-chicken-红曲米鸡))*
 
 **Ingredients**
 - 500 g chicken, chopped
@@ -1536,3 +1536,46 @@ Memorise one line and the whole plan makes sense:
 3. Serve warm, sliced, on its own.
 
 **Note:** sweet, filling, and easy — the no-recipe recipe that deserves its place in the week-2 snack rotation alongside black sesame paste.
+
+---
+
+# 🍚 Mum's Angkak Chicken (红曲米鸡 / 红糟鸡) — the family add-on
+
+> Mum is supplying the **angkak 红曲米**. It's on the plan twice (days 12 and 25) and it's a keeper: a classic confinement chicken, gentler and more savoury than the yellow-wine version, and dead easy — same one-pot method as recipe 4.
+>
+> **Three rules for angkak:** culinary amounts only (**1–2 tsp** per pot); **sealed, labelled pack** from a medical hall or supermarket; and **skip it while lochia is still heavy or bright red** (it's 活血 — blood-moving — the same pause rule as dang gui). No week 1.
+
+## 69. Angkak Chicken (红曲米鸡)
+
+*Appears: days 12, 25 (swaps in for the yellow wine chicken)*
+
+**Ingredients**
+- 500 g chicken, chopped (甘榜/camp chicken or bone-in thighs)
+- **1–2 tsp angkak (红曲米)** — 1 tsp = rosy, 2 tsp = deep red 红糟 look
+- 2 tbsp sesame oil (roasted)
+- 8–10 slices old ginger (老姜)
+- 150 ml rice wine (米酒/黄酒) — **not arak**
+- 100 ml water or light chicken broth (recipe 16)
+- 1 tsp light soy sauce
+- 1 tsp brown sugar (optional)
+- 50 g black fungus (soaked, optional) or 4–6 dried mushrooms (soaked)
+
+**Method (pressure cooker — one pot, no splatter)**
+1. **Make the angkak paste:** put the angkak in a small bowl with 2 tbsp of the rice wine, mash with the back of a spoon into a smooth red paste (30 sec). This is what gives an even colour instead of speckled rice grains stuck to the chicken.
+2. Set the pressure cooker to **开盖煮 (open-lid)**, warm the sesame oil inside the pot.
+3. Fry the ginger slices until golden and fragrant (5–7 min) — the flavour base, same as the sesame oil chicken.
+4. Add the chicken, sear until golden on all sides.
+5. Spoon in the angkak paste and toss 1 min until every piece is coated red — the colour sets now, in the hot oil.
+6. Add the fungus/mushrooms, the rest of the wine, the water, soy and sugar.
+7. Close the lid, select the **chicken / 收汁 / meat** programme, cook ~20–25 min until tender.
+8. Natural release, then 3–5 min **open-lid** to reduce to a glossy red sauce. Serve hot over rice or 面线.
+
+**Trick:** mash the angkak into a paste first. Sprinkled in dry, it colours unevenly and leaves a slightly gritty, medicinal edge — as a paste it turns into a proper red braise.
+
+**If it's too strong:** angkak is fermented, so it tastes gently sour-savoury. Too much reads as "medicinal" — next pot, drop to 1 tsp rather than adding more sugar.
+
+**No-wine version:** swap the 150 ml wine for 150 ml chicken broth + 1 tsp rice vinegar. You lose a little warmth but keep the red, savoury character — and it's completely alcohol-free.
+
+> ⚠️ **Alcohol note (breastfeeding):** as with every wine dish here — the wine is flavour and tradition, **not** a supply booster, and alcohol passes into breastmilk. Use low-alcohol confinement 米酒, cook it in the evening, or plan feeds ~2 hours after. And **do not use arak** for this dish: it's a distilled 30–40% spirit, and a short braise does not cook that off.
+
+> ⚠️ **Angkak note (why only 1–2 tsp):** angkak contains monacolin K — the same compound as the cholesterol drug lovastatin — so at supplement doses (grams a day) it behaves like a medicine. As a teaspoon in a braise it's just a seasoning, which is exactly how it's meant to be used. Two extra cautions: buy **sealed, properly labelled** packs (cheap loose angkak can carry citrinin, a mould toxin), and **pause it if her lochia is heavy or bleeding restarts** — 红曲 moves blood, like dang gui. If she's on any blood thinner or statin, ask her doctor first; it's a small ingredient, not worth an interaction.

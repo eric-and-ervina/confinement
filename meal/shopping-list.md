@@ -8,6 +8,7 @@
 | 甘榜 chicken, black chicken | Wet market poultry stalls |
 | Dried herbs (dang gui, astragalus, red dates, longan, goji) | Chinese medical halls (Eu Yan Sang, Ma Kuang), or pre-packed confinement herbal sets |
 | Rice wine 黄酒 / 红糟酒 | Chinese grocer, supermarket, or medical hall (look for confinement-brewed wine) |
+| **Angkak 红曲米** (~50 g) | Chinese medical hall or supermarket — **mum is supplying ours**; sealed and labelled only, not loose |
 | Old ginger, green papaya, leafy greens | Wet market or NTUC FairPrice / Sheng Siong / Cold Storage |
 | Oatmeal, millet, black sesame paste | Supermarket |
 
@@ -50,6 +51,7 @@
 **Dried goods**
 - Red dates, longan, goji berries
 - Dang gui, astragalus — for DIY packs (per pot: 12 g dang gui + 15 g astragalus + 8 red dates + 10 longan + 1 tbsp goji — see [recipe 3](recipes.md#3-herbal-black-chicken-soup-药材鸡汤)); or buy pre-packed herbal sets
+- **Angkak 红曲米 — from mum** (one small pack is plenty: 1–2 tsp per pot, days 12 and 25)
 - Black fungus (wood ear), dried scallops (optional)
 - Peanuts (raw, skin on), black sesame paste
 - Brown sugar, fermented black beans (for steamed fish)

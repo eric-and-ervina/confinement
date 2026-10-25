@@ -19,6 +19,7 @@
 
 - Chinese medical halls (Eu Yan Sang, Ma Kuang, Hockhua, or your neighbourhood 药材店) will weigh loose herbs to these amounts. Tell them it's for **产后 / confinement** — they'll recognise everything.
 - Ask for **无硫 / sulphur-free** where offered — better taste, safer.
+- **红曲米 Angkak** is on the plan now (days 12 and 25, angkak chicken — [recipe 69](recipes.md#69-angkak-chicken-红曲米鸡)). You only need **~50 g** and **mum is bringing it**, so nothing to buy — but if you do, ask for a **sealed, labelled pack** (loose angkak can carry citrinin, a mould toxin) and keep it in the fridge.
 - Or buy a pre-packed confinement herbal set and supplement red dates, ginger, goji, and longan separately.
 
 ## ⛔ Do not buy
