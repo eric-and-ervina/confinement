@@ -21,6 +21,18 @@ Every dish runs on the **four things actually on the counter** — and the only 
 
 ---
 
+## 📊 Picking dishes by score
+
+Every recipe in [`recipes.md`](recipes.md) is scored out of 5 for **ease** (how effortless — active minutes and attention, not skill), **taste**, and **confinement fit** (how well it nourishes her recovery and milk supply). The full sorted scoreboard is at the end of that file. If you only remember three things:
+
+- **Tired day, still excellent (ease 4–5, fit 5):** baked salmon (35), steamed fish (8), braised lean pork (44), peanut & pork rib soup (7), breakfast porridges (5, 11, 12), red date tea (6), baked sweet potato (68).
+- **Best eating (taste 5):** sesame oil chicken (1), beef brisket (49), pork ribs with lotus root & red dates (47), peanut & pork rib soup (7), yellow wine chicken (4), baked salmon (35).
+- **Occasional or supporting (fit 3):** ginger fried rice (14), pork belly braises (43, 46), lettuce (54), zucchini (56) — fine for variety, not the backbone of a day.
+
+> 💡 The scores already include the plan's safety caveats: a wine dish can score 4 on fit because of the feed-first rule, and the angkak chicken (69) sits at 4 because it pauses if her bleeding is still heavy.
+
+---
+
 ## Week 1 — Gentle Recovery 排毒 (Days 1–7)
 
 **Focus:** expel lochia, rest digestion, wound recovery. Light and easy-to-digest only — no heavy tonics.

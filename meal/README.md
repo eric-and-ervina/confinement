@@ -58,7 +58,7 @@ These fill the gaps the original plan (deliberately kept simple) skipped over �
 | File | Contents |
 |---|---|
 | [`meal-plan.md`](meal-plan.md) | The full 28-day plan, day by day, week by week |
-| [`recipes.md`](recipes.md) | Step-by-step recipes for **every** dish in the plan — 8 signature recipes + 61 more (69 total), all set-and-forget on the pressure cooker, air-fryer oven and pan + rack |
+| [`recipes.md`](recipes.md) | Step-by-step recipes for **every** dish in the plan — 8 signature recipes + 61 more (69 total), all set-and-forget on the pressure cooker, air-fryer oven and pan + rack. Each is scored /5 for **ease (how effortless), taste and confinement fit** |
 | [`shopping-list.md`](shopping-list.md) | Grocery staples, where to buy, and time-saving tips |
 | [`herbs-shopping-list.md`](herbs-shopping-list.md) | 🌿 Herb-only shopping checklist — the 6 herbs the regular plan uses, with quantities |
 | [`avoid-limit-card.md`](avoid-limit-card.md) | One-page "avoid / limit" quick-reference for the fridge |

@@ -6,6 +6,22 @@ Every button name below is copied from your machines' panels, not a generic reci
 
 ---
 
+## 📊 Recipe scores — how to read them
+
+Every recipe carries three scores out of 5, so you can pick by how tired you are and by what she needs that day.
+
+| Score | What it measures | 5 means | 3 means |
+|---|---|---|---|
+| **Ease** | **How effortless it is** — active minutes at the counter and how much attention it needs, on this exact gear | load it, press the button, walk away (or one tray / 2 minutes of assembly) | a short sear or a second stage: real timing and attention, still beginner-safe |
+| **Taste** | How good the finished dish is likely to be | a dish you'd cook again after the month is over | plain and functional — fine warm, not exciting |
+| **Confinement** | How well it serves *her*: warm, ginger/sesame base, protein / iron / calcium / DHA, easy digestion, lactation, and the plan's safety rules | a core confinement dish — nourishing and safe as often as she likes | a treat or a filler — fine occasionally, not a staple |
+
+Two honest caveats. These are judgement calls, not lab data, and **nothing here scores below 3** — it is all beginner-safe. And **Ease is about effort, not skill**: a steamed egg custard is low-effort but needs technique (3), while a 45-minute braise you barely touch is high-effort-efficiency (4) — a long cook time is not the same as hard work. The **Confinement** score already accounts for the wine, dang gui and angkak caveats noted in each recipe, so a 4 can still be an excellent dish that just needs the feed-first rule.
+
+> 🏆 The full **scoreboard — all 69, sorted** — is at the end of this file. Start there if you're choosing what to cook tonight.
+
+---
+
 ## 🔧 Your 4 cooking tools (exactly these)
 
 | # | Tool | What's on it | What it cooks |
@@ -103,6 +119,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: days 8, 14, 15, 18, 22, 26*
 
+**Scores — Ease 4/5 · Taste 5/5 · Confinement 5/5** · *One pot, no splatter; the definitive confinement chicken. Wine, so feed-first.*
+
 **Ingredients**
 - 500 g chicken (prefer 甘榜/camp chicken or bone-in thighs)
 - 3 tbsp sesame oil (use roasted, not the pale cooking kind)
@@ -128,6 +146,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: days 15, 16, 18, 21, 26*
 
+**Scores — Ease 3/5 · Taste 4/5 · Confinement 5/5** · *Searing the fish is the only fiddly bit; milky broth and the traditional milk booster.*
+
 **Ingredients**
 - 400 g fish (snakehead 生鱼, threadfin 午鱼, or batang 马鲛) — fillets + bones
 - 1 semi-ripe green papaya, peeled, seeded, chunked
@@ -151,6 +171,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 3. Herbal Black Chicken Soup (药材鸡汤)
 
 *Appears: days 17, 19, 23, 24, 28*
+
+**Scores — Ease 5/5 · Taste 4/5 · Confinement 5/5** · *Blanch, dump, press 美味汤; mild herbal taste. Pause the dang gui if bleeding.*
 
 **Ingredients**
 - 1 black chicken (Silkie 乌鸡), chopped
@@ -190,6 +212,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 20 (days 12 and 25 use mum's angkak version instead — [recipe 69](#69-angkak-chicken-红曲米鸡))*
 
+**Scores — Ease 4/5 · Taste 5/5 · Confinement 4/5** · *One pot and genuinely delicious; 250 ml is the plan's biggest wine dose.*
+
 **Ingredients**
 - 500 g chicken, chopped
 - 250 ml yellow wine (黄酒) or red yeast rice wine (红糟酒)
@@ -210,6 +234,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: days 1, 5*
 
+**Scores — Ease 5/5 · Taste 3/5 · Confinement 5/5** · *Press 浓香粥 and walk away; plain, but gentle on a day-1 stomach.*
+
 **Ingredients**
 - 100 g millet (小米) or rice
 - 1 L water
@@ -227,6 +253,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 6. Red Date & Longan Tea (红枣龙眼茶)
 
 *The bedside drink — make a big pot daily*
+
+**Scores — Ease 5/5 · Taste 4/5 · Confinement 5/5** · *Load it and set 预约; keeps her warm fluids topped up all day.*
 
 **Ingredients**
 - 8 red dates, pitted, sliced
@@ -247,6 +275,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: days 8, 14, 22*
 
+**Scores — Ease 5/5 · Taste 5/5 · Confinement 5/5** · *Press 豆/蹄筋; protein, iron and the traditional peanut lactation support.*
+
 **Ingredients**
 - 400 g pork ribs
 - 100 g raw peanuts (skins on)
@@ -264,6 +294,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 8. Steamed Fish with Ginger (姜丝蒸鱼)
 
 *Appears: days 1, 5, 6, 8, 10, 12, 14, 16, 18, 28 — your most-used fish method*
+
+**Scores — Ease 4/5 · Taste 5/5 · Confinement 5/5** · *Boil, plate, timer; light, clean protein — the most-used fish dish.*
 
 **Ingredients**
 - 1 whole fish (snapper, pomfret, seabass) or thick fillet
@@ -288,6 +320,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 2*
 
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 5/5** · *Two components (congee + fish), both hands-off; gentle week-1 protein.*
+
 **Ingredients**
 - 100 g rice
 - 1 L water
@@ -311,6 +345,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 16*
 
+**Scores — Ease 3/5 · Taste 4/5 · Confinement 5/5** · *Two machine cycles for a richer base; iron-rich black chicken.*
+
 **Ingredients**
 - 100 g rice
 - 200 g black chicken (Silkie), chopped small
@@ -330,6 +366,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 11. Ginger Congee / Ginger Porridge with Egg (姜粥)
 
 *Appears: days 6, 9, 13, 18, 25*
+
+**Scores — Ease 5/5 · Taste 3/5 · Confinement 5/5** · *Just rice, ginger and water; the plainest comfort food in the book.*
 
 **Ingredients**
 - 100 g rice
@@ -351,6 +389,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: days 11, 21, 27*
 
+**Scores — Ease 5/5 · Taste 4/5 · Confinement 5/5** · *Same one-button method, naturally sweet; good week-2 blood-building.*
+
 **Ingredients**
 - 100 g rice
 - 1 L water
@@ -370,6 +410,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 13. Red Date & Longan Oatmeal (红枣龙眼燕麦粥) ⭐ Lactation Breakfast
 
 *Appears: days 4, 7, 10, 14, 15, 17, 19, 23, 26*
+
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 5/5** · *12 minutes at the pan with a stir; oats + warm fluids = the evidence-based lactation breakfast.*
 
 **Ingredients**
 - 60 g rolled oats
@@ -393,6 +435,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 14. Ginger Fried Rice with Chicken & Egg (姜炒饭)
 
 *Appears: days 22, 28*
+
+**Scores — Ease 3/5 · Taste 5/5 · Confinement 3/5** · *Real pan-frying with day-old rice; tasty, but the least 'confinement' dish here.*
 
 **Ingredients**
 - 1 bowl cooked rice (day-old is best)
@@ -424,6 +468,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 1*
 
+**Scores — Ease 5/5 · Taste 3/5 · Confinement 5/5** · *Blanch, dump, press; the gentlest broth, ideal for day 1.*
+
 **Ingredients**
 - 300 g chicken (breast or thigh, bone-in)
 - 1 carrot, chunked
@@ -444,6 +490,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Used in days 1 and 6, and the noodle bowls (recipes 26, 28)*
 
+**Scores — Ease 5/5 · Taste 3/5 · Confinement 5/5** · *A base, not a dish — but one pot powers noodles, congee and egg-drop soup all week.*
+
 **Ingredients**
 - 500 g chicken bones / carcass + 1 breast
 - 8 slices ginger
@@ -462,6 +510,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 17. Red Date & Chicken Soup (红枣鸡汤)
 
 *Appears: days 9, 14*
+
+**Scores — Ease 5/5 · Taste 4/5 · Confinement 5/5** · *Blanch, dump, press; red dates add sweetness and blood-building.*
 
 **Ingredients**
 - 300 g chicken (thighs or breast, bone-in)
@@ -482,6 +532,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 18. Light Fish Soup (清鱼汤)
 
 *Appears: days 2, 4, 7, 9, 13, 20, 25 (the plan's "mild / white / clear fish soup")*
+
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 5/5** · *The boiling-water trick takes practice; light, easily digested fish protein.*
 
 **Ingredients**
 - 300 g fish bones + 100 g fillet (threadfin, snapper, or seabass)
@@ -506,6 +558,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 12*
 
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 5/5** · *One pot, mostly waiting; tofu adds calcium, so keep the fish at a bare simmer.*
+
 **Ingredients**
 - 150 g fish fillet, sliced
 - 200 g soft tofu, cubed
@@ -526,6 +580,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 20. Tofu-Mushroom Soup (豆腐蘑菇汤)
 
 *Appears: days 2, 6, 8 (the plan's "tofu soup")*
+
+**Scores — Ease 4/5 · Taste 3/5 · Confinement 4/5** · *Ten minutes of gentle simmering; the calcium-set tofu is the point, the protein is modest.*
 
 **Ingredients**
 - 200 g soft tofu, cubed
@@ -548,6 +604,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 4*
 
+**Scores — Ease 4/5 · Taste 3/5 · Confinement 4/5** · *Simmer, then a 10-second drizzle; light, but mostly egg — a side, not a meal.*
+
 **Ingredients**
 - 1 egg, beaten
 - 800 ml chicken broth (recipe 16) or water + a few goji berries
@@ -567,6 +625,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 22. Egg & Tomato Soup, warm (番茄蛋汤)
 
 *Appears: day 11*
+
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 4/5** · *Warm and comforting; tomato is acidic, so one bowl if her stomach is tender.*
 
 **Ingredients**
 - 1 ripe tomato, cubed
@@ -589,6 +649,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: days 5, 12 (the plan's "pork rib soup")*
 
+**Scores — Ease 5/5 · Taste 4/5 · Confinement 4/5** · *Blanch, dump, press; ribs are fattier than collar — skim the top.*
+
 **Ingredients**
 - 300 g pork ribs
 - 8 slices ginger
@@ -607,6 +669,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 24. Pork Rib-Corn Soup, light (玉米排骨汤)
 
 *Appears: days 3, 27*
+
+**Scores — Ease 5/5 · Taste 4/5 · Confinement 4/5** · *Corn makes it sweet and kid-friendly; same easy 美味汤 cycle.*
 
 **Ingredients**
 - 300 g pork ribs
@@ -628,6 +692,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 25. Pork Collar & Carrot Soup (猪颈肉萝卜汤)
 
 *Appears: day 10*
+
+**Scores — Ease 5/5 · Taste 4/5 · Confinement 4/5** · *Blanch, dump, press; pork collar keeps it tender and easy to chew.*
 
 **Ingredients**
 - 250 g pork collar, sliced
@@ -651,6 +717,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: days 1, 7 (day 7 = same bowl with a poached egg)*
 
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 4/5** · *One pan, 5 min; satisfying, though mee sua is salty — go light on the soy.*
+
 **Ingredients**
 - 1 bundle mee sua (面线)
 - 600 ml chicken broth (recipe 16)
@@ -672,6 +740,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 27. Sesame-Oil Mee Sua with Shredded Chicken (麻油面线)
 
 *Appears: day 5*
+
+**Scores — Ease 4/5 · Taste 5/5 · Confinement 4/5** · *A gentle toss, not a stir-fry; richer and more warming than the soup version.*
 
 **Ingredients**
 - 1 bundle mee sua
@@ -697,6 +767,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 3*
 
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 4/5** · *Three quick steps in one pan; a nice change from rice.*
+
 **Ingredients**
 - 150 g fresh rice noodles (kway teow / hor fun)
 - 100 g chicken breast, sliced thin
@@ -717,6 +789,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 29. Rice Noodles with Beef & Greens in Broth (牛肉河粉汤)
 
 *Appears: day 11*
+
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 5/5** · *30–60 sec beef poach; the best iron hit in the noodle section.*
 
 **Ingredients**
 - 150 g fresh rice noodles
@@ -745,6 +819,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 2*
 
+**Scores — Ease 3/5 · Taste 4/5 · Confinement 5/5** · *Straining + low heat + covering is real technique; silky protein when it works.*
+
 **Ingredients**
 - 2 eggs
 - 150 ml warm water or light broth (about 1.5× the egg volume)
@@ -769,6 +845,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: days 4 (breast), 13 (thigh)*
 
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 5/5** · *Cut thighs into strips and it is a 15-min timer; gentle, goji-sweet.*
+
 **Ingredients**
 - 1 chicken breast, or 2 boneless thighs cut into strips
 - 1 tbsp goji berries
@@ -791,6 +869,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 9*
 
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 5/5** · *As 31 with more ginger; skip the optional wine for zero alcohol.*
+
 **Ingredients**
 - 1 chicken breast, or 2 boneless thighs cut into strips
 - 8 slices ginger, cut into matchsticks
@@ -812,6 +892,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 33. Steamed Fish with Fermented Black Beans (豆豉蒸鱼)
 
 *Appears: day 22*
+
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 4/5** · *Umami upgrade on steamed fish; fermented beans are salty — easy on the soy.*
 
 **Ingredients**
 - 1 whole fish (pomfret, seabass, or snapper)
@@ -839,6 +921,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 3*
 
+**Scores — Ease 5/5 · Taste 4/5 · Confinement 4/5** · *Pat dry, tray, preset; pomfret is a lovely change but has more bones.*
+
 **Ingredients**
 - 1 pomfret (鲳鱼), cleaned and scored
 - 6 slices ginger
@@ -859,6 +943,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 35. Baked Salmon with Ginger (香烤三文鱼)
 
 *Appears: days 4, 17, 19, 24, 27*
+
+**Scores — Ease 5/5 · Taste 5/5 · Confinement 5/5** · *Pat dry, tray, 8–12 min on 烤鱼; DHA + easy protein — the best fish in the book.*
 
 **Ingredients**
 - 1 salmon fillet, skin on
@@ -881,6 +967,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 11*
 
+**Scores — Ease 5/5 · Taste 4/5 · Confinement 5/5** · *Foolproof and lean; handle gently or it flakes apart.*
+
 **Ingredients**
 - 1 cod fillet, thick
 - 3 slices ginger
@@ -899,6 +987,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 37. Baked Threadfin (香烤午鱼)
 
 *Appears: day 23*
+
+**Scores — Ease 5/5 · Taste 4/5 · Confinement 5/5** · *Firm, forgiving fillets; same preset, 10–14 min.*
 
 **Ingredients**
 - 2 threadfin fillets (午鱼)
@@ -924,6 +1014,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: days 7, 9*
 
+**Scores — Ease 3/5 · Taste 5/5 · Confinement 5/5** · *Velveting + quick timing; beef is the best-absorbed iron in the plan.*
+
 **Ingredients**
 - 150 g beef slices (sirloin or tenderloin)
 - ½ onion, sliced
@@ -946,6 +1038,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 6*
 
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 4/5** · *One pan, 10-min marinade; homely and easy to eat.*
+
 **Ingredients**
 - 150 g lean pork, thinly sliced
 - 100 g mushrooms, sliced
@@ -965,6 +1059,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 40. Sesame-Oil Pork Slices with Ginger (麻油猪肉片) — pan or cooker
 
 *Appears: day 10*
+
+**Scores — Ease 4/5 · Taste 5/5 · Confinement 4/5** · *Ginger-sesame pork is a treat; the 10-min simmer leaves some alcohol.*
 
 **Ingredients**
 - 200 g pork collar or belly, thinly sliced
@@ -987,6 +1083,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 41. Pork Collar with Ginger & Black Fungus (姜耳猪颈肉) — pan or cooker
 
 *Appears: day 13*
+
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 4/5** · *Soak the fungus ahead, then one gentle toss; iron-rich confinement staple.*
 
 **Ingredients**
 - 200 g pork collar, thinly sliced
@@ -1014,6 +1112,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 2*
 
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 4/5** · *Sear + 排骨 preset; savoury-sweet and easy to chew in week 1.*
+
 **Ingredients**
 - 250 g pork collar, sliced
 - 8 slices ginger
@@ -1035,6 +1135,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 43. Braised Pork Belly, Light Soy & Ginger (酱油姜焖五花肉)
 
 *Appears: day 21*
+
+**Scores — Ease 4/5 · Taste 5/5 · Confinement 3/5** · *Meltingly good, but the richest dish — once a week is plenty.*
 
 **Ingredients**
 - 300 g pork belly, cubed
@@ -1058,6 +1160,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 15*
 
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 5/5** · *Sear + 排骨 preset; the week-3 protein workhorse — lean, soft and hands-off.*
+
 **Ingredients**
 - 250 g lean pork, cubed
 - 6 slices ginger
@@ -1078,6 +1182,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 45. Braised Pork Collar with Chestnuts (栗子焖猪颈肉)
 
 *Appears: day 16*
+
+**Scores — Ease 4/5 · Taste 5/5 · Confinement 4/5** · *Chestnuts need a second short cycle; sweet, starchy energy.*
 
 **Ingredients**
 - 250 g pork collar, sliced
@@ -1102,6 +1208,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 23*
 
+**Scores — Ease 4/5 · Taste 5/5 · Confinement 3/5** · *Delicious, but pork belly + chestnuts is the heaviest plate in the plan.*
+
 **Ingredients**
 - 300 g pork belly, cubed
 - 150 g peeled chestnuts
@@ -1122,6 +1230,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 47. Braised Pork Ribs with Lotus Root & Red Dates (莲藕红枣焖排骨)
 
 *Appears: day 20*
+
+**Scores — Ease 4/5 · Taste 5/5 · Confinement 5/5** · *Blanch + sear + press; classic blood-building braise, lotus root keeps a crunch.*
 
 **Ingredients**
 - 300 g pork ribs
@@ -1146,6 +1256,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 27*
 
+**Scores — Ease 4/5 · Taste 5/5 · Confinement 4/5** · *Soak the shiitake, then one pot; the soaking water = free umami.*
+
 **Ingredients**
 - 250 g pork collar, sliced
 - 100 g mushrooms (dried shiitake are best — soak first and use the soaking water)
@@ -1166,6 +1278,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 49. Braised Beef Brisket with Ginger (姜焖牛腩)
 
 *Appears: day 25*
+
+**Scores — Ease 4/5 · Taste 5/5 · Confinement 5/5** · *50–60 min 牛羊肉; the richest iron dish — batch-cook and freeze half.*
 
 **Ingredients**
 - 300 g beef brisket, cubed
@@ -1188,6 +1302,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 50. Braised Lotus Root (焖莲藕)
 
 *Appears: days 12, 24*
+
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 4/5** · *10-min vinegar soak, then a short cycle; fibre + vitamin C.*
 
 **Ingredients**
 - 200 g lotus root, thinly sliced
@@ -1212,6 +1328,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 8*
 
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 4/5** · *Soak-ahead veg side; iron and crunch in one dish.*
+
 **Ingredients**
 - 30 g dried black fungus, soaked and sliced
 - 100 g snow peas
@@ -1231,6 +1349,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 52. Braised Black Fungus with Ginger (姜焖木耳) — pan or cooker
 
 *Appears: day 18*
+
+**Scores — Ease 4/5 · Taste 3/5 · Confinement 4/5** · *Soak, then a 10-min simmer; simple and iron-rich but plain — best beside a saucy braise.*
 
 **Ingredients**
 - 30 g dried black fungus, soaked and sliced
@@ -1263,6 +1383,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: days 2, 19*
 
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 5/5** · *2 minutes at the pan; calcium + vitamin C in one green.*
+
 **Ingredients**
 - 1 bunch choy sum
 - 4 slices ginger
@@ -1283,6 +1405,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 3*
 
+**Scores — Ease 4/5 · Taste 3/5 · Confinement 3/5** · *Fast and mild, but mostly water — the least nutritious green here.*
+
 **Ingredients**
 - 1 head lettuce (romaine or iceberg)
 - 4 slices ginger
@@ -1302,6 +1426,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 55. Stir-Fried Sweet Potato Leaves (炒番薯叶)
 
 *Appears: days 4, 13, 21, 25*
+
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 5/5** · *2 minutes at the pan; local favourite, iron-rich — strip the tough stems.*
 
 **Ingredients**
 - 1 bunch sweet potato leaves (番薯叶)
@@ -1324,6 +1450,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: days 5, 12, 23*
 
+**Scores — Ease 4/5 · Taste 3/5 · Confinement 3/5** · *2 minutes at the pan; mild and easy, fine for variety, not a nutrient standout.*
+
 **Ingredients**
 - 1 zucchini, halved lengthwise and sliced
 - 4 slices ginger
@@ -1342,6 +1470,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 57. Stir-Fried Cabbage with Ginger (姜炒包菜)
 
 *Appears: days 6, 16*
+
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 5/5** · *2–4 minutes at the pan; ginger-forward and warming, cabbage adds calcium and vitamin C.*
 
 **Ingredients**
 - ¼ cabbage, shredded
@@ -1362,6 +1492,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 58. Stir-Fried Broccoli (炒西兰花)
 
 *Appears: days 8, 17, 24*
+
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 5/5** · *The steam-and-cover step matters; its vitamin C boosts iron absorption.*
 
 **Ingredients**
 - 1 head broccoli, cut into florets
@@ -1385,6 +1517,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: days 9, 19*
 
+**Scores — Ease 4/5 · Taste 3/5 · Confinement 4/5** · *The okra slime puts some people off; good fibre for constipation.*
+
 **Ingredients**
 - 8 okra, halved lengthwise
 - 4 slices ginger
@@ -1406,6 +1540,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 10*
 
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 4/5** · *Same method as broccoli, a bit less iron — still a solid side.*
+
 **Ingredients**
 - ½ cauliflower, cut into florets
 - 4 slices ginger
@@ -1425,6 +1561,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 61. Stir-Fried Nai Bai (炒奶白)
 
 *Appears: days 11, 17, 26*
+
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 5/5** · *Tender, mild, calcium-friendly; one of the easiest greens to like.*
 
 **Ingredients**
 - 1 bunch nai bai (milk cabbage)
@@ -1447,6 +1585,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: days 16, 20, 26*
 
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 4/5** · *Folate-rich and quick; don't overcook it or it goes stringy.*
+
 **Ingredients**
 - 1 bunch asparagus, trimmed and cut into thirds
 - 4 slices ginger
@@ -1466,6 +1606,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 63. Stir-Fried Spinach (炒菠菜)
 
 *Appears: days 14, 18, 23, 27*
+
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 4/5** · *Iron and folate, but oxalate-rich — it is not her calcium source.*
 
 **Ingredients**
 - 1 bunch spinach
@@ -1488,6 +1630,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: days 10, 15, 22, 28*
 
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 5/5** · *The calcium champion of the greens; trim the stems so it cooks evenly.*
+
 **Ingredients**
 - 1 bunch kai lan
 - 5 slices ginger
@@ -1508,6 +1652,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 65. Stir-Fried Mixed Vegetables (炒杂菜)
 
 *Appears: days 14, 21, 22, 28*
+
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 4/5** · *Fridge-clearing flexibility; keep the ginger constant.*
 
 **Ingredients**
 - 2 cups mixed vegetables (broccoli, carrot, snow peas, nai bai — whatever's in the fridge)
@@ -1532,6 +1678,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: days 1, 2, 4, 6, 7, 9, 13, 15, 20, 25, 27 (spinach, broccoli, kai lan, choy sum)*
 
+**Scores — Ease 4/5 · Taste 3/5 · Confinement 5/5** · *Boil, dip, dress; the gentlest green — perfect for week 1, a little plain later.*
+
 **Ingredients**
 - 1 bunch greens (spinach, broccoli, kai lan, or choy sum)
 - 3 slices ginger
@@ -1554,6 +1702,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: days 8, 12, 20, 24 (breakfasts), plus week-2 snacks*
 
+**Scores — Ease 4/5 · Taste 4/5 · Confinement 4/5** · *Whisk and warm, 2 minutes; iron + calcium, but the egg is the protein.*
+
 **Ingredients**
 - 4 tbsp black sesame paste (黑芝麻糊 powder/paste)
 - 500 ml warm water
@@ -1572,6 +1722,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 68. Baked Sweet Potato (烤番薯)
 
 *Week-2 snack*
+
+**Scores — Ease 5/5 · Taste 5/5 · Confinement 4/5** · *The oven does everything; sweet, filling fibre — mind the portion if her blood sugar is high.*
 
 **Ingredients**
 - 1–2 sweet potatoes (orange or purple)
@@ -1596,6 +1748,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 ## 69. Angkak Chicken (红曲米鸡)
 
 *Appears: days 12, 25 (swaps in for the yellow wine chicken)*
+
+**Scores — Ease 3/5 · Taste 5/5 · Confinement 4/5** · *Paste step + sear + press + reduce; delicious, but 红曲 is blood-moving — pause if lochia is heavy.*
 
 **Ingredients**
 - 500 g chicken, chopped (甘榜/camp chicken or bone-in thighs)
@@ -1627,3 +1781,103 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 > ⚠️ **Alcohol note (breastfeeding):** as with every wine dish here — the wine is flavour and tradition, **not** a supply booster, and alcohol passes into breastmilk. Use low-alcohol confinement 米酒 and have her feed/pump just before the meal (or wait ~2 hours after it) — this is a lunch dish on both days, so feed-first is the one you'll use. And **do not use arak** for this dish: it's a distilled 30–40% spirit, and a short braise does not cook that off.
 
 > ⚠️ **Angkak note (why only 1–2 tsp):** angkak contains monacolin K — the same compound as the cholesterol drug lovastatin — so at supplement doses (grams a day) it behaves like a medicine. As a teaspoon in a braise it's just a seasoning, which is exactly how it's meant to be used. Two extra cautions: buy **sealed, properly labelled** packs (cheap loose angkak can carry citrinin, a mould toxin), and **pause it if her lochia is heavy or bleeding restarts** — 红曲 moves blood, like dang gui. If she's on any blood thinner or statin, ask her doctor first; it's a small ingredient, not worth an interaction.
+
+---
+
+# 🏆 The Scoreboard — all 69, sorted
+
+Sorted by **confinement fit**, then taste, then ease. Every dish is in the plan for a reason — the tiers just tell you what to reach for on a tired day and what to keep as a treat.
+
+*Ease = how effortless (5 = press and walk away) · Taste = how good it eats · Confinement = how well it serves her recovery and milk supply.*
+
+## Confinement 5/5 — the staples (cook these on repeat)
+
+*35 dishes.*
+
+| # | Dish | Ease | Taste | Confinement |
+|---|---|---|---|---|
+| 7 | Peanut & Pork Rib Soup (花生排骨汤) | 5/5 | 5/5 | **5/5** |
+| 35 | Baked Salmon with Ginger (香烤三文鱼) | 5/5 | 5/5 | **5/5** |
+| 1 | Sesame Oil Chicken (麻油鸡) | 4/5 | 5/5 | **5/5** |
+| 8 | Steamed Fish with Ginger (姜丝蒸鱼) | 4/5 | 5/5 | **5/5** |
+| 47 | Braised Pork Ribs with Lotus Root & Red Dates (莲藕红枣焖排骨) | 4/5 | 5/5 | **5/5** |
+| 49 | Braised Beef Brisket with Ginger (姜焖牛腩) | 4/5 | 5/5 | **5/5** |
+| 38 | Beef with Ginger & Onion (姜葱炒牛肉) — gentle pan | 3/5 | 5/5 | **5/5** |
+| 3 | Herbal Black Chicken Soup (药材鸡汤) | 5/5 | 4/5 | **5/5** |
+| 6 | Red Date & Longan Tea (红枣龙眼茶) | 5/5 | 4/5 | **5/5** |
+| 12 | Red Date Porridge with Egg (红枣粥) | 5/5 | 4/5 | **5/5** |
+| 17 | Red Date & Chicken Soup (红枣鸡汤) | 5/5 | 4/5 | **5/5** |
+| 36 | Baked Cod (香烤鳕鱼) | 5/5 | 4/5 | **5/5** |
+| 37 | Baked Threadfin (香烤午鱼) | 5/5 | 4/5 | **5/5** |
+| 9 | Fish Congee (鱼粥) | 4/5 | 4/5 | **5/5** |
+| 13 | Red Date & Longan Oatmeal (红枣龙眼燕麦粥) ⭐ Lactation Breakfast | 4/5 | 4/5 | **5/5** |
+| 18 | Light Fish Soup (清鱼汤) | 4/5 | 4/5 | **5/5** |
+| 19 | Fish Tofu Soup (鱼片豆腐汤) | 4/5 | 4/5 | **5/5** |
+| 29 | Rice Noodles with Beef & Greens in Broth (牛肉河粉汤) | 4/5 | 4/5 | **5/5** |
+| 31 | Steamed Chicken with Goji (枸杞蒸鸡) | 4/5 | 4/5 | **5/5** |
+| 32 | Steamed Chicken with Ginger (姜汁蒸鸡) | 4/5 | 4/5 | **5/5** |
+| 44 | Braised Lean Pork (焖瘦肉) | 4/5 | 4/5 | **5/5** |
+| 53 | Stir-Fried Choy Sum (炒菜心) | 4/5 | 4/5 | **5/5** |
+| 55 | Stir-Fried Sweet Potato Leaves (炒番薯叶) | 4/5 | 4/5 | **5/5** |
+| 57 | Stir-Fried Cabbage with Ginger (姜炒包菜) | 4/5 | 4/5 | **5/5** |
+| 58 | Stir-Fried Broccoli (炒西兰花) | 4/5 | 4/5 | **5/5** |
+| 61 | Stir-Fried Nai Bai (炒奶白) | 4/5 | 4/5 | **5/5** |
+| 64 | Stir-Fried Kai Lan (炒芥兰) | 4/5 | 4/5 | **5/5** |
+| 2 | Green Papaya Fish Soup (青木瓜鱼汤) ⭐ Traditional Galactagogue | 3/5 | 4/5 | **5/5** |
+| 10 | Black Chicken Congee with Goji (乌鸡枸杞粥) | 3/5 | 4/5 | **5/5** |
+| 30 | Steamed Egg Custard (蒸水蛋) | 3/5 | 4/5 | **5/5** |
+| 5 | Ginger Millet Porridge (姜香小米粥) | 5/5 | 3/5 | **5/5** |
+| 11 | Ginger Congee / Ginger Porridge with Egg (姜粥) | 5/5 | 3/5 | **5/5** |
+| 15 | Clear Chicken-Carrot Broth (鸡汤胡萝卜清汤) | 5/5 | 3/5 | **5/5** |
+| 16 | Chicken Broth (清鸡汤) — the base | 5/5 | 3/5 | **5/5** |
+| 66 | Blanched Greens (白灼菜) | 4/5 | 3/5 | **5/5** |
+
+## Confinement 4/5 — very good, with a caveat or a smaller role
+
+*29 dishes.*
+
+| # | Dish | Ease | Taste | Confinement |
+|---|---|---|---|---|
+| 68 | Baked Sweet Potato (烤番薯) | 5/5 | 5/5 | **4/5** |
+| 4 | Yellow Wine Chicken (黄酒鸡) | 4/5 | 5/5 | **4/5** |
+| 27 | Sesame-Oil Mee Sua with Shredded Chicken (麻油面线) | 4/5 | 5/5 | **4/5** |
+| 40 | Sesame-Oil Pork Slices with Ginger (麻油猪肉片) — pan or cooker | 4/5 | 5/5 | **4/5** |
+| 45 | Braised Pork Collar with Chestnuts (栗子焖猪颈肉) | 4/5 | 5/5 | **4/5** |
+| 48 | Braised Pork Collar with Mushrooms (香菇焖猪颈肉) | 4/5 | 5/5 | **4/5** |
+| 69 | Angkak Chicken (红曲米鸡) | 3/5 | 5/5 | **4/5** |
+| 23 | Clear Pork Rib Soup (清排骨汤) | 5/5 | 4/5 | **4/5** |
+| 24 | Pork Rib-Corn Soup, light (玉米排骨汤) | 5/5 | 4/5 | **4/5** |
+| 25 | Pork Collar & Carrot Soup (猪颈肉萝卜汤) | 5/5 | 4/5 | **4/5** |
+| 34 | Air-Fried Pomfret with Ginger (姜烤鲳鱼) | 5/5 | 4/5 | **4/5** |
+| 22 | Egg & Tomato Soup, warm (番茄蛋汤) | 4/5 | 4/5 | **4/5** |
+| 26 | Mee Sua in Chicken Broth with Shredded Chicken & Egg (鸡汤面线) | 4/5 | 4/5 | **4/5** |
+| 28 | Rice Noodles with Chicken & Bok Choy in Warm Broth (鸡菜汤河粉) | 4/5 | 4/5 | **4/5** |
+| 33 | Steamed Fish with Fermented Black Beans (豆豉蒸鱼) | 4/5 | 4/5 | **4/5** |
+| 39 | Lean Pork Slices with Mushrooms & Ginger (姜菇肉片) — gentle pan | 4/5 | 4/5 | **4/5** |
+| 41 | Pork Collar with Ginger & Black Fungus (姜耳猪颈肉) — pan or cooker | 4/5 | 4/5 | **4/5** |
+| 42 | Braised Pork Collar Slices with Ginger (姜焖猪颈肉) | 4/5 | 4/5 | **4/5** |
+| 50 | Braised Lotus Root (焖莲藕) | 4/5 | 4/5 | **4/5** |
+| 51 | Braised Black Fungus with Snow Peas (木耳荷兰豆) — pan or cooker | 4/5 | 4/5 | **4/5** |
+| 60 | Stir-Fried Cauliflower (炒花菜) | 4/5 | 4/5 | **4/5** |
+| 62 | Stir-Fried Asparagus (炒芦笋) | 4/5 | 4/5 | **4/5** |
+| 63 | Stir-Fried Spinach (炒菠菜) | 4/5 | 4/5 | **4/5** |
+| 65 | Stir-Fried Mixed Vegetables (炒杂菜) | 4/5 | 4/5 | **4/5** |
+| 67 | Black Sesame Paste (黑芝麻糊) | 4/5 | 4/5 | **4/5** |
+| 20 | Tofu-Mushroom Soup (豆腐蘑菇汤) | 4/5 | 3/5 | **4/5** |
+| 21 | Egg-Drop Soup (蛋花汤) | 4/5 | 3/5 | **4/5** |
+| 52 | Braised Black Fungus with Ginger (姜焖木耳) — pan or cooker | 4/5 | 3/5 | **4/5** |
+| 59 | Stir-Fried Okra (炒秋葵) | 4/5 | 3/5 | **4/5** |
+
+## Confinement 3/5 — occasional treats and light sides
+
+*5 dishes.*
+
+| # | Dish | Ease | Taste | Confinement |
+|---|---|---|---|---|
+| 43 | Braised Pork Belly, Light Soy & Ginger (酱油姜焖五花肉) | 4/5 | 5/5 | **3/5** |
+| 46 | Braised Pork Belly with Chestnuts (栗子焖五花肉) | 4/5 | 5/5 | **3/5** |
+| 14 | Ginger Fried Rice with Chicken & Egg (姜炒饭) | 3/5 | 5/5 | **3/5** |
+| 54 | Stir-Fried Lettuce (炒生菜) | 4/5 | 3/5 | **3/5** |
+| 56 | Stir-Fried Zucchini (炒西葫芦) | 4/5 | 3/5 | **3/5** |
+
+> ⚠️ **Still read the recipe notes on the 4s and 3s.** The scores already fold in the caveats: wine dishes (1, 4, 27, 40, 69) want feed-first timing; the dang gui soup (3) pauses if bleeding is heavy; angkak (69) pauses if lochia is bright red; and the rich pork-belly plates (43, 46) are once-a-week food, not daily fuel.
