@@ -20,16 +20,17 @@
 
 | # | Tool | Role in this plan | Bought? |
 |---|---|---|---|
-| 1 | **Joyoung 5L electric pressure cooker** | rice, congee/porridge/oatmeal, soups, braises, seasoned chicken — **set-and-forget** | ✅ (shopping list) |
-| 2 | **Steaming rack + a deep pot of boiling water** | every steamed dish (fish, egg custard, chicken, sweet potato) | ✅ already owned |
-| 3 | **AUX 10L air-fryer oven** | baked / air-fried fish dinners + oven snacks | ✅ (shopping list) |
-| 4 | **A plain pot / gentle pan (gas hob)** | vegetable sides (stir-fried **or** blanched), simmering noodles/broth, poaching eggs | ✅ already have |
+| 1 | **Joyoung electric pressure cooker** (精煮饭 · 浓香粥 · 美味汤 · 鸡鸭肉 · 排骨 · 牛羊肉 · 开盖收汁 · 预约) | rice, congee, soups, braises, seasoned chicken, overnight breakfasts — **set-and-forget** | ✅ (shopping list) |
+| 2 | **Stainless frying pan + the wire rack that sits inside it** — this is the steamer; a lid (or a plate/foil) on top | every steamed dish (fish, egg custard, chicken) | ✅ already owned |
+| 3 | **AUX air-fryer oven** (烤鱼 · 烤鸡 · 红薯 · 预约) | baked / air-fried fish dinners, sweet potato, oven snacks | ✅ (shopping list) |
+| 4 | **The same frying pan, rack out** (gas hob) | vegetable sides (stir-fried **or** blanched), simmering noodles/broth, poaching eggs, the red-date tea | ✅ already have |
 
-**Two things to keep in mind:**
-- **The AUX oven's "steam" is micro-steam/humidity, not a real steamer** — so we don't steam in it. Real steaming is done with the rack + boiling water (foolproof).
-- **On the gas hob:** the only pan work is the gentle, medium-heat vegetable stir-fries (or you can blanch the veg instead) — nothing with hot oil or a high flame. All the real "cooking" is set-and-forget in the electric appliances.
+**Three things to keep in mind:**
+- **The AUX oven can't steam** — its panel is bake/fry presets only (there's no 蒸 mode), and a hot-air oven can't hold 100 °C steam anyway. Real steaming is the pan + rack + lid, which is just as foolproof.
+- **The pan is shallow**, so a tight lid matters and anything steaming over 12 min gets a **top-up of boiling water at the 10-minute mark**. Fish and egg custard (8–12 min) are its sweet spot; the sweet potato goes in the oven instead.
+- **On the gas hob:** the only pan work is the gentle, medium-heat vegetable stir-fries (or blanch the veg instead) — nothing with hot oil or a high flame. All the real "cooking" is set-and-forget in the electric appliances.
 
-**Right-sized to-cook-on-hand:** get **2 heatproof plates/bowls that fit on the steam rack** (so you can steam two dishes at once — e.g. fish + egg custard), and a **kettle** to make fast boiling water for the white-fish-broth trick. Both are cheap and usually already in a kitchen.
+**Right-sized to-cook-on-hand:** get **2 small heatproof plates/bowls that still fit under the pan's lid** (~20–22 cm — so you can steam two dishes at once, e.g. fish + egg custard), and a **kettle** for fast boiling water — for the white-broth trick *and* for the mid-steam top-up. Both are cheap and usually already in a kitchen.
 
 ---
 
@@ -84,8 +85,8 @@
 
 ## ⏰ Husband Time-Savers
 
-1. **Batch-cook with the pressure cooker — 2–3 big pots per week:** herbal chicken soup, pork rib soup, fish soup (each ~set-and-forget in the 煲汤 program). Reheat daily — soups taste *better* the next day.
-2. **Fish soup trick:** fry fish bones + ginger first in the **pressure cooker's 开盖煮 open-lid**, then add *boiling* water → instantly milky white broth.
+1. **Batch-cook with the pressure cooker — 2–3 big pots per week:** herbal chicken soup, pork rib soup, fish soup (each set-and-forget on **美味汤**). Reheat daily — soups taste *better* the next day.
+2. **Fish soup trick:** fry the bones + ginger first on the cooker's **开盖收汁** (or in the pan if that button won't heat cold), then add *boiling* water → instantly milky white broth.
 3. **Prep the night before:** slice ginger, portion vegetables, marinate meats. Morning meals then take ~15 minutes.
 4. **Bedside thermos:** fill with warm red date & longan tea 2× daily so she sips warm fluids constantly — aim for ~2–3 L/day of warm liquids total (fluids support supply more than any single food).
 5. **Freeze portions:** double any soup recipe and freeze half in meal-size containers for days you're short on time.

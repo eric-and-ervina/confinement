@@ -1,33 +1,61 @@
-# 👨‍🍳 The Complete Recipe Book — Set-and-Forget Two-Appliance Edition
+# 👨‍🍳 The Complete Recipe Book — Your Kitchen Edition
 
-Step-by-step recipes for **every** dish in the 28-day plan, rewritten so a cooking novice (dad-as-月嫂) can run them almost entirely on **electric appliances**. Recipes 1–8 are the signature dishes; 9–69 cover everything else that appears in [`meal-plan.md`](meal-plan.md) — 69 is mum's angkak chicken, an add-on from the family. All quantities serve 1–2 people (scale up as needed).
+Step-by-step recipes for **every** dish in the 28-day plan, written so a cooking novice (dad-as-月嫂) can run them almost entirely on the gear that is actually on the counter: your **Joyoung electric pressure cooker**, your **AUX air-fryer oven**, your **stainless frying pan with the wire rack inside it** (that pan *is* the steamer), and one gas ring. Recipes 1–8 are the signature dishes; 9–69 cover everything else in [`meal-plan.md`](meal-plan.md) — 69 is mum's angkak chicken, an add-on from the family. All quantities serve 1–2 people (scale up as needed).
 
-If you already have the original (stove-heavy) version, this replaces it. Nothing fancy, no oil-splatter, no close-up stove work.
+Every button name below is copied from your machines' panels, not a generic recipe's. Nothing here needs a wok, a deep stockpot, a real steamer, or a hot high flame.
 
 ---
 
-## 🔧 Your 4 cooking tools (that's it)
+## 🔧 Your 4 cooking tools (exactly these)
 
-This whole plan runs on **four cooking setups** — the two bought appliances, the steaming rack you already own, and the boiling/simmering pot (plus an ordinary pan for the handful of "gentle pan" dishes):
-
-| # | Tool | Where it came from | What it cooks |
+| # | Tool | What's on it | What it cooks |
 |---|---|---|---|
-| 1 | **Joyoung 5L electric pressure cooker** | your chosen shopping list | rice, congee/porridge/oatmeal, soups, braises, seasoned chicken — **set-and-forget** |
-| 2 | **Steaming rack + a deep pot of boiling water** (on the gas hob) | already owned ("short steaming rack") | every steamed dish — fish, egg custard, chicken, sweet potato |
-| 3 | **AUX 10L air-fryer oven** | your chosen shopping list | baked / air-fried / roasted fish, plus toasted/oven snacks |
-| 4 | **A plain pot of boiling/gentle water** (gas hob) | already have | vegetable sides (stir-fried **or** blanched), simmering noodles/broth, poaching eggs in broth |
+| 1 | **Joyoung electric pressure cooker** | 精煮饭 · 快速饭 · 浓香粥 · 快速粥 · 美味汤 · 鸡鸭肉 · 排骨 · 牛羊肉 · 豆/蹄筋 · 开盖收汁 · 口感 · 保温 · **预约** | rice, congee, soups, braises, chicken — **set-and-forget** |
+| 2 | **Stainless frying pan + the wire rack that sits inside it** — this is the steamer | gas hob, plus a lid (or a plate / foil) | every steamed dish — fish, egg custard, chicken |
+| 3 | **AUX air-fryer oven** | 烤鱼 · 烤鸡 · 鸡翅 · 红薯 · 蛋挞 · 蛋糕 · 披萨 · 牛排 · 薯条 · 炸虾 · 汉堡 · **预约** | baked fish dinners, sweet potato, toasted snacks |
+| 4 | **The same frying pan, rack out** | gas hob | greens, stir-fries, noodles, poached eggs, the red-date tea |
 
-> 💡 **And one ordinary pan** for the few "gentle pan" dishes (fried rice, beef/lean-pork cook-ups, the black-fungus tosses, dry mee sua) — cooked on *low–medium heat*, never high flame, so it stays beginner-safe.
+> 💡 **The pan does double duty** — it is the steamer *and* the soup / noodle / stir-fry vessel. That's why the plan is ordered the way it is: the pan is busy a few minutes at a time, the pressure cooker carries the long work, and the oven runs on its own.
 
-> ⚠️ **A note on "steam" (important).** Your AUX oven's "steam" is *micro-steam / humidity injection* inside a hot-air oven — it is **not** a real steamer that holds 100 °C steam. Real steamed dishes (whole steamed fish, silky egg custard, steamed chicken) would not come out right there.
->
-> That's fine — **you don't need it to steam.** Proper steaming bowl-style is done with your **steaming rack + a pot of boiling water**: you literally just boil water and let the steam cook the food. It's the classic, foolproof method — no skill, no splatter, no risk. **Every "steamed" dish in this book uses the rack + pot, not the air-fryer oven.**
+### The buttons, as printed on your machines
+
+| This book used to say | Press this instead |
+|---|---|
+| "rice preset" | **精煮饭** — or **快速饭** if you forgot to start it early |
+| "porridge / congee" | **浓香粥** (thick — the default here); **快速粥** if you're running late |
+| "煲汤 / soup" | **美味汤** |
+| "chicken programme" | **鸡鸭肉** |
+| "meat programme" | **排骨** for ribs / pork collar / pork belly · **牛羊肉** for beef |
+| "beans" | **豆/蹄筋** — for the peanut soup (recipe 7) |
+| "open-lid (开盖煮)" | **开盖收汁** |
+| "keep warm" | **保温** |
+| "delay start" | **预约** — see the overnight trick below |
+| "texture" | **口感** → 偏软 / 适中 / 偏硬 (偏软 for congee, 适中 for rice) |
+
+> ⚠️ **Test one thing before day 1.** Every braise here sears the ginger and meat *inside the pot* using **开盖收汁**. On some Joyoung models that button only unlocks after a cooking cycle — it may not heat a cold pot. Test it once: a teaspoon of sesame oil and one ginger slice, press **开盖收汁**, watch whether it heats. If it does, cook every braise as written. **If it doesn't, sear in the frying pan and tip everything into the pressure cooker** — same dish, one extra pan to wash. Nothing else in this book depends on it.
+
+### Steaming in a frying pan — the one technique to get right
+
+Your rack lives inside a **frying pan**, not a deep pot, so the water is shallow. That's fine — with four habits:
+
+1. **Water to just below the rack** (~2 cm). The plate of food sits *on* the rack, above the waterline.
+2. **Always lid it** — a tight pan lid, or a plate or foil that overhangs the rim. Escaping steam is cooking time lost, and it's why pan-steaming gets a bad name.
+3. **Top up at the 10-minute mark** for anything steaming longer than 12 min: kettle in one hand, pour *boiling* water down the inside edge, away from the food. Never cold water, and never let it run dry.
+4. **Keep the flame under the pan**, not licking up the sides.
+
+With a shallow pan, **fish and egg custard (8–12 min) are the sweet spot**; long steams are the thing to avoid. So in this book:
+
+- the **20-minute sweet potato** goes in the oven on the **红薯** preset (recipe 68),
+- **chicken thighs** get cut into strips (12–15 min) or poached in the pressure cooker (recipes 31–32),
+- nothing steams for more than ~15 min in the pan.
+
+> **The AUX oven can't steam.** Its panel is bake/fry presets only (烤鱼, 烤鸡, 红薯…) — there is no 蒸 mode, and a hot-air oven can't hold 100 °C steam anyway. Every "steamed" dish here is the **pan + rack + lid**. That's the classic method regardless: water boils, plate on the rack, lid on, timer runs.
 
 ### The gas hob's only job
-The gas hob appears in this book in **three safe, beginner-friendly roles only** — nothing with hot-oil splatter or a scary high flame:
-1. **Boiling water** — for the steamer rack and for blanching veggies.
-2. **Gentle simmering** — warming broth and simmering noodles/poached eggs in it.
-3. **Gentle medium-heat stir-fry** — the vegetable sides only; you keep the heat on *medium* (not roaring), so it's splatter-free (see the Greens section).
+The hob appears in **three safe roles only** — nothing with hot-oil splatter or a scary high flame:
+1. **Boiling water** — under the steam rack, and for blanching.
+2. **Gentle simmering** — broth, noodles, poached eggs, the red-date tea.
+3. **Gentle medium-heat stir-fry** — the vegetable sides only; heat on *medium* (never roaring), so it stays splatter-free (see the Greens section).
 
 Everything that needs real time under heat (rice, soups, braises, fish) happens **set-and-forget** in the **pressure cooker** or the **air-fryer oven**.
 
@@ -35,18 +63,28 @@ Everything that needs real time under heat (rice, soups, braises, fish) happens 
 
 ## 🧠 The 5-minute method map
 
-Memorise one line and the whole plan makes sense:
+| What you want | Method | Time |
+|---|---|---|
+| Rice | **精煮饭** | 25–35 min, unattended |
+| Congee / porridge | **浓香粥** (or **快速粥**) | unattended |
+| Oatmeal | simmer in the pan | 12 min |
+| Soup | **美味汤** | 25–35 min, unattended |
+| Braise / seasoned chicken | **开盖收汁** sear → close + **鸡鸭肉** / **排骨** / **牛羊肉** | mostly unattended |
+| Steamed fish / egg / chicken | pan + rack + lid | 8–15 min, timer only |
+| Fish dinner | **烤鱼** preset on the AUX oven | 8–18 min, timer only |
+| Sweet potato (snack) | **红薯** preset on the AUX oven | unattended |
+| Greens | gentle stir-fry in the pan, or blanch | 1–3 min |
+| Noodle bowl | simmer in pre-made broth, in the pan | 2–3 min |
 
-| What you want | Method | Time | Appliance |
-|---|---|---|---|
-| Rice | 🍚 preset | set-and-forget | pressure cooker |
-| Congee / porridge / oatmeal | 🍲/porridge presets | set-and-forget | pressure cooker |
-| Soup | 煲汤 preset | set-and-forget | pressure cooker |
-| Braise / seasoned chicken | 开盖煮 sear → close + programme | mostly set-and-forget | pressure cooker |
-| Steamed fish / egg / chicken / sweet potato | boiling water + rack | timer only | steam rack + pot |
-| Fish dinner | bake / air-fry | timer only | air-fryer oven |
-| Greens | gentle stir-fry OR blanch | 1–3 min | boiling pot / gentle pan |
-| Noodle bowl | simmer in pre-made broth | 2–3 min | simmering pot |
+### ⏰ The overnight trick (预约) — the least effort in this book
+
+**预约** on the pressure cooker is the single best feature in the house for a newborn month. Load it at night, wake up to breakfast:
+
+1. **10.30 pm:** rice or millet + water + ginger and/or red dates in the pot, lid on, **预约** set so it's ready around 6.30 am (that's your 8 hours).
+2. **Morning:** it's done and sitting on **保温**. Boil the eggs in the pan while you're at it — breakfast is two minutes of work.
+3. Same trick for congee (recipes 9–12), the red-date/longan base for the oatmeal (13 — just add oats in the morning) and the red-date tea (6).
+
+Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herbs only** — never meat, fish or egg in a delayed pot, which would sit warm for hours before cooking. And check your model's 预约 once: if it counts down *to start* rather than *to finish*, set it to (ready-time − cook-time) and it lands the same way.
 
 ---
 
@@ -73,11 +111,11 @@ Memorise one line and the whole plan makes sense:
 - 1 tbsp brown sugar (optional)
 
 **Method (pressure cooker — one pot, no splatter)**
-1. Set the pressure cooker to **开盖煮 (open-lid)**, warm the sesame oil inside the pot.
+1. Set the pressure cooker to **开盖收汁 (open-lid)**, warm the sesame oil inside the pot.
 2. Fry the ginger slices until golden and fragrant (5–7 min) — this is where the flavour lives.
 3. Add the chicken, sear until golden on all sides.
 4. Pour in rice wine, then enough water to barely cover.
-5. Close the lid, select the **chicken / 收汁 / meat** programme, cook ~25–30 min until tender.
+5. Close the lid, select **鸡鸭肉** and cook ~25–30 min until tender.
 6. Quick or natural release; add sugar if you like. Serve with rice or 面线.
 
 **Trick:** the open-lid sear inside the pot gives you golden, aromatic chicken without ever using the stove or dealing with splatter.
@@ -98,10 +136,10 @@ Memorise one line and the whole plan makes sense:
 - Salt to taste (light)
 
 **Method (pressure cooker, milky broth kept simple)**
-1. Set the pressure cooker to **开盖煮 (open-lid)**, heat a little sesame oil.
+1. Set the pressure cooker to **开盖收汁 (open-lid)**, heat a little sesame oil.
 2. Fry the ginger until fragrant, then the fish (bones first, then fillets) until lightly golden.
-3. Pour in **boiling** water (from your kettle or hob-boiled pot).
-4. Add the papaya chunks. Close the lid, select **煲汤 / soup**, cook ~20–25 min until papaya is soft.
+3. Pour in **boiling** water — straight from the kettle, or boiled in the pan.
+4. Add the papaya chunks. Close the lid, select **美味汤**, cook ~20–25 min until papaya is soft.
 5. Season lightly, serve hot.
 
 **Trick:** frying the fish + adding boiling water = the white, milky colour. Never add cold water.
@@ -136,8 +174,8 @@ Memorise one line and the whole plan makes sense:
 **Method (pressure cooker — the easiest big soup you'll make)**
 1. Blanch the chicken in boiling water 2 min, drain (removes scum).
 2. **Assemble the pack:** rinse the herbs (except goji). Either tie them in a muslin bag/cloth, or add them loose — if loose, just scoop the big slices out before serving.
-3. Add the chicken, herbs, ginger and 2 L water to the pressure cooker. Close the lid, select **煲汤 / soup**, cook ~25–30 min (deep, long-simmer flavour in a fraction of the stove time).
-4. Let it naturally release. Add the goji in the last 10–15 min (either re-close briefly or stir in and leave covered) so they plump but keep their colour.
+3. Add the chicken, herbs, ginger and 2 L water to the pressure cooker. Close the lid, select **美味汤**, cook ~25–30 min (deep, long-simmer flavour in a fraction of the stove time).
+4. Natural release, then open and stir in the goji; lid back on and leave 5 min — the residual heat plumps them without dulling the colour. (Or just add them at the start if you'd rather not open the pot.)
 5. Season lightly. Remove the herb bag (or scoop out the large pieces). Drink the soup, eat the chicken.
 
 **Shortcut:** pre-packed confinement herbal packs (Eu Yan Sang, Ma Kuang, any Chinese medical hall) are built for exactly this — zero measuring. If using one, follow the pack's weight (typically one pack per 2 L), and add goji at the end if it isn't already inside.
@@ -160,9 +198,9 @@ Memorise one line and the whole plan makes sense:
 - 50 g black fungus (soaked, optional)
 
 **Method (pressure cooker)**
-1. Set the pressure cooker to **开盖煮 (open-lid)**, heat the sesame oil, fry the ginger until golden. Add the chicken, sear well.
+1. Set the pressure cooker to **开盖收汁 (open-lid)**, heat the sesame oil, fry the ginger until golden. Add the chicken, sear well.
 2. Add black fungus, then pour in the yellow wine and a splash of water.
-3. Close the lid, select the **chicken / 收汁 / meat** programme, cook ~20–25 min so the wine mellows. Serve hot over rice.
+3. Close the lid, select **鸡鸭肉** and cook ~20–25 min so the wine mellows. Serve hot over rice.
 
 > ⚠️ **Alcohol note (breastfeeding):** alcohol doesn't boost milk supply and passes into breastmilk — the wine is for flavour and tradition. Use low-alcohol confinement wine to keep the alcohol content minimal, and have her feed/pump just before the meal (or wait ~2 hours after it) — cooking it at dinner is still the easiest.
 
@@ -181,8 +219,8 @@ Memorise one line and the whole plan makes sense:
 
 **Method (pressure cooker — set-and-forget)**
 1. Rinse the millet. Put water + ginger + red dates + millet into the pressure cooker.
-2. Select **粥 / porridge** and let it cook; it will be thick and soft when done.
-3. Top with a soft-boiled egg (boiled on the hob earlier). Sweeten with a little brown sugar if she likes.
+2. Select **浓香粥** and let it cook; it will be thick and soft when done.
+3. Top with a soft-boiled egg (boiled in the pan while the porridge finished). Sweeten with a little brown sugar if she likes.
 
 ---
 
@@ -197,9 +235,11 @@ Memorise one line and the whole plan makes sense:
 - 1.5 L water
 - Brown sugar to taste (optional)
 
-**Method (pressure cooker or hob pot — both easy)**
-1. Simmer everything in a pot 30–40 min until the water turns amber and fragrant. (Use the pressure cooker's **开盖煮 / open-lid** on low, or simply a pot of gently boiled water on the hob — no skill needed either way.)
-2. Strain into a thermos. Refill the bedside flask 2× daily. Warm, never cold.
+**Method (pressure cooker — set-and-forget)**
+1. Everything into the pressure cooker with the water. **美味汤**, 10–15 min — or set **预约** overnight so a warm thermos is waiting when you wake.
+2. Natural release, strain into a thermos. Refill the bedside flask 2× daily. Warm, never cold.
+
+**If the cooker's busy:** simmer the same ingredients in the frying pan, lid on, low heat, 25–30 min — top up with boiling water if it reduces too far.
 
 ---
 
@@ -216,7 +256,7 @@ Memorise one line and the whole plan makes sense:
 
 **Method (pressure cooker)**
 1. Blanch ribs 2 min, drain.
-2. Add all ingredients + water to the pressure cooker. Close the lid, select **煲汤 / soup**, cook ~30 min (falls-off-the-bone tender in a fraction of stove time).
+2. Add all ingredients + water to the pressure cooker. Close the lid, select **豆/蹄筋** — it's built for beans and peanuts — and cook ~30 min (falls-off-the-bone tender in a fraction of stove time).
 3. Season lightly. Great for strength and (with the red dates) blood-building.
 
 ---
@@ -232,17 +272,17 @@ Memorise one line and the whole plan makes sense:
 - 1 tbsp light soy sauce
 - 1 tsp sesame oil (drizzle at the end)
 
-**Method (steaming rack + pot of boiling water — the foolproof way)**
-1. Set up the **steaming rack** in a deep pot, add water below the rack, bring to a rolling boil.
-2. Score the fish, stuff ginger strips into the cuts and cavity. Place on a heatproof plate on the rack, cover the pot.
-3. Steam over high heat 8–12 min (10 min per 2.5 cm thickness).
-4. Discard watery fish juice, top with fresh ginger + spring onion, drizzle soy + hot sesame oil (heat the oil in a tiny pot or microwave).
+**Method (frying pan + rack + lid — the foolproof way)**
+1. Rack into the **frying pan**, water to just below it (~2 cm), lid on, bring to a rolling boil.
+2. Score the fish, stuff ginger strips into the cuts and cavity. Place on a heatproof plate on the rack, lid back on.
+3. Steam over high heat 8–12 min (10 min per 2.5 cm thickness) — under 12 min, so no top-up needed.
+4. Discard the watery fish juice, top with fresh ginger + spring onion, drizzle soy + hot sesame oil (heat the oil in a metal ladle over the flame, or in the microwave).
 
 ---
 
 # 🍚 Congee, Porridge & Oatmeal
 
-> **All of these use the pressure cooker's porridge/presets — you just combine ingredients, push a button, and let it finish.** Times are approximate; the machine handles the timing.
+> **All of these run on the pressure cooker's 浓香粥 (or 快速粥) — combine the ingredients, press the button, walk away.** Times are approximate; the machine handles the timing. And every one of them can be loaded the night before on **预约**.
 
 ## 9. Fish Congee (鱼粥)
 
@@ -258,8 +298,8 @@ Memorise one line and the whole plan makes sense:
 - Spring onion, to finish
 
 **Method**
-1. Rinse rice. Put rice + water + ginger in the pressure cooker, select **粥 / porridge**, cook until thick (machine timing).
-2. Meanwhile **air-fry the fish in the AUX oven** (so it stays sweet and tender) or gently poach it in hot water on the hob; flake into chunks.
+1. Rinse rice. Put rice + water + ginger in the pressure cooker, select **浓香粥**, cook until thick (machine timing).
+2. Meanwhile **烤鱼** preset on the AUX oven, 10–12 min (keeps the fish sweet and tender), or poach it in the pan; flake into chunks.
 3. Fold the fish into the congee, season, let sit covered 5 min.
 4. Top with spring onion, serve hot.
 
@@ -280,8 +320,8 @@ Memorise one line and the whole plan makes sense:
 - Salt to taste
 
 **Method**
-1. Rinse rice. Put black chicken + ginger + water in the pressure cooker; do a short **煲汤 / soup** cycle (~15–20 min) to build a rich base, or just go straight in.
-2. Add rice, select **粥 / porridge**, cook until thick.
+1. Rinse rice. Put black chicken + ginger + water in the pressure cooker; do a short **美味汤** cycle (~15–20 min) to build a rich base — or just skip to step 2, it's still good.
+2. Quick-release, open the lid, add the rice, select **浓香粥**, cook until thick.
 3. Add goji in the last 10 min so they plump but keep their colour.
 4. Season lightly. The chicken is tender enough to eat straight from the congee.
 
@@ -300,7 +340,7 @@ Memorise one line and the whole plan makes sense:
 - Few drops sesame oil
 
 **Method**
-1. Put water + ginger + rinsed rice in the pressure cooker, select **粥 / porridge**, cook until thick and soft.
+1. Put water + ginger + rinsed rice in the pressure cooker, select **浓香粥**, cook until thick and soft.
 2. Season lightly. Serve with a soft-boiled or poached egg on top and a few drops of sesame oil.
 
 **Variation (day 3):** *Ginger red-date porridge* = add 6 pitted red dates with the rice for extra sweetness and blood-building. *Plain congee* (week-1 snack) = simply omit the ginger.
@@ -319,8 +359,8 @@ Memorise one line and the whole plan makes sense:
 - Brown sugar to taste (optional)
 
 **Method**
-1. Put the red dates in the water in the pressure cooker, do a quick warm-up (~5–10 min open-lid) to infuse.
-2. Add rinsed rice, select **粥 / porridge**, cook until thick.
+1. Put the red dates in the water in the pressure cooker and simmer on **开盖收汁** ~5–10 min to infuse — or skip this entirely and cook dates + rice together, they infuse anyway.
+2. Add rinsed rice, select **浓香粥**, cook until thick.
 3. Sweeten lightly with brown sugar if she likes, top with a soft-boiled egg.
 
 **Note:** this is the "gentle sweet" porridge — ideal for mornings when she wants comfort, and the red dates support blood-building in week 2.
@@ -339,10 +379,12 @@ Memorise one line and the whole plan makes sense:
 - 1 egg (optional)
 - Brown sugar to taste
 
-**Method (set-and-forget or 5-minute hob)**
-1. In the **pressure cooker (open-lid / 开盖煮)** OR a hob pot, simmer red dates + longan in the water ~10 min to make a naturally sweet base.
-2. Add oats, cook 5–7 min, stirring, until thick and creamy. (On the pressure cooker use a gentle low-heat open-lid setting; on the hob just keep it on low and stir.)
-3. Sweeten lightly. Top with a soft-boiled egg if she wants extra protein.
+**Method (frying pan, 12 minutes)**
+1. Simmer red dates + longan in the water ~10 min — that's the sweet base.
+2. Add oats, cook 5–7 min on low, stirring, until thick and creamy.
+3. Sweeten lightly. Top with a soft-boiled egg — that egg is the protein, so it isn't optional.
+
+> 💡 **Not a pressure-cooker dish.** Oats are five minutes on the hob and they foam under pressure — leave the machine for rice, congee and soup.
 
 **Trick:** oats + warm fluids are a proven lactation duo — in week 3 this is your milk-supply breakfast. Make a big batch of the date/longan base and reheat each morning.
 
@@ -376,7 +418,7 @@ Memorise one line and the whole plan makes sense:
 
 # 🍲 Soups & Broths
 
-> **The gas hob's job in here is zero-pots-on-high.** Every soup below is set-and-forget in the pressure cooker's **煲汤 / soup** program (deep flavour in ~25–35 min instead of 1.5–2 h on a stove). For the fish soups, you first do a quick **open-lid sear of the bones** so the broth goes milky-white — still all inside the pressure cooker.
+> **The gas hob's job in here is zero-pots-on-high.** Every soup below is set-and-forget on **美味汤** — press it, then set the minutes with **时间/温度 + +/−** (its own default runs long; the times below are what you dial in). Deep flavour in ~25–35 min instead of 1.5–2 h on a stove. For the fish soups, you first brown the bones on **开盖收汁** (or in the pan, if that button won't heat a cold pot) so the broth goes milky-white — still one pot.
 
 ## 15. Clear Chicken-Carrot Broth (鸡汤胡萝卜清汤)
 
@@ -391,7 +433,7 @@ Memorise one line and the whole plan makes sense:
 
 **Method**
 1. Blanch the chicken in boiling water 2 min, drain (cleaner broth).
-2. Add everything + water to the pressure cooker. Close the lid, select **煲汤 / soup**, cook ~25–30 min.
+2. Add everything + water to the pressure cooker. Close the lid, select **美味汤**, cook ~25–30 min.
 3. Season lightly. Serve hot with the tender chicken and carrot.
 
 **Note:** this is the lightest soup of the plan — perfect for day 1 when digestion needs gentle handling.
@@ -410,7 +452,7 @@ Memorise one line and the whole plan makes sense:
 
 **Method**
 1. Blanch the bones + breast 2–3 min, rinse well.
-2. Put everything in the pressure cooker. Close the lid, select **煲汤 / soup**, cook ~30–35 min.
+2. Put everything in the pressure cooker. Close the lid, select **美味汤**, cook ~30–35 min.
 3. Strain, season lightly. Shred the breast meat to use in noodle bowls.
 
 **Trick:** batch-cook a big pot and freeze in meal-size portions — this broth powers mee sua, congee, and egg-drop soup all week.
@@ -430,7 +472,7 @@ Memorise one line and the whole plan makes sense:
 
 **Method**
 1. Blanch chicken 2 min, drain.
-2. Add chicken + red dates + ginger + water to the pressure cooker. Select **煲汤 / soup**, cook ~25–30 min.
+2. Add chicken + red dates + ginger + water to the pressure cooker. Select **美味汤**, cook ~25–30 min.
 3. Season lightly. Serve hot.
 
 **Note:** the red dates give this a natural sweetness and a blood-building boost — a week-2 staple.
@@ -450,10 +492,10 @@ Memorise one line and the whole plan makes sense:
 - Spring onion, to finish
 
 **Method**
-1. Set the pressure cooker to **开盖煮 (open-lid)**, heat the sesame oil, fry the ginger until fragrant.
+1. Set the pressure cooker to **开盖收汁 (open-lid)**, heat the sesame oil, fry the ginger until fragrant.
 2. Add the fish bones, fry until lightly golden.
 3. Pour in **boiling** water — the broth turns milky white instantly.
-4. Close the lid, select **煲汤 / soup**, cook ~15 min; then add the fillet slices for the last 3–5 min (open lid, gentle heat) so they stay tender.
+4. Close the lid, **美味汤**, ~15 min. Quick-release, open the lid, slide in the fillet slices and cook **开盖收汁** 3–5 min so they stay tender.
 5. Season lightly, top with spring onion, serve hot.
 
 **Trick:** same white-broth rule as the papaya fish soup — boiling water only, never cold.
@@ -474,7 +516,7 @@ Memorise one line and the whole plan makes sense:
 - Spring onion, to finish
 
 **Method**
-1. Set the pressure cooker to **开盖煮 (open-lid)**, heat the sesame oil, fry the ginger.
+1. Set the pressure cooker to **开盖收汁 (open-lid)**, heat the sesame oil, fry the ginger.
 2. Pour in boiling water, add the tofu, simmer 10 min (gentle open-lid heat).
 3. Slide in fish slices, simmer 2–3 min until just opaque (don't boil hard).
 4. Season, top with spring onion, serve hot.
@@ -495,7 +537,7 @@ Memorise one line and the whole plan makes sense:
 - Spring onion, to finish
 
 **Method**
-1. In the pressure cooker (open-lid gentle heat) or a hob pot, simmer the ginger in the broth 10 min.
+1. In the **frying pan**, simmer the ginger in the broth 10 min.
 2. Add mushrooms, simmer 5 min.
 3. Add tofu cubes, simmer 5 more min — tofu just needs warming through.
 4. Season with light soy + sesame oil, top with spring onion, serve hot.
@@ -514,7 +556,7 @@ Memorise one line and the whole plan makes sense:
 - Few drops sesame oil
 
 **Method**
-1. In a hob pot (or pressure-cooker open-lid), simmer broth + ginger 10 min.
+1. In the **frying pan**, simmer broth + ginger 10 min.
 2. Whisk the egg, then drizzle it in a thin stream while stirring the soup — ribbons form instantly.
 3. Season, drizzle sesame oil, serve hot.
 
@@ -535,7 +577,7 @@ Memorise one line and the whole plan makes sense:
 - Few drops sesame oil
 
 **Method**
-1. In a pot on the hob (or pressure-cooker open-lid low heat), heat a little sesame oil, add tomato, cook 2–3 min until soft and juicy.
+1. In the **frying pan** on low heat, warm a little sesame oil, add the tomato, cook 2–3 min until soft and juicy.
 2. Add water/broth, simmer 8 min.
 3. Drizzle in the beaten egg to form ribbons, season, serve hot.
 
@@ -555,7 +597,7 @@ Memorise one line and the whole plan makes sense:
 
 **Method**
 1. Blanch ribs 2–3 min, rinse.
-2. Add ribs + ginger + water to the pressure cooker. Select **煲汤 / soup**, cook ~25–30 min.
+2. Add ribs + ginger + water to the pressure cooker. Select **美味汤**, cook ~25–30 min.
 3. Season lightly, serve hot.
 
 **Trick:** add a few goji berries or a chunk of carrot for colour and sweetness if she's getting bored of plain.
@@ -576,7 +618,7 @@ Memorise one line and the whole plan makes sense:
 
 **Method**
 1. Blanch ribs 2–3 min, rinse.
-2. Add ribs + corn + carrot + ginger + water to the pressure cooker. Select **煲汤 / soup**, cook ~25–30 min.
+2. Add ribs + corn + carrot + ginger + water to the pressure cooker. Select **美味汤**, cook ~25–30 min.
 3. Season lightly, serve hot.
 
 **Note:** the corn gives the broth a natural sweetness — a gentle, kid-friendly classic that fits week 1 perfectly.
@@ -596,14 +638,14 @@ Memorise one line and the whole plan makes sense:
 
 **Method**
 1. Blanch pork 2 min, drain.
-2. Add pork + carrot + ginger + water to the pressure cooker. Select **煲汤 / soup**, cook ~20–25 min.
+2. Add pork + carrot + ginger + water to the pressure cooker. Select **美味汤**, cook ~20–25 min.
 3. Season lightly, serve hot with the tender meat.
 
 ---
 
 # 🍜 Noodle Bowls
 
-> Noodles cook in **pre-made broth simmered gently on the hob** — a simple, beginner-safe job (boiling water in a pot, warm broth, 2–3 min). No frying, no splatter.
+> Noodles cook in **pre-made broth simmered gently in the frying pan** — rack out, lid off, 2–3 min. No frying, no splatter, and one pan per bowl.
 
 ## 26. Mee Sua in Chicken Broth with Shredded Chicken & Egg (鸡汤面线)
 
@@ -619,7 +661,7 @@ Memorise one line and the whole plan makes sense:
 - Spring onion, to finish
 
 **Method**
-1. In a pot on the hob, bring broth + ginger to a gentle simmer. Poach the egg in the broth 3 min, lift out.
+1. In the **frying pan**, bring broth + ginger to a gentle simmer. Poach the egg in the broth 3 min, lift out.
 2. Drop in the mee sua, cook 2–3 min until soft (it cooks fast — don't let it turn to mush).
 3. Ladle noodles + broth into a bowl, top with shredded chicken, poached egg, sesame oil, spring onion. Serve very hot.
 
@@ -642,7 +684,7 @@ Memorise one line and the whole plan makes sense:
 
 **Method (gentle — no stir-fry needed)**
 1. Boil mee sua until just soft, drain.
-2. Warm the sesame oil and ginger gently in a pot (open-lid, low).
+2. Warm the sesame oil and ginger gently in the **frying pan** on low heat.
 3. Add the chicken and a splash of wine if using; toss 1 min over low heat.
 4. Add noodles, toss 1–2 min over low heat to coat everything in the sesame-ginger oil.
 5. Season with soy, top with spring onion, serve hot.
@@ -665,7 +707,7 @@ Memorise one line and the whole plan makes sense:
 - Salt to taste
 
 **Method**
-1. In a pot on the hob, simmer broth + ginger. Poach chicken slices in the broth until just cooked, lift out.
+1. In the **frying pan**, simmer broth + ginger. Poach the chicken slices in the broth until just cooked, lift out.
 2. Blanch bok choy in the broth 1 min, lift out.
 3. Add noodles to the broth just to warm through (30 sec).
 4. Divide noodles into a bowl, top with chicken + bok choy, ladle hot broth over, drizzle sesame oil.
@@ -687,7 +729,7 @@ Memorise one line and the whole plan makes sense:
 
 **Method**
 1. Marinate beef with soy + sesame oil 10 min.
-2. In a pot on the hob, bring stock + ginger to a simmer; blanch greens 30 sec, lift out.
+2. In the **frying pan**, bring stock + ginger to a simmer; blanch greens 30 sec, lift out.
 3. Poach beef slices in the simmering stock 30–60 sec — they cook fast, keep them pink.
 4. Warm noodles in the stock, assemble the bowl, ladle broth over. Serve hot.
 
@@ -697,7 +739,7 @@ Memorise one line and the whole plan makes sense:
 
 # 🥚 Steamed Dishes
 
-> **All steamed dishes use the steaming rack + a pot of boiling water** (your already-owned rack). It's as easy as it sounds: water boils under a rack, the plate sits on the rack, the lid stays on, a timer runs. No skill, no risk.
+> **All steamed dishes use the pan + rack + lid** (the setup in [Your 4 cooking tools](#-your-4-cooking-tools-exactly-these)). It's as easy as it sounds: water boils under the rack, the plate sits on the rack, the lid stays on, a timer runs. Two rules for this shallow pan: **lid on**, and **top up with boiling water at the 10-minute mark** for anything over 12 min.
 
 ## 30. Steamed Egg Custard (蒸水蛋)
 
@@ -711,8 +753,8 @@ Memorise one line and the whole plan makes sense:
 - Few drops sesame oil
 - Spring onion, to finish
 
-**Method (steaming rack + pot)**
-1. Set up the steaming rack and bring the water to a boil.
+**Method (pan + rack + lid)**
+1. Rack into the pan, water just below it, lid on, bring to a rolling boil.
 2. Whisk eggs + warm water + salt until frothy.
 3. Strain through a sieve into a shallow bowl (this is what makes it silky).
 4. Cover the bowl with a plate or cling wrap — stops condensation from dimpling the surface.
@@ -728,17 +770,17 @@ Memorise one line and the whole plan makes sense:
 *Appears: days 4 (breast), 13 (thigh)*
 
 **Ingredients**
-- 1 chicken breast or 2 thighs (bone-in)
+- 1 chicken breast, or 2 boneless thighs cut into strips
 - 1 tbsp goji berries
 - 5–6 slices ginger, cut into matchsticks
 - 1 tsp light soy sauce
 - 1 tsp sesame oil
 
-**Method**
-1. Set up the steaming rack + boiling water.
+**Method (pan + rack + lid)**
+1. Rack into the pan, water just below it, lid on, boil.
 2. Score the chicken, rub with soy + sesame oil.
-3. Lay ginger matchsticks + goji on top. Place on a plate on the rack, cover.
-4. Steam 12–15 min (breast) or 18–20 min (thighs) until cooked through.
+3. Lay ginger matchsticks + goji on top. Plate it on the rack, lid on.
+4. Steam 12–15 min for a breast. **For thighs, cut them into strips** and give them the same 12–15 min — a whole bone-in thigh wants 18–20, which is longer than this pan likes (top up the water at 10 min if you do it).
 5. Rest 3 min, pour the accumulated juices over. Serve with rice.
 
 **Note:** the goji adds a gentle sweetness and a blood-nourishing touch — the same dish works for breast or thigh.
@@ -750,17 +792,17 @@ Memorise one line and the whole plan makes sense:
 *Appears: day 9*
 
 **Ingredients**
-- 1 chicken breast or 2 thighs
+- 1 chicken breast, or 2 boneless thighs cut into strips
 - 8 slices ginger, cut into matchsticks
 - 1 tsp sesame oil
 - 1 tsp rice wine (optional)
 - Pinch of salt
 - Spring onion, to finish
 
-**Method**
-1. Set up the steaming rack + boiling water.
-2. Rub chicken with salt + sesame oil, pile the ginger on top. Place on a plate on the rack, cover.
-3. Steam 12–15 min (breast) or 18–20 min (thighs) until just cooked through.
+**Method (pan + rack + lid)**
+1. Rack into the pan, water just below it, lid on, boil.
+2. Rub chicken with salt + sesame oil, pile the ginger on top. Plate it on the rack, lid on.
+3. Steam 12–15 min — breast whole, thighs cut into strips.
 4. Drizzle the pan juices over, top with spring onion, serve hot.
 
 > ⚠️ **Alcohol note:** the wine here is an optional light marinade (a splash, not a simmer). If you'd rather be fully safe, skip it and add an extra slice of ginger — the flavour is 95% ginger anyway.
@@ -779,10 +821,10 @@ Memorise one line and the whole plan makes sense:
 - 1 tsp sesame oil
 - Spring onion, to finish
 
-**Method**
-1. Set up the steaming rack + boiling water.
+**Method (pan + rack + lid)**
+1. Rack into the pan, water just below it, lid on, boil.
 2. Score the fish. Rub mashed black beans + soy into the cuts and cavity.
-3. Top with ginger matchsticks. Steam 8–12 min (10 min per 2.5 cm thickness).
+3. Top with ginger matchsticks, plate it on the rack, lid on. Steam 8–12 min (10 min per 2.5 cm thickness).
 4. Discard watery fish juice, top with spring onion, drizzle hot sesame oil.
 
 **Note:** this is recipe 8 with an umami upgrade — a nice change of pace for week 4.
@@ -791,7 +833,7 @@ Memorise one line and the whole plan makes sense:
 
 # 🐟 Fish Dinners (Air-Fried / Baked in the AUX Oven)
 
-> **Every "pan-fried" fish becomes air-fried or baked in the AUX air-fryer oven** (roast / 烤鱼 preset, ~80–200 °C). No frying pan, no oil splatter — you pat the fish dry, go in the oven, set a timer.
+> **Every "pan-fried" fish becomes air-fried or baked in the AUX air-fryer oven.** Press **菜单** until the **烤鱼** icon lights, then **时间/温度** + **+/−** to set the minutes. No frying pan, no oil splatter: pat the fish dry, into the oven, set a timer. The preset's own heat setting is right — the temperatures below are only what you'd dial in if your machine runs hot.
 
 ## 34. Air-Fried Pomfret with Ginger (姜烤鲳鱼)
 
@@ -807,7 +849,7 @@ Memorise one line and the whole plan makes sense:
 **Method**
 1. Pat the fish completely dry, salt lightly. Rub with a little sesame oil.
 2. Lay ginger slices on and under the fish in the AUX oven basket/tray.
-3. Air-fry / roast at ~180 °C for 12–18 min until golden and cooked through (flip halfway if your model runs hot).
+3. **烤鱼** preset, 12–18 min, until golden and cooked through — flip halfway if your machine runs hot.
 4. Optional splash of wine, serve immediately with the crisp ginger on top.
 
 > ⚠️ **Alcohol note:** a splash of wine here is a finishing deglaze that mostly evaporates, but if you want zero alcohol, just leave it out — the ginger-sesame crust carries the dish.
@@ -828,7 +870,7 @@ Memorise one line and the whole plan makes sense:
 **Method**
 1. Pat salmon dry, salt it, rub with a little sesame oil.
 2. Lay ginger slices on the fillet in the AUX oven.
-3. Air-fry / roast at ~180 °C for 8–12 min until cooked to your liking (salmon cooks fast — don't overdo it).
+3. **烤鱼** preset, 8–12 min, until cooked to your liking — salmon cooks fast, don't overdo it.
 4. Rest 2 min, serve with the ginger + a squeeze of lemon (or light soy, if she's avoiding citrus).
 
 **Note:** salmon's omega-3s are a lovely anti-inflammatory addition in weeks 3–4.
@@ -849,7 +891,7 @@ Memorise one line and the whole plan makes sense:
 **Method**
 1. Pat cod dry, salt it. Handle gently — cod flakes easily.
 2. Rub with sesame oil, lay ginger on top in the AUX oven tray.
-3. Air-fry / roast at ~180 °C for 8–12 min until golden and opaque.
+3. **烤鱼** preset, 8–12 min, until golden and opaque.
 4. Splash with light soy, serve with the ginger.
 
 ---
@@ -867,7 +909,7 @@ Memorise one line and the whole plan makes sense:
 
 **Method**
 1. Pat fillets dry, salt lightly, rub with sesame oil. Lay ginger on top in the AUX oven.
-2. Air-fry / roast at ~180 °C for 10–14 min until golden and cooked through (threadfin is a firm, forgiving fish).
+2. **烤鱼** preset, 10–14 min, until golden and cooked through (threadfin is firm and forgiving).
 3. Optional wine splash, serve hot with the ginger.
 
 > ⚠️ **Alcohol note:** as with the pomfret version (recipe 34), the splash is a finishing deglaze that mostly evaporates — but if you want zero alcohol, simply leave it out; the ginger-sesame crust carries the dish.
@@ -876,7 +918,7 @@ Memorise one line and the whole plan makes sense:
 
 # 🥩 Meat Dishes
 
-> **All the braises go in the pressure cooker (open-lid sear → close and program) — no stove, no splatter.** All the "stir-fried meat" dishes become *gentle pan or open-pot* versions cooked on low–medium heat in a pan or the pressure-cooker open-lid setting. Nothing requires a fierce wok flame.
+> **All the braises go in the pressure cooker (开盖收汁 sear → close and run the preset) — no stove, no splatter.** The "stir-fried meat" dishes become *gentle pan* versions on low–medium heat, in the frying pan or on the cooker's 开盖收汁. Nothing here needs a fierce wok flame.
 
 ## 38. Beef with Ginger & Onion (姜葱炒牛肉) — gentle pan
 
@@ -920,7 +962,7 @@ Memorise one line and the whole plan makes sense:
 
 ---
 
-## 40. Sesame-Oil Pork Slices with Ginger (麻油猪肉片) — gentle pot
+## 40. Sesame-Oil Pork Slices with Ginger (麻油猪肉片) — pan or cooker
 
 *Appears: day 10*
 
@@ -932,8 +974,8 @@ Memorise one line and the whole plan makes sense:
 - 1 tsp light soy sauce
 - 100 ml water
 
-**Method (pressure-cooker open-lid, or gentle hob pot)**
-1. Warm sesame oil (open-lid setting or hob pot on medium), fry ginger until golden.
+**Method (开盖收汁 in the cooker, or the pan)**
+1. Warm the sesame oil (开盖收汁, or the pan on medium), fry ginger until golden.
 2. Add pork, cook until golden on both sides.
 3. Add wine + water + soy, simmer 10–12 min until tender and the wine mellows.
 4. Serve hot with rice.
@@ -942,7 +984,7 @@ Memorise one line and the whole plan makes sense:
 
 ---
 
-## 41. Pork Collar with Ginger & Black Fungus (姜耳猪颈肉) — gentle pot
+## 41. Pork Collar with Ginger & Black Fungus (姜耳猪颈肉) — pan or cooker
 
 *Appears: day 13*
 
@@ -956,7 +998,7 @@ Memorise one line and the whole plan makes sense:
 
 **Method**
 1. Soak fungus in warm water 30 min, slice into bite-size pieces.
-2. Warm sesame oil (open-lid setting or hob pot on medium), fry ginger. Add pork, cook until golden.
+2. Warm the sesame oil (开盖收汁, or the pan on medium), fry ginger. Add pork, cook until golden.
 3. Add fungus + splash of water, toss 3–4 min until tender.
 4. Season, serve hot. Black fungus = iron + collagen, a confinement staple.
 
@@ -964,7 +1006,9 @@ Memorise one line and the whole plan makes sense:
 
 # 🍖 Braises (Pressure Cooker)
 
-> **Every braise = open-lid sear inside the pressure cooker, then close and use a meat/收汁 programme.** ~30–45 min set-and-forget for what used to be 1–1.5 h of stove-watching.
+> **Every braise = 开盖收汁 sear in the pot, then close and use 排骨 (牛羊肉 for beef).** ~30–45 min set-and-forget for what used to be 1–1.5 h of stove-watching.
+>
+> 🔧 **Two things worth knowing.** (1) If **开盖收汁** won't heat a cold pot on your model (see [the test at the top](#the-buttons-as-printed-on-your-machines)), sear in the frying pan and tip everything in — same dish, one extra pan. (2) Every preset defaults to its own time, so **set the minutes with 时间/温度 + +/−** to the number in the recipe.
 
 ## 42. Braised Pork Collar Slices with Ginger (姜焖猪颈肉)
 
@@ -979,9 +1023,9 @@ Memorise one line and the whole plan makes sense:
 - 400 ml water
 
 **Method**
-1. Set the pressure cooker to **开盖煮 (open-lid)**, warm the sesame oil, fry ginger until golden.
+1. Set the pressure cooker to **开盖收汁 (open-lid)**, warm the sesame oil, fry ginger until golden.
 2. Add pork, sear until golden on all sides.
-3. Add soy + sugar + water. Close the lid, use a **收汁 / meat** programme, cook ~30–35 min until tender.
+3. Add soy + sugar + water. Close the lid, press **排骨** and cook ~30–35 min until tender.
 4. If needed, do a final open-lid reduction of the sauce. Serve hot over rice.
 
 **Note:** gentle, savoury-sweet, and easy to chew — a good week-1 "real meal."
@@ -1001,9 +1045,9 @@ Memorise one line and the whole plan makes sense:
 - 500 ml water
 
 **Method**
-1. Sear the belly in the pressure cooker **开盖煮 (open-lid)** to render out some fat; drain the excess.
+1. Sear the belly in the pressure cooker **开盖收汁 (open-lid)** to render out some fat; drain the excess.
 2. Fry ginger in sesame oil, return the belly.
-3. Add soy + sugar + water, close the lid, use a **收汁 / meat** programme, cook ~40–45 min until meltingly soft.
+3. Add soy + sugar + water, close the lid, press **排骨** and cook ~40–45 min until meltingly soft.
 4. Reduce the sauce (open-lid final step), serve over rice.
 
 **Note:** "not too rich" — light soy + a little sugar only (no dark soy, no rock sugar, no deep-fried skin). The ginger keeps it warming.
@@ -1023,8 +1067,8 @@ Memorise one line and the whole plan makes sense:
 - 300 ml water
 
 **Method**
-1. Pressure cooker **开盖煮 (open-lid)**: warm sesame oil + ginger, sear the pork until browned.
-2. Add soy + sugar + water, close the lid, use a **收汁 / meat** programme, cook ~30–35 min until tender.
+1. Pressure cooker **开盖收汁 (open-lid)**: warm sesame oil + ginger, sear the pork until browned.
+2. Add soy + sugar + water, close the lid, press **排骨** and cook ~30–35 min until tender.
 3. Reduce slightly, serve hot with rice.
 
 **Note:** the week-3 protein workhorse — lean, satisfying, and gentle.
@@ -1045,9 +1089,9 @@ Memorise one line and the whole plan makes sense:
 - 400 ml water
 
 **Method**
-1. Pressure cooker **开盖煮 (open-lid)**: sear pork in sesame oil + ginger.
-2. Add soy + sugar + water, close the lid, use a **收汁 / meat** programme, cook ~30 min.
-3. Add chestnuts, cook ~20 min more until both are tender.
+1. Pressure cooker **开盖收汁 (open-lid)**: sear pork in sesame oil + ginger.
+2. Add soy + sugar + water, close the lid, press **排骨** and cook ~30 min.
+3. Quick-release, open the lid, add the chestnuts, close and run **排骨** ~10 min more — chestnuts go mushy if they pressure-cook the whole time.
 4. Reduce the sauce, serve hot.
 
 **Note:** chestnuts add a soft sweetness and slow-release energy — great for week 3.
@@ -1068,9 +1112,9 @@ Memorise one line and the whole plan makes sense:
 - 500 ml water
 
 **Method**
-1. Pressure cooker **开盖煮 (open-lid)**: sear the belly to render excess fat, drain.
+1. Pressure cooker **开盖收汁 (open-lid)**: sear the belly to render excess fat, drain.
 2. Fry ginger in sesame oil, return belly.
-3. Add soy + sugar + water, close the lid, use a **收汁 / meat** programme, cook ~40 min, then add chestnuts and cook ~20 min more.
+3. Add soy + sugar + water, close the lid, **排骨** ~40 min. Quick-release, add the chestnuts, close and **排骨** another ~10 min.
 4. Reduce to a glossy sauce, serve over rice.
 
 ---
@@ -1090,8 +1134,8 @@ Memorise one line and the whole plan makes sense:
 
 **Method**
 1. Blanch ribs 2–3 min, rinse.
-2. Pressure cooker **开盖煮 (open-lid)**: fry ginger in sesame oil, brown the ribs.
-3. Add lotus root + red dates + soy + water, close the lid, use a **收汁 / meat / 排骨** programme, cook ~35–40 min.
+2. Pressure cooker **开盖收汁 (open-lid)**: fry ginger in sesame oil, brown the ribs.
+3. Add lotus root + red dates + soy + water, close the lid, press **排骨** and cook ~35–40 min.
 4. Reduce the sauce, serve hot.
 
 **Note:** red dates + lotus root = the classic blood-building braise. Lotus root keeps a pleasant crunch even after cooking.
@@ -1113,8 +1157,8 @@ Memorise one line and the whole plan makes sense:
 
 **Method**
 1. If using dried shiitake, soak 30 min, slice, reserve the soaking liquid.
-2. Pressure cooker **开盖煮 (open-lid)**: sear pork in sesame oil + ginger.
-3. Add mushrooms + soy + sugar + water, close the lid, use a **收汁 / meat** programme, cook ~30–35 min.
+2. Pressure cooker **开盖收汁 (open-lid)**: sear pork in sesame oil + ginger.
+3. Add mushrooms + soy + sugar + water, close the lid, press **排骨** and cook ~30–35 min.
 4. Reduce, serve hot. The shiitake water adds free umami.
 
 ---
@@ -1133,8 +1177,8 @@ Memorise one line and the whole plan makes sense:
 
 **Method**
 1. Blanch brisket 3 min, rinse.
-2. Pressure cooker **开盖煮 (open-lid)**: fry ginger in sesame oil, brown the brisket well.
-3. Add soy + sugar + water, close the lid, use a **收汁 / meat / beef** programme, cook ~50–60 min until fork-tender.
+2. Pressure cooker **开盖收汁 (open-lid)**: fry ginger in sesame oil, brown the brisket well.
+3. Add soy + sugar + water, close the lid, press **牛羊肉** and cook ~50–60 min until fork-tender.
 4. Reduce the sauce, serve hot over rice.
 
 **Trick:** brisket needs time — batch-cook double and freeze half. This is the richest, most satisfying dish of week 4.
@@ -1156,15 +1200,15 @@ Memorise one line and the whole plan makes sense:
 
 **Method**
 1. Soak lotus root slices in water + vinegar 10 min, drain.
-2. Pressure cooker **开盖煮 (open-lid)**: fry ginger in sesame oil, add lotus root, toss 1 min.
-3. Add soy + water, close the lid, cook briefly (~10–12 min, gentle) until tender-crisp.
+2. Pressure cooker **开盖收汁 (open-lid)**: fry ginger in sesame oil, add lotus root, toss 1 min.
+3. Add soy + water, close the lid, **排骨** set to 10–12 min, until tender-crisp.
 4. Reduce slightly, serve hot.
 
 **Note:** served on its own as a side, or double the water for a light soup.
 
 ---
 
-## 51. Braised Black Fungus with Snow Peas (木耳荷兰豆) — gentle pot
+## 51. Braised Black Fungus with Snow Peas (木耳荷兰豆) — pan or cooker
 
 *Appears: day 8*
 
@@ -1178,13 +1222,13 @@ Memorise one line and the whole plan makes sense:
 
 **Method**
 1. Soak fungus 30 min, slice.
-2. Warm sesame oil in a pan or pressure-cooker open-lid on medium heat, fry ginger. Add fungus + snow peas.
+2. Warm the sesame oil in the pan (or on the cooker's **开盖收汁**) over medium heat, fry the ginger. Add fungus + snow peas.
 3. Toss 2–3 min, splash of water, cover 1 min so the snow peas cook through but stay bright.
 4. Season, serve hot. The classic black-fungus-and-green pairing.
 
 ---
 
-## 52. Braised Black Fungus with Ginger (姜焖木耳) — gentle pot
+## 52. Braised Black Fungus with Ginger (姜焖木耳) — pan or cooker
 
 *Appears: day 18*
 
@@ -1207,9 +1251,11 @@ Memorise one line and the whole plan makes sense:
 
 *All the stir-fried greens below are done the classic way: sesame oil, ginger, quick toss — everything fully cooked, never raw. Amounts serve 2.*
 
+> 🔧 **Every dish in this section is the frying pan, rack out, heat on medium** — the only pan work in the whole book, and it's 2–3 minutes of tossing. If you've just blanched something in the same pan, tip out the water, wipe, and it's ready.
+
 > 💡 **Stir-fried or blanched — your choice (times below).** The greens in this section (recipes 53–65) are *originally* stir-fries, and that stays the recommended way. But if you would rather not handle the pan, you can **blanch** any of them instead and it still fits the golden rules. The timing is comparable either way, so pick by mood, never by time. (Recipe 66 is the one deliberately-blanched master version.)
 >
-> **Optional blanch (for recipes 53–65 only):** boil a pot of water + 3–4 slices ginger; dip the veg until just cooked but still bright (spinach / sweet-potato-leaves 45 sec–1 min; choy sum / kai lan / nai bai / okra / cabbage / lettuce 1–1.5 min; broccoli / cauliflower / asparagus / zucchini ~2 min); drain and dress with light soy + sesame oil.
+> **Optional blanch (for recipes 53–65 only):** fill the pan with water + 3–4 slices ginger and boil; dip the veg until just cooked but still bright (spinach / sweet-potato-leaves 45 sec–1 min; choy sum / kai lan / nai bai / okra / cabbage / lettuce 1–1.5 min; broccoli / cauliflower / asparagus / zucchini ~2 min); drain and dress with light soy + sesame oil.
 
 ---
 
@@ -1494,7 +1540,7 @@ Memorise one line and the whole plan makes sense:
 - Splash of water
 
 **Method**
-1. Bring a pot of water + ginger to a rolling boil.
+1. Fill the pan with water + ginger and bring to a rolling boil.
 2. Blanch the greens — spinach 30–45 sec; kai lan / choy sum 1–1.5 min; broccoli 2 min — until just cooked but still bright.
 3. Drain well, plate, drizzle light soy + sesame oil. Serve warm.
 
@@ -1516,24 +1562,26 @@ Memorise one line and the whole plan makes sense:
 
 **Method**
 1. Whisk the sesame paste with warm water until smooth — no lumps.
-2. Warm gently 2–3 min (hob pot on low, or microwave).
+2. Warm gently 2–3 min (pan on low, or microwave).
 3. Top with the soft-boiled egg — that egg is the protein in this breakfast, so don't skip it on the day-12 and day-24 mornings. Serve warm.
 
 **Trick:** jarred black sesame paste makes this a 2-minute breakfast. It's iron + calcium + healthy fats — a *traditional* milk-supply helper (anecdotal evidence, so enjoy it as a nourishing bonus rather than a guarantee).
 
 ---
 
-## 68. Steamed Sweet Potato (蒸番薯)
+## 68. Baked Sweet Potato (烤番薯)
 
 *Week-2 snack*
 
 **Ingredients**
 - 1–2 sweet potatoes (orange or purple)
 
-**Method (steaming rack + pot)**
-1. Scrub well, peel if you like (keep the skin on for fibre).
-2. Set up the steaming rack + boiling water. Steam 20–25 min until a skewer slides through easily.
-3. Serve warm, sliced, on its own.
+**Method (AUX oven, 红薯 preset — set-and-forget)**
+1. Scrub well, prick all over with a fork, wrap loosely in foil (keeps it moist, saves the tray).
+2. **红薯** preset — it runs its own cycle. A ~200 g sweet potato is usually done in 25–35 min; check with a skewer and give it another 5–10 min if it needs it. **预约** works here too if you want it ready at a set time.
+3. Serve warm, split open, on its own.
+
+**No oven free?** Steam it in the pan 20–25 min — but that's a long steam for a shallow pan, so top up with boiling water at the 10-minute mark and keep the lid on. The oven is the easier of the two.
 
 **Note:** sweet, filling, and easy — the no-recipe recipe that deserves its place in the week-2 snack rotation alongside black sesame paste.
 
@@ -1562,12 +1610,12 @@ Memorise one line and the whole plan makes sense:
 
 **Method (pressure cooker — one pot, no splatter)**
 1. **Make the angkak paste:** put the angkak in a small bowl with 2 tbsp of the rice wine, mash with the back of a spoon into a smooth red paste (30 sec). This is what gives an even colour instead of speckled rice grains stuck to the chicken.
-2. Set the pressure cooker to **开盖煮 (open-lid)**, warm the sesame oil inside the pot.
+2. Set the pressure cooker to **开盖收汁 (open-lid)**, warm the sesame oil inside the pot.
 3. Fry the ginger slices until golden and fragrant (5–7 min) — the flavour base, same as the sesame oil chicken.
 4. Add the chicken, sear until golden on all sides.
 5. Spoon in the angkak paste and toss 1 min until every piece is coated red — the colour sets now, in the hot oil.
 6. Add the fungus/mushrooms, the rest of the wine, the water, soy and sugar.
-7. Close the lid, select the **chicken / 收汁 / meat** programme, cook ~20–25 min until tender.
+7. Close the lid, select **鸡鸭肉** and cook ~20–25 min until tender.
 8. Natural release, then 3–5 min **open-lid** to reduce to a glossy red sauce. Serve hot over rice or 面线.
 
 **Trick:** mash the angkak into a paste first. Sprinkled in dry, it colours unevenly and leaves a slightly gritty, medicinal edge — as a paste it turns into a proper red braise.

@@ -9,7 +9,7 @@ A complete home-cooking plan for a husband preparing 28 days of postpartum meals
 - ✅ Breastfeeding — lactation-boosting foods emphasised (weeks 3–4)
 - ✅ Simple home-style dishes — nothing that takes all day
 - ⚠️ Delivery method TBD — plan works for both; see the C-section note below
-- ✅ **Set-and-forget friendly:** nearly every recipe runs on the **pressure cooker + air-fryer oven + steaming rack + a boiling pot** — the only pan work is gentle, medium-heat vegetable stir-fries (or you can blanch them instead). No hot-oil splatter, no scary high-heat frying (see [`recipes.md`](recipes.md) "Your 4 cooking tools").
+- ✅ **Set-and-forget friendly — and written for this kitchen:** nearly every recipe runs on the **Joyoung pressure cooker + the AUX air-fryer oven + the frying pan with its wire rack inside** (that pan *is* the steamer). Every button name matches the panels, the oven does the fish and the sweet potato on its own presets, and the cooker's **预约** lets congee and tea cook themselves overnight. The only pan work is gentle, medium-heat vegetable stir-fries (or blanch them instead) — no hot-oil splatter, no scary high-heat frying (see [`recipes.md`](recipes.md) "Your 4 cooking tools").
 - 🍚 **Mum's angkak 红曲米 is now in the plan** — angkak chicken on days 12 and 25 ([recipe 69](recipes.md#69-angkak-chicken-红曲米鸡)). Small culinary amounts only, from week 2 onwards, and cooked with 米酒 — **no arak** (see the limit card).
 
 ---
@@ -58,7 +58,7 @@ These fill the gaps the original plan (deliberately kept simple) skipped over �
 | File | Contents |
 |---|---|
 | [`meal-plan.md`](meal-plan.md) | The full 28-day plan, day by day, week by week |
-| [`recipes.md`](recipes.md) | Step-by-step recipes for **every** dish in the plan — 8 signature recipes + 61 more (69 total), all set-and-forget (pressure cooker + air-fryer oven + steaming rack + boiling pot) |
+| [`recipes.md`](recipes.md) | Step-by-step recipes for **every** dish in the plan — 8 signature recipes + 61 more (69 total), all set-and-forget on the pressure cooker, air-fryer oven and pan + rack |
 | [`shopping-list.md`](shopping-list.md) | Grocery staples, where to buy, and time-saving tips |
 | [`herbs-shopping-list.md`](herbs-shopping-list.md) | 🌿 Herb-only shopping checklist — the 6 herbs the regular plan uses, with quantities |
 | [`avoid-limit-card.md`](avoid-limit-card.md) | One-page "avoid / limit" quick-reference for the fridge |
