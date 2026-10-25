@@ -6,12 +6,12 @@ Three meals a day (breakfast / lunch / dinner), plus snacks and warm teas betwee
 
 ## 🔧 How you'll actually cook it (set-and-forget)
 
-Every dish runs on the **four things actually on the counter** — and the only pan work is gentle, beginner-safe vegetable sides. Button names here are the ones printed on your machines; [`recipes.md`](recipes.md) has the full method map and the button-by-button table.
+Every dish runs on the **four things actually on the counter** — and the pan work is short and beginner-safe: vegetable sides, plus the sear that starts each braise or soup. Button names here are the ones printed on your machines; [`recipes.md`](recipes.md) has the full method map and the button-by-button table.
 
-- **Joyoung pressure cooker** → rice (**精煮饭**), congee (**浓香粥**), soups (**美味汤**), braises and seasoned chicken (**开盖收汁** sear → close and use **鸡鸭肉 / 排骨 / 牛羊肉**).
+- **Joyoung pressure cooker** → rice (**精煮饭**), congee (**浓香粥**), soups (**美味汤**), and the long cook for braises and seasoned chicken (**鸡鸭肉 / 排骨 / 牛羊肉**), finished with **开盖收汁** to reduce the sauce. **开盖收汁 is a reducer, not a sear** — the browning happens in the pan first.
 - **Frying pan + the wire rack that lives inside it, lid on** → every steamed dish (fish, egg custard, chicken). The pan is shallow, so anything steaming over 12 min gets a **boiling-water top-up at the 10-minute mark**.
 - **AUX air-fryer oven** → fish dinners on the **烤鱼** preset, sweet potato on **红薯**, plus reheating.
-- **The same frying pan, rack out (gas hob)** → vegetable sides, noodles, poached eggs, the red-date tea.
+- **The same frying pan, rack out (gas hob)** → the quick sear that starts braises, soups and sesame-oil chicken; vegetable sides; noodles; poached eggs; the red-date tea.
 
 > ⏰ **The overnight trick:** the cooker's **预约** button is the least-used, most useful thing in this kitchen with a newborn. Load rice / congee / tea at 10 pm, set it to finish at 6.30 am, and breakfast is cooking while you sleep. **Grains, water and dried herbs only** — never meat, fish or egg in a delayed pot. Details in [`recipes.md`](recipes.md).
 
@@ -68,7 +68,7 @@ Every recipe in [`recipes.md`](recipes.md) is scored out of 5 for **ease** (how 
 | **10** | Oatmeal w/ longan | Rice, steamed pomfret, stir-fried cauliflower, pork collar & carrot soup | Rice, sesame oil pork slices w/ ginger 🍶, stir-fried kai lan |
 | **11** | Red date porridge + egg | Rice, baked cod (air-fry), stir-fried nai bai, egg & tomato soup (warm) | Rice noodles w/ beef slices + greens in broth |
 | **12** | Black sesame paste + egg | Rice, **angkak chicken** 🍶 (红曲米鸡 — [recipe 69](recipes.md#69-angkak-chicken-红曲米鸡), light on wine), stir-fried zucchini, fish tofu soup | Rice, steamed seabass, braised lotus root slices, pork rib soup |
-| **13** | Ginger porridge + egg | Rice, steamed chicken thigh w/ goji, stir-fried sweet potato leaves, clear fish soup | Rice, pork collar w/ black fungus (pan or cooker), blanched broccoli |
+| **13** | Ginger porridge + egg | Rice, steamed chicken thigh w/ goji, stir-fried sweet potato leaves, clear fish soup | Rice, pork collar w/ black fungus (pan), blanched broccoli |
 | **14** | Oatmeal + egg | Rice, **sesame oil chicken** 🍶, stir-fried spinach, peanut pork rib soup | Steamed fish, stir-fried mixed veg, red date chicken soup |
 
 **Snacks (week 2):** sweet potato from the oven (**红薯** preset — set-and-forget), black sesame paste, red date tea, warm soy milk with ginger.

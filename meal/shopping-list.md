@@ -28,7 +28,7 @@
 **Three things to keep in mind:**
 - **The AUX oven can't steam** — its panel is bake/fry presets only (there's no 蒸 mode), and a hot-air oven can't hold 100 °C steam anyway. Real steaming is the pan + rack + lid, which is just as foolproof.
 - **The pan is shallow**, so a tight lid matters and anything steaming over 12 min gets a **top-up of boiling water at the 10-minute mark**. Fish and egg custard (8–12 min) are its sweet spot; the sweet potato goes in the oven instead.
-- **On the gas hob:** the only pan work is the gentle, medium-heat vegetable stir-fries (or blanch the veg instead) — nothing with hot oil or a high flame. All the real "cooking" is set-and-forget in the electric appliances.
+- **On the gas hob:** medium-heat pan work only — the vegetable stir-fries (or blanch the veg instead) *and* the short sear that starts every braise, soup and sesame-oil chicken. Pat the meat dry and keep the flame at medium: golden, not spitting. The long "cooking" is set-and-forget in the electric appliances.
 
 **Right-sized to-cook-on-hand:** get **2 small heatproof plates/bowls that still fit under the pan's lid** (~20–22 cm — so you can steam two dishes at once, e.g. fish + egg custard), and a **kettle** for fast boiling water — for the white-broth trick *and* for the mid-steam top-up. Both are cheap and usually already in a kitchen.
 
@@ -86,7 +86,7 @@
 ## ⏰ Husband Time-Savers
 
 1. **Batch-cook with the pressure cooker — 2–3 big pots per week:** herbal chicken soup, pork rib soup, fish soup (each set-and-forget on **美味汤**). Reheat daily — soups taste *better* the next day.
-2. **Fish soup trick:** fry the bones + ginger first on the cooker's **开盖收汁** (or in the pan if that button won't heat cold), then add *boiling* water → instantly milky white broth.
+2. **Fish soup trick:** fry the bones + ginger in the **frying pan** first; splash a little *boiling* water into the hot pan, scrape up the browned bits, then tip bones + liquid into the cooker and add the rest of the boiling water → instantly milky white broth.
 3. **Prep the night before:** slice ginger, portion vegetables, marinate meats. Morning meals then take ~15 minutes.
 4. **Bedside thermos:** fill with warm red date & longan tea 2× daily so she sips warm fluids constantly — aim for ~2–3 L/day of warm liquids total (fluids support supply more than any single food).
 5. **Freeze portions:** double any soup recipe and freeze half in meal-size containers for days you're short on time.
