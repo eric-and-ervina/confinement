@@ -4,6 +4,34 @@ Three meals a day (breakfast / lunch / dinner), plus snacks and warm teas betwee
 
 ---
 
+## ▶️ Start here — real dates (birth-anchored, not home-anchored)
+
+**Day 1 is the birth day, not the discharge day.** The week progression (lochia, tear healing, when tonics start) runs from birth, so do **not** restart at Day 1 when she comes home, and do not back-fill the hospital days.
+
+| Plan day | Date | Where / what happens |
+|---|---|---|
+| **Day 1** | **Mon 26 Oct 2026** | Birth — vaginal (natural) delivery, Thomson. Hospital meals. |
+| **Day 2** | **Tue 27 Oct 2026** | Hospital. |
+| **Day 3** | **Wed 28 Oct 2026** | **Discharge after ~11am–12pm — first home-cooked day (see Day 3 rule below).** |
+| Day 7 | Sun 1 Nov 2026 | End of Week 1. |
+| Day 8 | Mon 2 Nov 2026 | Week 2 starts — first sesame oil chicken 🍶, as planned. |
+| Day 12 | Fri 6 Nov 2026 | First angkak chicken 🍶, as planned. |
+| Day 14 | Sun 8 Nov 2026 | End of Week 2. |
+| Day 15 | Mon 9 Nov 2026 | Week 3 (lactation boost) starts. |
+| **Day 28** | **Sun 22 Nov 2026** | **Last day of the 28-day plan.** |
+
+### Day 3 (Wed 28 Oct) — lunch or dinner?
+
+Discharge is after 11am–12pm, so treat **dinner as the default first home-cooked meal**, and lunch as the bonus case:
+
+- **Default — first meal is dinner:** Lunch is hospital / in transit — don't try to cook it on arrival home. On arrival: warm red date tea + a warm snack if she's hungry. First full home meal = **Day 3 dinner as written: rice noodles with chicken & bok choy in warm broth ([recipe 28](recipes.md#28-rice-noodles-with-chicken--bok-choy-in-warm-broth-鸡菜汤河粉))** — one pan, ~15 min, hydrating, gentle. Day 3 breakfast and lunch are simply skipped as home meals; nothing to catch up.
+- **If you are home in time for lunch *and* the soup is already made:** Day 3 lunch as written works — **pork rib-corn soup ([recipe 24](recipes.md#24-pork-rib-corn-soup-light-玉米排骨汤), make it Tue night, fridge, reheat) + baked pomfret on the 烤鱼 preset ([recipe 34](recipes.md#34-air-fried-pomfret-with-ginger-姜烤鲳鱼)) + stir-fried lettuce**. Without the soup pre-made, don't attempt this lunch — fall back to the dinner default above.
+- From **Day 4 (Thu 29 Oct) breakfast** onward, run the table exactly as written, full day.
+
+> **Shopping consequence:** you only need home ingredients from **Day 3 dinner onward** this week (Day 3 lunch items only if you pre-make the soup). Week 1 home shopping is therefore Days 3–7, not Days 1–7 — see [`shopping-list.md`](shopping-list.md).
+
+---
+
 ## 🔧 How you'll actually cook it (set-and-forget)
 
 Every dish runs on the **four things actually on the counter** — and the pan work is short and beginner-safe: vegetable sides, plus the sear that starts each braise or soup. Button names here are the ones printed on your machines; [`recipes.md`](recipes.md) has the full method map and the button-by-button table.
@@ -35,7 +63,11 @@ Every recipe in [`recipes.md`](recipes.md) is scored out of 5 for **ease** (how 
 
 ## Week 1 — Gentle Recovery 排毒 (Days 1–7)
 
-**Focus:** expel lochia, rest digestion, wound recovery. Light and easy-to-digest only — no heavy tonics.
+**Focus:** expel lochia, rest digestion, perineal recovery. Light and easy-to-digest only — no heavy tonics.
+
+> ✅ **Optimised for the confirmed vaginal birth (was: delivery method TBD).** No C-section wound, so: **(1)** no snakehead (生鱼) soup course is needed; **(2)** ginger stays at the **full amount written** in every recipe — the "keep ginger milder in week 1" rule was C-section-only; **(3)** no *extra* tonic delay is needed beyond this plan — sesame oil chicken on Day 8, angkak on Day 12 and dang gui in Week 3 stay exactly as scheduled. Do **not** pull tonics/wine dishes into Week 1 either: the Week 1 lightness is about lochia and digestion, not delivery mode, and it still applies.
+>
+> 🧻 **Perineal tear (minor, 1 stitch) — Week 1 priority is a soft stool.** Straining is what hurts a stitch, so in practice: **daily warm fruit + leafy/fibrous greens + soups/teas (~2–3 L warm fluids) every day, no skipping** — these are already on the plan, for her they are now load-bearing, not optional extras. Protein (fish, chicken, egg at every meal) and vitamin-C vegetables (broccoli, kai lan, bok choy) support tissue repair.
 
 | Day | Breakfast | Lunch | Dinner |
 |---|---|---|---|

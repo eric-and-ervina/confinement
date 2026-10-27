@@ -8,7 +8,7 @@ A complete home-cooking plan for a husband preparing 28 days of postpartum meals
 - ✅ Pork is fine — but **no pork innards and no pig trotters**
 - ✅ Breastfeeding — lactation-boosting foods emphasised (weeks 3–4)
 - ✅ Simple home-style dishes — nothing that takes all day
-- ⚠️ Delivery method TBD — plan works for both; see the C-section note below
+- ✅ **Delivery confirmed — vaginal (natural) birth, Mon 26 Oct 2026**, minor perineal tear (1 stitch). No C-section branch needed — see the note below. **Home cooking starts Day 3, Wed 28 Oct** (discharge after ~11am–12pm; dinner is the default first home meal) — full date anchor in [`meal-plan.md`](meal-plan.md).
 - ✅ **Set-and-forget friendly — and written for this kitchen:** nearly every recipe runs on the **Joyoung pressure cooker + the AUX air-fryer oven + the frying pan with its wire rack inside** (that pan *is* the steamer). Every button name matches the panels, the oven does the fish and the sweet potato on its own presets, and the cooker's **预约** lets congee and tea cook themselves overnight. Pan work is short and gentle, medium heat only: vegetable stir-fries (or blanch them instead) and the sear that starts each braise or soup — no hot-oil splatter, no scary high-heat frying (see [`recipes.md`](recipes.md) "Your 4 cooking tools").
 - 🍚 **Mum's angkak 红曲米 is now in the plan** — angkak chicken on days 12 and 25 ([recipe 69](recipes.md#69-angkak-chicken-红曲米鸡)). Small culinary amounts only, from week 2 onwards, and cooked with 米酒 — **no arak** (see the limit card).
 
@@ -49,7 +49,7 @@ These fill the gaps the original plan (deliberately kept simple) skipped over �
 | 3 (D15–21) | 进补 Lactation boost ⭐ | Papaya fish soup 4–5×, oatmeal, herbal black chicken |
 | 4 (D22–28) | 调理 Strengthening | Wider variety, richer soups, preparing to re-enter normal life |
 
-> 💡 **If C-section:** add 生鱼 (snakehead) soup 4–5× in weeks 1–2 for wound healing, keep ginger slightly milder in the first week, and hold off on strong tonics (dang gui, ginseng) until day 10+.
+> 💡 **Confirmed vaginal birth — what changed from the TBD version:** no 生鱼 (snakehead) soup course is needed, ginger stays at the full amount written (no milder first week), and no extra tonic delay applies — sesame oil chicken (Day 8), angkak (Day 12) and dang gui (Week 3) stay as scheduled. The one Week 1 emphasis that *does* change is for the minor perineal tear (1 stitch): keep her stool soft — daily warm fruit, fibre greens and ~2–3 L warm fluids are load-bearing this week, so she never has to strain.
 
 ---
 
@@ -69,7 +69,7 @@ These fill the gaps the original plan (deliberately kept simple) skipped over �
 
 ## Quick answers
 
-- **What should I cook first?** Start with the Week 1 meals — they're the gentlest and easiest (porridge, steamed fish, light soups).
+- **What should I cook first?** **Day 3 dinner, Wed 28 Oct: rice noodles with chicken & bok choy in warm broth** — the first home-cooked meal (discharge is after ~11am–12pm, so lunch is hospital/in transit unless the Day 3 soup was pre-made). Then run the plan from Day 4 breakfast as written. Days 1–2 were hospital days — don't restart or back-fill them.
 - **What boosts milk supply?** The evidence-based trio: oatmeal most days, ~2–3 L/day of warm fluids, and frequent feeding/pumping. Traditional boosters (green papaya fish soup, black sesame) are nourishing additions, but their galactagogue effect is anecdotal.
 - **What if she gets bored?** Swap any fish for another fish, any leafy green for another leafy green — the structure stays the same.
 - **Alcohol in rice wine?** Wine doesn't boost milk supply — it's for flavour and tradition — and alcohol passes into breastmilk. Long simmers (60+ min) reduce alcohol to trace levels. Short simmer (20–30 min) retains ~30%, so for shorter dishes use a low-alcohol confinement-brewed 米酒, or simmer longer — see the ⚠️ notes in recipes.md. Practical rule: **feed/pump just before the meal, or wait ~2 hours after it** — most of the plan's wine dishes sit at lunch (the 🍶 marks in [`meal-plan.md`](meal-plan.md)), so the feed-first version is the one you'll actually use. Cooking them at dinner, when you can, is still the easy win. **Arak is a different animal** — a distilled 30–40% spirit, not a cooking wine, so it's off the menu this month; make ayam angkak with 米酒/黄酒 instead.
