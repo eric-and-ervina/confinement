@@ -24,6 +24,8 @@ Three meals a day (breakfast / lunch / dinner), plus snacks and warm teas betwee
 
 **Confirmed 27 Oct: the hospital provides breakfast only on discharge day — no hospital lunch.** So lunch must be cooked at home, and it is the first home-cooked meal. Discharge is after ~11am–12pm, so the whole lunch is designed to be **on the table ~20 min after walking in** — which means most of it happens the night before:
 
+> 🇮🇩 **Bahasa Indonesia version for Mum:** [`resep-hari-ke-3.md`](resep-hari-ke-3.md) — all of Day 3 (lunch + dinner + broth + tea, recipes 24 / 34 / 54 / 28 / 16 / 6) in Indonesian, with the tonight/tomorrow sequence.
+
 **Day 3 lunch as written:** rice + **baked pomfret on the 烤鱼 preset ([recipe 34](recipes.md#34-air-fried-pomfret-with-ginger-姜烤鲳鱼))** + **stir-fried lettuce ([recipe 54](recipes.md#54-stir-fried-lettuce-炒生菜))** + **pork rib-corn soup ([recipe 24](recipes.md#24-pork-rib-corn-soup-light-玉米排骨汤))**.
 
 **Tue 27 Oct night — do these (this is what makes tomorrow work):**

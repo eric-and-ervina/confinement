@@ -58,6 +58,7 @@ These fill the gaps the original plan (deliberately kept simple) skipped over �
 | File | Contents |
 |---|---|
 | [`meal-plan.md`](meal-plan.md) | The full 28-day plan, day by day, week by week |
+| [`resep-hari-ke-3.md`](resep-hari-ke-3.md) | 🇮🇩 Day 3 (first day home) recipes in Bahasa Indonesia, for Mum — lunch + dinner (recipes 24 / 34 / 54 / 28 / 16 / 6) with the prep sequence |
 | [`recipes.md`](recipes.md) | Step-by-step recipes for **every** dish in the plan — 8 signature recipes + 61 more (69 total), built around the pressure cooker, air-fryer oven and pan + rack. Each is scored /5 for **ease (how effortless), taste and confinement fit** |
 | [`shopping-list.md`](shopping-list.md) | Grocery staples, where to buy, and time-saving tips |
 | [`herbs-shopping-list.md`](herbs-shopping-list.md) | 🌿 Herb-only shopping checklist — the 6 herbs the regular plan uses, with quantities |
