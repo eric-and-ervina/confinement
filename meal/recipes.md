@@ -1,6 +1,6 @@
 # 👨‍🍳 The Complete Recipe Book — Your Kitchen Edition
 
-Step-by-step recipes for **every** dish in the 28-day plan, written so a cooking novice (dad-as-月嫂) can run them almost entirely on the gear that is actually on the counter: your **Joyoung electric pressure cooker**, your **AUX air-fryer oven**, your **stainless frying pan with the wire rack inside it** (that pan *is* the steamer), and one gas ring. Recipes 1–8 are the signature dishes; 9–69 cover everything else in [`meal-plan.md`](meal-plan.md) — 69 is mum's angkak chicken, an add-on from the family. All quantities serve 1–2 people (scale up as needed).
+Step-by-step recipes for **every** dish in the 28-day plan, written so a cooking novice (dad-as-月嫂) can run them almost entirely on the gear that is actually on the counter: your **Joyoung electric pressure cooker**, your **AUX air-fryer oven**, your **stainless frying pan with the wire rack inside it** (that pan *is* the steamer), and one gas ring. Recipes 1–8 are the signature dishes; 9–69 cover everything else in [`meal-plan.md`](meal-plan.md) — 69 is mum's angkak chicken, an add-on from the family. Quantities are mixed, not uniform: **pot dishes (soups, braises, wine chickens) serve 2 as written; plated, noodle and breakfast dishes are one portion — hers** (see the Portions section in [`meal-plan.md`](meal-plan.md) for how Eric's share is added without shrinking hers).
 
 Every button name below is copied from your machines' panels, not a generic recipe's. Nothing here needs a wok, a deep stockpot, a real steamer, or a hot high flame.
 

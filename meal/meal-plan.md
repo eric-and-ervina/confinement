@@ -42,6 +42,21 @@ Three meals a day (breakfast / lunch / dinner), plus snacks and warm teas betwee
 
 ---
 
+## 🍚 Portions — cooking for 2 (Eric + Ervina only)
+
+**Confirmed 27 Oct: portion for two — Eric and Ervina. Not four.** Eric's parents are in Singapore (return to Jakarta not yet set) and cook their own dishes; Dad doesn't really eat pork, but that changes nothing here — pork stays where the plan puts it for her, and his parents eat separately, their own recipes, their own call. Do not scale this plan for them.
+
+The recipe book's "serves 1–2" hides a split you have to know:
+
+- **Pot dishes serve 2 as written** — soups, braises, sesame oil / yellow wine chicken, herbal black chicken: 300–500 g of meat per pot (e.g. 300 g ribs in the Day 3 soup, 500 g chicken in recipe 1). Cook as written, share the pot. **Her portion is served first and stays full-size** — Eric takes what's left plus more rice/soup.
+- **Plated, noodle and breakfast dishes as written are ONE portion — hers.** 1 fish fillet, 1 chicken breast, noodle bowls (100 g meat + 150 g noodles), breakfasts (100 g grain + 1 egg). If Eric eats the same meal, **don't split hers in half — add his on top:** +1 fillet / +1 breast, double the noodles + meat + greens, +1 egg.
+- **Rice** (the recipes don't state it): cook **~160 g raw (≈1½ cooker cups) per rice meal for the two of you** — roughly 1 bowl for her, 1½ for Eric.
+- **Why her portion never shrinks:** she is 160 cm, 48.6 kg pre-pregnancy, 58 kg just before birth, now breastfeeding and healing a tear. The plan's protein (fish/meat/egg at every meal) is sized right for her; the failure mode is the two of you quietly halving her dishes. Eric (170 cm, ~71 kg) tops up with rice, vegetables and soup — not with her protein.
+
+**Day 3 worked example:** lunch soup (300 g ribs) and lettuce (greens serve 2) are fine as written; buy the pomfret **large, ~500–600 g**, so there's a proper fish portion for her and a share for Eric. Dinner (recipe 28) as written is one bowl — cook **double** for two: 300 g noodles, 200 g chicken, 4 bok choy, 1.2 L broth.
+
+---
+
 ## 🔧 How you'll actually cook it (set-and-forget)
 
 Every dish runs on the **four things actually on the counter** — and the pan work is short and beginner-safe: vegetable sides, plus the sear that starts each braise or soup. Button names here are the ones printed on your machines; [`recipes.md`](recipes.md) has the full method map and the button-by-button table.
