@@ -104,7 +104,16 @@ Affect more than half of pregnancies. Fresh ones are **red/purple** (that's the 
 - **Dermatologist options:** microneedling, fractional laser, and other treatments for stubborn marks — discuss cost and expectations honestly.
 - **Acceptance is part of the medicine.** These marks fade into something you barely notice with time; the goal is healthy skin, not airbrushed skin.
 
-## C-section scar
+## Perineal tear scar (her case — one stitch)
+
+Her wound is the **perineal tear**, not a belly scar, so this is where the "wound care" of the appearance file actually lands for her. The full routine (peri bottle, sitz baths, pain, sitting, bowels, healing timeline, red flags) lives in [`perineal-care.md`](perineal-care.md). The appearance-relevant bits:
+
+- **Keep it clean and comfortable, and let it heal** — plain warm water, pat dry, fresh pads; no scented products on it.
+- **Once it's healed (~2 weeks for the skin, ~6 weeks for the deeper tissue):** a **gentle massage** over the scar area (as cleared by the doctor/physio) helps it stay soft and mobile rather than tight or tender. A **women's-health physio** can show her how — useful if it feels tight or painful.
+- **Keep it out of the sun and off irritating products** — same skin-healing rules as any scar.
+- A one-stitch tear usually heals to a barely noticeable thin line. Soreness with sitting, sex or exercise beyond ~6 weeks → get it assessed, don't just live with it.
+
+## C-section scar *(fallback only — not her path)*
 
 - **Weeks 0–6:** keep clean and dry, no massage yet; let it heal. Watch for redness/hot/oozing (see red flags).
 - **Once the doctor says healed (~6 weeks):** gentle **scar massage** (small circles, 5 min, once a day) to stop it sticking to the deeper tissue, and **silicone sheets/gel** to help the scar flatten and fade.
@@ -153,6 +162,8 @@ Caused by pregnancy's extra blood volume and pressure, and they improve but may 
 ---
 
 ## Appearance kit — what to buy (Singapore)
+
+*(For her: the perineal-care kit — peri bottle, maternity pads, sitz bath basin, cold packs — is in [`perineal-care.md`](perineal-care.md).)*
 
 | Item | Where | Note |
 |---|---|---|

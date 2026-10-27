@@ -49,7 +49,7 @@ These fill the gaps the original plan (deliberately kept simple) skipped over �
 | 3 (D15–21) | 进补 Lactation boost ⭐ | Papaya fish soup 4–5×, oatmeal, herbal black chicken |
 | 4 (D22–28) | 调理 Strengthening | Wider variety, richer soups, preparing to re-enter normal life |
 
-> 💡 **Confirmed vaginal birth — what changed from the TBD version:** no 生鱼 (snakehead) soup course is needed, ginger stays at the full amount written (no milder first week), and no extra tonic delay applies — sesame oil chicken (Day 8), angkak (Day 12) and dang gui (Week 3) stay as scheduled. The one Week 1 emphasis that *does* change is for the minor perineal tear (1 stitch): keep her stool soft — daily warm fruit, fibre greens and ~2–3 L warm fluids are load-bearing this week, so she never has to strain.
+> 💡 **Confirmed vaginal birth — what changed from the TBD version:** no 生鱼 (snakehead) soup course is needed, ginger stays at the full amount written (no milder first week), and no extra tonic delay applies — sesame oil chicken (Day 8), angkak (Day 12) and dang gui (Week 3) stay as scheduled. The one Week 1 emphasis that *does* change is for the minor perineal tear (1 stitch): keep her stool soft — daily warm fruit, fibre greens and ~2–3 L warm fluids are load-bearing this week, so she never has to strain. **Meals are only half of it — the tear care itself (peri bottle, sitz baths, pain, red flags) is in the recovery program: [`../program/perineal-care.md`](../program/perineal-care.md).**
 
 ---
 

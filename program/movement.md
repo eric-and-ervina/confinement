@@ -4,6 +4,8 @@ Everything physical in the program, in order, with sets and progressions. The ru
 
 > ⚕️ **Only what's cleared, only what's comfortable.** Gentle walking and breathing from day 1. Everything else waits for the **6-week check** and the doctor's OK — and core work ideally waits for a women's-health physiotherapist to check the tummy gap and pelvic floor. **Stop immediately** if something causes pain, heavy bleeding, leaking urine/poo, or a bulging/heavy feeling in the vagina.
 
+> 🧻 **Her birth: vaginal, one stitch (minor perineal tear).** So the extra rule for weeks 1–2 is on top of everything else here: **no straining, no bearing down, no squatting, no lifting beyond the baby** — the perineum is closing and pressure is what delays it. Nothing in this file overrides the tear-care routine in [`perineal-care.md`](perineal-care.md).
+
 ---
 
 ## Why this order (and why the old advice was wrong)
@@ -29,7 +31,9 @@ You are preventing clots and letting things heal. That's it.
 | **Stand & walk** | Around the house, or to the corridor and back | As comfortable, several times a day |
 | **Roll to get up** | Log-roll to your side, push up with the arms — don't sit straight up | Every time |
 
-**C-section:** also **splint the wound** — hold a small pillow or your hands over the scar when you cough, sneeze, laugh or get up. No lifting heavier than the baby + car seat. Keep the wound clean and dry; massage starts only when the doctor says it's healed (usually ~6 weeks) — see [`appearance.md`](appearance.md).
+**Perineal tear (her case, one stitch):** the days-1–7 movement job is circulation and comfort, nothing else — **ankle pumps, breathing, gentle walking, and rolling out of bed**, with the peri-bottle/sitz/pad routine after every toilet trip (see [`perineal-care.md`](perineal-care.md)). **No straining and no bearing down** while the area is healing; sitz baths and ice do the work here, not exercise.
+
+**C-section (fallback only — not her path):** also **splint the wound** — hold a small pillow or your hands over the scar when you cough, sneeze, laugh or get up. No lifting heavier than the baby + car seat. Keep the wound clean and dry; massage starts only when the doctor says it's healed (usually ~6 weeks) — see [`appearance.md`](appearance.md).
 
 **Everything warm, nothing straining.** If bleeding gets heavier or redder after activity, you did too much — rest and try less.
 
@@ -37,7 +41,7 @@ You are preventing clots and letting things heal. That's it.
 
 ## Phase 1 — Weeks 2–6: wake the deep core & pelvic floor
 
-Still no crunches, planks, running, or lifting. This is gentle *re-education*.
+Still no crunches, planks, running, or lifting. This is gentle *re-education*. **If the perineal tear is still sore or the stitch hasn't healed, keep to breathing and walking and skip the rest** — see [`perineal-care.md`](perineal-care.md).
 
 ### The daily 5-minute pelvic-floor & breath routine
 
@@ -81,7 +85,7 @@ Go in with this list. Ask the doctor (and ask for a referral to a **women's-heal
 - [ ] "Can I start core and strength work? Any restrictions?"
 - [ ] "Please check my tummy for **diastasis recti**." *(A gap >2 finger-widths, or a doming/bulge when you lift your head, means: rehab first, no crunches/planks yet.)*
 - [ ] "Can I have a **pelvic-floor assessment**?" *(Leaking, heaviness, pain, or a bulge = physio referral, not "just keep doing Kegels".)*
-- [ ] "Is my wound/tear healed enough for scar massage?"
+- [ ] "Is my **perineal tear/stitch** healed, and is the scar comfortable?" *(Pain with sitting, sex or exercise, or a still-tender scar = ask about a women's-health physio, not "just wait".)*
 - [ ] "Are my **iron/ferritin, vitamin D, and thyroid** okay?"
 - [ ] "How's my blood pressure / mood?"
 
@@ -146,17 +150,20 @@ Brisk walking, stationary bike, or swimming (once the doctor clears it and bleed
 ## Exercise safety rules (print these to the fridge)
 
 1. **Bleeding gets heavier/redder after activity → you did too much.** Rest.
-2. **Pain, pressure, heaviness, or bulging in the vagina → stop and see a women's-health physio.**
-3. **Leaking urine on a cough/sneeze/lift → stop the exercise; it needs assessing, not pushing through.**
-4. **No crunches, sit-ups, full planks, or heavy lifts until the tummy gap and pelvic floor are cleared.**
-5. **Never exercise to exhaustion.** With a newborn, "tired" is the baseline; training should leave you more capable, not wiped out.
-6. **Hydrate and eat.** Exercise while breastfeeding needs water and enough calories (see the [meal plan](../meal/meal-plan.md)).
-7. **C-section:** no lifting beyond baby + car seat for the first ~6 weeks, no abdominal work until cleared, and stop if the wound stings or pulls.
+2. **Perineal pain getting worse, the wound opening, or a fever → stop and see the doctor** (see [`perineal-care.md`](perineal-care.md)).
+3. **Pain, pressure, heaviness, or bulging in the vagina → stop and see a women's-health physio.**
+4. **Leaking urine on a cough/sneeze/lift → stop the exercise; it needs assessing, not pushing through.**
+5. **No crunches, sit-ups, full planks, or heavy lifts until the tummy gap and pelvic floor are cleared.**
+6. **Never exercise to exhaustion.** With a newborn, "tired" is the baseline; training should leave you more capable, not wiped out.
+7. **Hydrate and eat.** Exercise while breastfeeding needs water and enough calories (see the [meal plan](../meal/meal-plan.md)).
+8. **Perineal tear (her case):** no straining/bearing down, no squatting, no lifting beyond the baby while it heals; keep the hygiene loop going.
+9. **C-section (fallback):** no lifting beyond baby + car seat for the first ~6 weeks, no abdominal work until cleared, and stop if the wound stings or pulls.
 
 ---
 
 ## Cross-references
 
 - The week-by-week schedule → [`plan.md`](plan.md)
+- The perineal tear/stitch she actually has → [`perineal-care.md`](perineal-care.md)
 - Wound/scar care and posture side effects → [`appearance.md`](appearance.md)
 - Pelvic-floor **and** pelvic-health/intimacy symptoms → [`mind-body.md`](mind-body.md)

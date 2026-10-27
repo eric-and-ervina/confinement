@@ -1,13 +1,16 @@
 # Confinement
 
-A 28-day confinement (坐月子) meal plan for Singapore home cooking.
+A complete postpartum recovery kit for a Singapore home — **not just meals.** Food (28 days, 坐月子), an herb-forward TCM track, and a holistic 12-week recovery program covering rest, the healing tear, movement, skin and hair, mind and mood, and medical follow-up.
+
+**Her birth:** unmedicated vaginal delivery, Mon 26 Oct 2026, one stitch (minor perineal tear).
 
 ## 📁 program/
 
 | File | Contents |
 |---|---|
-| [`program/README.md`](program/README.md) | Overview, the 6 pillars, the 3 phases, and the emergency red-flag list |
+| [`program/README.md`](program/README.md) | Overview, the 7 pillars, the 3 phases, and the emergency red-flag list |
 | [`program/plan.md`](program/plan.md) | The full 12-week holistic plan (movement, appearance, mind), plus months 3–12 |
+| [`program/perineal-care.md`](program/perineal-care.md) | 🧻 The tear & stitch she actually has — hygiene, sitz baths, pain, sitting, bowels, the healing timeline, and the perineal red flags |
 | [`program/movement.md`](program/movement.md) | Breathing, pelvic floor, core & diastasis, posture, walking, strength — with sets and progressions |
 | [`program/appearance.md`](program/appearance.md) | Skin, hair loss, stretch marks, teeth, feet, veins, and a simple daily glow routine |
 | [`program/mind-body.md`](program/mind-body.md) | Sleep, mood (baby blues vs PPD), intimacy & pelvic health, breastfeeding care |

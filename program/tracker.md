@@ -11,6 +11,8 @@ Tick what happened. **Aim for "some," not "all."** On the worst days, the first 
 | Habit | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |---|---|---|---|---|---|---|---|
 | Woke to warm fluids + warm breakfast | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| 🧻 Perineal care: peri-bottle rinse + fresh pad after every toilet trip — **and no straining** (Phase 1) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| 🧻 Sitz bath 2–3× a day (Phase 1, from ~day 2) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 | 5 slow breaths + pelvic-floor routine (5 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 | Walk (target 10–30 min per phase) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 | Skin routine + SPF (if outdoors) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
@@ -51,7 +53,7 @@ Fill in once a week (Sunday works). Trends matter more than any single day. **1 
 - [ ] Clearance for exercise? Any restrictions?
 - [ ] Check my tummy for **diastasis recti** (gap / doming)
 - [ ] **Pelvic-floor assessment** — or referral to a women's-health physio
-- [ ] Is my wound/tear healed enough for **scar massage**?
+- [ ] Is my **perineal tear/stitch** healed, and is the scar comfortable?
 - [ ] **Bloods:** iron/ferritin, vitamin D, thyroid — and review any pregnancy conditions (BP, gestational diabetes → repeat glucose test)
 - [ ] **Mood** — ask for an EPDS screen
 - [ ] Contraception plan
@@ -82,6 +84,7 @@ Fill in once a week (Sunday works). Trends matter more than any single day. **1 
 - **Chest pain, breathlessness, or coughing blood → call 995**
 - **Severe headache, blurred vision, flashing lights, upper-belly pain, sudden swelling → possible pre-eclampsia, call 995**
 - Wound (C-section or tear) **opening, oozing, or hot and angry red**
+- **Perineal pain getting worse after day 5**, increasing swelling/a hard lump, or a **fever ≥ 38 °C** — see [`perineal-care.md`](perineal-care.md)
 - Breast **hot, red, hard, wedge-shaped, with fever/aches** → mastitis, get treated fast
 - **Thoughts of harming yourself or the baby, confusion, or hearing/seeing things → 995 / A&E immediately**
 
@@ -90,6 +93,7 @@ Fill in once a week (Sunday works). Trends matter more than any single day. **1 
 - Big increase in pain, or pain that isn't improving
 - **Over 2 weeks of low mood, or can't sleep even when the baby sleeps**
 - Urine leaking on cough/sneeze/lift, heaviness or bulging in the vagina
+- **Can't pass urine at all, or can't tell when the bladder is full** (postpartum urinary retention)
 - Persistent headache, dizziness, or racing heart
 - No bowel movement for days, or painful haemorrhoids
 
@@ -108,6 +112,7 @@ Track these instead of only weight — they're the real proof the program is wor
 ## Cross-references
 
 - The plan these check-ins follow → [`plan.md`](plan.md)
+- The tear & stitch care behind the 🧻 lines → [`perineal-care.md`](perineal-care.md)
 - Exercises and safety rules → [`movement.md`](movement.md)
 - Skin, hair and body care → [`appearance.md`](appearance.md)
 - Mood, sleep, intimacy → [`mind-body.md`](mind-body.md)
