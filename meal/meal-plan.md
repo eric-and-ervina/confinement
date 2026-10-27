@@ -12,7 +12,7 @@ Three meals a day (breakfast / lunch / dinner), plus snacks and warm teas betwee
 |---|---|---|
 | **Day 1** | **Mon 26 Oct 2026** | Birth — vaginal (natural) delivery, Thomson. Hospital meals. |
 | **Day 2** | **Tue 27 Oct 2026** | Hospital. |
-| **Day 3** | **Wed 28 Oct 2026** | **Discharge after ~11am–12pm — first home-cooked day (see Day 3 rule below).** |
+| **Day 3** | **Wed 28 Oct 2026** | **Discharge after ~11am–12pm. Hospital gives breakfast only — first home-cooked meal is LUNCH (see Day 3 rule below).** |
 | Day 7 | Sun 1 Nov 2026 | End of Week 1. |
 | Day 8 | Mon 2 Nov 2026 | Week 2 starts — first sesame oil chicken 🍶, as planned. |
 | Day 12 | Fri 6 Nov 2026 | First angkak chicken 🍶, as planned. |
@@ -20,15 +20,25 @@ Three meals a day (breakfast / lunch / dinner), plus snacks and warm teas betwee
 | Day 15 | Mon 9 Nov 2026 | Week 3 (lactation boost) starts. |
 | **Day 28** | **Sun 22 Nov 2026** | **Last day of the 28-day plan.** |
 
-### Day 3 (Wed 28 Oct) — lunch or dinner?
+### Day 3 (Wed 28 Oct) — lunch IS the first home meal (confirmed)
 
-Discharge is after 11am–12pm, so treat **dinner as the default first home-cooked meal**, and lunch as the bonus case:
+**Confirmed 27 Oct: the hospital provides breakfast only on discharge day — no hospital lunch.** So lunch must be cooked at home, and it is the first home-cooked meal. Discharge is after ~11am–12pm, so the whole lunch is designed to be **on the table ~20 min after walking in** — which means most of it happens the night before:
 
-- **Default — first meal is dinner:** Lunch is hospital / in transit — don't try to cook it on arrival home. On arrival: warm red date tea + a warm snack if she's hungry. First full home meal = **Day 3 dinner as written: rice noodles with chicken & bok choy in warm broth ([recipe 28](recipes.md#28-rice-noodles-with-chicken--bok-choy-in-warm-broth-鸡菜汤河粉))** — one pan, ~15 min, hydrating, gentle. Day 3 breakfast and lunch are simply skipped as home meals; nothing to catch up.
-- **If you are home in time for lunch *and* the soup is already made:** Day 3 lunch as written works — **pork rib-corn soup ([recipe 24](recipes.md#24-pork-rib-corn-soup-light-玉米排骨汤), make it Tue night, fridge, reheat) + baked pomfret on the 烤鱼 preset ([recipe 34](recipes.md#34-air-fried-pomfret-with-ginger-姜烤鲳鱼)) + stir-fried lettuce**. Without the soup pre-made, don't attempt this lunch — fall back to the dinner default above.
+**Day 3 lunch as written:** rice + **baked pomfret on the 烤鱼 preset ([recipe 34](recipes.md#34-air-fried-pomfret-with-ginger-姜烤鲳鱼))** + **stir-fried lettuce ([recipe 54](recipes.md#54-stir-fried-lettuce-炒生菜))** + **pork rib-corn soup ([recipe 24](recipes.md#24-pork-rib-corn-soup-light-玉米排骨汤))**.
+
+**Tue 27 Oct night — do these (this is what makes tomorrow work):**
+1. **Cook the pork rib-corn soup in full** (blanch ribs, **美味汤** 25–30 min), cool, fridge in its pot/container. It reheats in ~5–10 min and tastes better the next day.
+2. **Buy / prep the pomfret:** cleaned and scored from the market, keep raw in the fridge (salt and sesame oil go on tomorrow, just before baking — not overnight).
+3. **Wash and drain the lettuce**, fridge in a covered container, so tomorrow it's a straight 1–2 min toss.
+4. Measure out the rice, ready in the cooker pot.
+
+**Wed 28 Oct — sequence:**
+1. **Before leaving for Thomson:** load rice + water in the Joyoung and set **预约** to finish around **1pm** (adjust to your pickup time — cooked rice holds warm safely if you're later; grains + water only is exactly what 预约 is for). Bring a thermos of warm red date tea (and a warm snack, e.g. banana) for the ride home — breakfast was hours ago by then.
+2. **On arrival home, in this order:** (a) soup on to reheat — she can start on the hot soup first while the rest finishes; (b) pomfret salted, oiled, ginger on, into the AUX oven on **烤鱼**, 12–18 min; (c) lettuce tossed 1–2 min at the end. Rice is already done.
+3. **Day 3 dinner as written** in the evening: rice noodles with chicken & bok choy in warm broth ([recipe 28](recipes.md#28-rice-noodles-with-chicken--bok-choy-in-warm-broth-鸡菜汤河粉)).
 - From **Day 4 (Thu 29 Oct) breakfast** onward, run the table exactly as written, full day.
 
-> **Shopping consequence:** you only need home ingredients from **Day 3 dinner onward** this week (Day 3 lunch items only if you pre-make the soup). Week 1 home shopping is therefore Days 3–7, not Days 1–7 — see [`shopping-list.md`](shopping-list.md).
+> **Shopping consequence:** Week 1 home shopping is Days 3–7, not Days 1–7, and **Day 3 lunch items are now must-haves, not optional** — see [`shopping-list.md`](shopping-list.md).
 
 ---
 

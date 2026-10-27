@@ -96,11 +96,11 @@
 
 ## 🛒 First home shop — Days 3–7 only (Wed 28 Oct – Sun 1 Nov)
 
-Days 1–2 (26–27 Oct) were hospital days, so Week 1 home shopping starts at Day 3. **Day 3 dinner is the must-have**; Day 3 lunch items are only needed if you pre-make the soup on Tue night.
+Days 1–2 (26–27 Oct) were hospital days, so Week 1 home shopping starts at Day 3. **Day 3 lunch is the first home meal and a must-have** — the hospital provides breakfast only on discharge day (confirmed 27 Oct), so there is no hospital lunch to fall back on.
 
-**Must-have for Day 3 dinner (default first home meal):** fresh rice noodles (150 g), chicken breast (100 g, sliced thin), baby bok choy (2), chicken broth / stock (600 ml — or a chicken carcass/breast to make [recipe 16](recipes.md#16-chicken-broth-清鸡汤--the-base)), ginger, sesame oil.
+**Must-have for Day 3 lunch (first home meal, Wed 28 Oct):** pomfret (1, cleaned/scored), lettuce (1 head), pork ribs (300 g), corn (1 cob), carrot (1), rice, ginger, sesame oil. **Cook the pork rib-corn soup on Tue night** and reheat it — see the Day 3 sequence in [`meal-plan.md`](meal-plan.md).
 
-**Only if doing Day 3 lunch:** pomfret (1), lettuce (1 head), pork ribs (300 g), corn (1 cob), carrot (1).
+**Must-have for Day 3 dinner:** fresh rice noodles (150 g), chicken breast (100 g, sliced thin), baby bok choy (2), chicken broth / stock (600 ml — or a chicken carcass/breast to make [recipe 16](recipes.md#16-chicken-broth-清鸡汤--the-base)), ginger, sesame oil.
 
 **Days 4–7 fresh (Thu 29 Oct – Sun 1 Nov):** salmon fillet (Day 4), seabass + a white fish for soups/steaming (Days 5–6), chicken breast + whole chicken for broth/shredding, lean pork slices, pork ribs (Day 5 soup), beef slices for beef with ginger & onion (Day 7 lunch), eggs (a dozen), spinach, kai lan, choy sum, broccoli, zucchini, sweet potato leaves, cabbage, mushrooms, tofu; millet, rice, mee sua 面线; red dates, longan, goji, old ginger, sesame oil; warm fruit (apple/pear/banana/papaya) + fortified milk/soy milk and calcium-set tofu for the daily calcium stack.
 
