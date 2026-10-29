@@ -100,7 +100,7 @@ Everything that needs real time under heat (rice, soups, braises, fish) happens 
 
 **预约** on the pressure cooker is the single best feature in the house for a newborn month. Load it at night, wake up to breakfast:
 
-1. **10.30 pm:** rice or millet + water + ginger and/or red dates in the pot, lid on, **预约** set so it's ready around 6.30 am (that's your 8 hours).
+1. **10.30 pm:** rice + water + ginger and/or red dates in the pot, lid on, **预约** set so it's ready around 6.30 am (that's your 8 hours).
 2. **Morning:** it's done and sitting on **保温**. Boil the eggs in the pan while you're at it — breakfast is two minutes of work.
 3. Same trick for congee (recipes 9–12), the red-date/longan base for the oatmeal (13 — just add oats in the morning) and the red-date tea (6).
 
@@ -234,7 +234,7 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 ## 5. Ginger Millet Porridge (姜香小米粥)
 
-*Appears: days 1, 5*
+*Appears: day 1 only — Day 5 moved to recipe 13 on 30 Oct 2026 (Ervina confirmed she is fine with oatmeal; millet is untried for her, so the plan no longer relies on it)*
 
 **Scores — Ease 5/5 · Taste 3/5 · Confinement 5/5** · *Press 浓香粥 and walk away; plain, but gentle on a day-1 stomach.*
 
@@ -411,7 +411,7 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 ## 13. Red Date & Longan Oatmeal (红枣龙眼燕麦粥) ⭐ Lactation Breakfast
 
-*Appears: days 4, 7, 10, 14, 15, 17, 19, 23, 26*
+*Appears: days 4, 5, 7, 10, 14, 15, 17, 19, 23, 26 — confirmed 30 Oct 2026: Ervina ate the Day 4 bowl and is fine with oatmeal, so the proposed oatmeal swap is retired and Day 5 joins this list*
 
 **Scores — Ease 4/5 · Taste 4/5 · Confinement 5/5** · *12 minutes at the pan with a stir; oats + warm fluids = the evidence-based lactation breakfast.*
 

@@ -10,7 +10,7 @@
 | Rice wine 黄酒 / 红糟酒 | Chinese grocer, supermarket, or medical hall (look for confinement-brewed wine) |
 | **Angkak 红曲米** (~50 g) | Chinese medical hall or supermarket — **mum is supplying ours**; sealed and labelled only, not loose |
 | Old ginger, green papaya, leafy greens | Wet market or NTUC FairPrice / Sheng Siong / Cold Storage |
-| Oatmeal, millet, black sesame paste | Supermarket |
+| Oatmeal, black sesame paste | Supermarket |
 
 **Avoid / limit** (see [`avoid-limit-card.md`](avoid-limit-card.md)): high-mercury fish (shark, swordfish, king mackerel), coffee/strong tea while establishing supply, and raw/cold foods — already covered by the 4 golden rules.
 
@@ -76,7 +76,7 @@
 - Spring onions, light soy sauce, salt
 
 **Grains**
-- Rice, mee sua 面线, rice noodles, millet, oatmeal
+- Rice, mee sua 面线, rice noodles, oatmeal
 
 **Drinks**
 - Red dates + longan (for the daily tea)
@@ -102,9 +102,9 @@ Days 1–2 (26–27 Oct) were hospital days, so Week 1 home shopping starts at D
 
 **Must-have for Day 3 dinner (cook DOUBLE the recipe — as written it's one bowl, hers):** fresh rice noodles (**300 g**), chicken breast (**200–250 g**, sliced thin), baby bok choy (**4**), chicken broth / stock (**1.2 L** — or a chicken carcass/breast to make [recipe 16](recipes.md#16-chicken-broth-清鸡汤--the-base), which yields ~2 L), ginger, sesame oil.
 
-**Days 4–7 fresh (Thu 29 Oct – Sun 1 Nov):** salmon fillet (Day 4 — **buy 2 if Eric shares that dinner**; plated fish/meat is one portion as written, pot dishes already serve 2), seabass + a white fish for soups/steaming (Days 5–6), chicken breast + whole chicken for broth/shredding, lean pork slices, pork ribs (Day 5 soup), beef slices for beef with ginger & onion (Day 7 lunch), eggs (a dozen), spinach, kai lan, choy sum, broccoli, zucchini, sweet potato leaves, cabbage, mushrooms, tofu; millet, rice, mee sua 面线; red dates, longan, goji, old ginger, sesame oil; warm fruit (apple/pear/banana/papaya) + fortified milk/soy milk and calcium-set tofu for the daily calcium stack.
+**Days 4–7 fresh (Thu 29 Oct – Sun 1 Nov):** salmon fillet (Day 4 — **buy 2 if Eric shares that dinner**; plated fish/meat is one portion as written, pot dishes already serve 2), seabass + a white fish for soups/steaming (Days 5–6), chicken breast + whole chicken for broth/shredding, lean pork slices, pork ribs (Day 5 soup), beef slices for beef with ginger & onion (Day 7 lunch), eggs (a dozen), spinach, kai lan, choy sum, broccoli, zucchini, sweet potato leaves, cabbage, mushrooms, tofu; rice, mee sua 面线, oatmeal; red dates, longan, goji, old ginger, sesame oil; warm fruit (apple/pear/banana/papaya) + fortified milk/soy milk and calcium-set tofu for the daily calcium stack.
 
-*Oatmeal is still on Days 4 and 7 breakfasts as written — Ervina's dislike and the proposed swaps are a separate, still-unconfirmed decision; don't shop around it until that's settled.*
+*Resolved 30 Oct 2026: oatmeal stays — Ervina ate the Day 4 oatmeal and is fine with it, so the proposed swap is retired and all oatmeal breakfasts (now including Day 5, recipe 13) run as written. Don't buy millet — Day 5 no longer uses it, and she has never eaten it.*
 
 ## Typical Weekly Grocery Budget (rough guide)
 

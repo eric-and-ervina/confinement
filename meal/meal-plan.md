@@ -92,6 +92,8 @@ Every recipe in [`recipes.md`](recipes.md) is scored out of 5 for **ease** (how 
 
 **Focus:** expel lochia, rest digestion, perineal recovery. Light and easy-to-digest only — no heavy tonics.
 
+> ✅ **Oatmeal confirmed — swap retired (30 Oct 2026):** Ervina ate the Day 4 oatmeal and is fine with it, so the proposed oatmeal swap (mee sua / congee / sesame paste rotation, and millet as a substitute) is **retired** — all oatmeal breakfasts stay as written. Day 5's millet porridge is swapped to oatmeal instead: she has never eaten millet, so there's no new grain to test. Millet remains only on Day 1 (hospital day, already past).
+
 > ✅ **Optimised for the confirmed vaginal birth (was: delivery method TBD).** No C-section wound, so: **(1)** no snakehead (生鱼) soup course is needed; **(2)** ginger stays at the **full amount written** in every recipe — the "keep ginger milder in week 1" rule was C-section-only; **(3)** no *extra* tonic delay is needed beyond this plan — sesame oil chicken on Day 8, angkak on Day 12 and dang gui in Week 3 stay exactly as scheduled. Do **not** pull tonics/wine dishes into Week 1 either: the Week 1 lightness is about lochia and digestion, not delivery mode, and it still applies.
 >
 > 🧻 **Perineal tear (minor, 1 stitch) — Week 1 priority is a soft stool.** Straining is what hurts a stitch, so in practice: **daily warm fruit + leafy/fibrous greens + soups/teas (~2–3 L warm fluids) every day, no skipping** — these are already on the plan, for her they are now load-bearing, not optional extras. Protein (fish, chicken, egg at every meal) and vitamin-C vegetables (broccoli, kai lan, bok choy) support tissue repair. **The food half is here; the rest of the tear care (peri bottle, sitz baths, pain, what's normal) is in the recovery program → [`../program/perineal-care.md`](../program/perineal-care.md).**
@@ -102,7 +104,7 @@ Every recipe in [`recipes.md`](recipes.md) is scored out of 5 for **ease** (how 
 | **2** | Fish congee (threadfin) | Rice, steamed egg custard, stir-fried choy sum, tofu-mushroom soup | Rice, braised pork collar slices w/ ginger, blanched broccoli, mild fish soup |
 | **3** | Ginger red-date porridge + egg | Rice, baked pomfret (air-fry) w/ ginger, stir-fried lettuce, pork rib-corn soup (light) | Rice noodles w/ chicken & bok choy in warm broth |
 | **4** | Oatmeal w/ red dates + egg | Rice, steamed chicken breast w/ goji, blanched kai lan, egg-drop soup | Rice, baked salmon (air-fry), stir-fried sweet potato leaves, white fish soup |
-| **5** | Millet porridge + egg | Rice, steamed seabass w/ ginger & spring onion, stir-fried zucchini, clear pork rib soup | Sesame-oil noodles (面线) w/ shredded chicken |
+| **5** | Oatmeal w/ red dates & longan + egg | Rice, steamed seabass w/ ginger & spring onion, stir-fried zucchini, clear pork rib soup | Sesame-oil noodles (面线) w/ shredded chicken |
 | **6** | Ginger porridge + egg | Rice, lean pork slices w/ mushrooms & ginger, blanched spinach, tofu soup | Steamed fish, stir-fried cabbage w/ ginger, chicken broth |
 | **7** | Oatmeal + red dates | Rice, beef w/ ginger & onion (gentle pan), blanched choy sum, fish soup | Mee sua w/ poached egg + chicken in broth |
 
