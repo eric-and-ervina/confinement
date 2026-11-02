@@ -78,7 +78,7 @@ Every dish runs on the **four things actually on the counter** — and the pan w
 
 ## 📊 Picking dishes by score
 
-Every recipe in [`recipes.md`](recipes.md) is scored out of 5 for **ease** (how effortless — active minutes and attention, not skill), **taste**, and **confinement fit** (how well it nourishes her recovery and milk supply). The full sorted scoreboard is at the end of that file. If you only remember three things:
+Every recipe in [`recipes.md`](recipes.md) is scored out of 5 for **ease** (how effortless — active minutes and attention, not skill), **taste**, and **confinement fit** (how well it nourishes her recovery and milk supply) — and carries a headline ⭐ **Score out of 30** combining the three with Eric's weights: **Ease ×2 + Taste ×1 + Confinement ×3** (fit counts most, ease double in the newborn season, taste the flexible one; the components stay printed so the Score can be recomputed if the weights change). The full scoreboard, sorted by that Score, is at the end of that file. If you only remember three things:
 
 - **Tired day, still excellent (ease 4–5, fit 5):** baked salmon (35), steamed fish (8), braised lean pork (44), peanut & pork rib soup (7), breakfast porridges (5, 11, 12), red date tea (6), baked sweet potato (68).
 - **Best eating (taste 5):** sesame oil chicken (1), beef brisket (49), pork ribs with lotus root & red dates (47), peanut & pork rib soup (7), yellow wine chicken (4), baked salmon (35).
