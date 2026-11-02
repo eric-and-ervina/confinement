@@ -54,7 +54,7 @@ Two honest caveats. These are judgement calls, not lab data, and **nothing here 
 >
 > So: **sear and brown in the frying pan on medium → deglaze the pan with the recipe's wine or water → tip everything into the cooker → close and run the preset → use 开盖收汁 for the final reduction.** One extra pan, and the deglaze leaves it nearly clean.
 >
-> Frying *aromatics only* — ginger in oil, no meat, no browning wanted — is fine in the pot. Test **开盖收汁** once after your first pressure cook: open the lid, add a splash of water, press the button — if it simmers, the reduction step works as written. If it does nothing on your model, reduce the sauce in the frying pan instead; nothing else changes.
+> Frying *aromatics* in the pot was **live-tested on Eric's Joyoung (2 Nov 2026) and failed — the oil splashes**. So fry the ginger in the frying pan even for one-pot dishes, then tip oil and ginger into the cooker. **开盖收汁** is kept only for what it is good at: reducing a watery sauce after the pressure cycle, which simmers without splashing.
 
 ### Steaming in a frying pan — the one technique to get right
 
