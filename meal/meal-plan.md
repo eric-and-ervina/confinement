@@ -88,7 +88,7 @@ Every recipe in [`recipes.md`](recipes.md) is scored out of 5 for **ease** (how 
 
 ---
 
-> 🥣 **Breakfast default — oatmeal (decided 5 Nov 2026, Eric + Ervina):** from Day 11 on, breakfast is **oatmeal w/ red dates & longan + egg** every day (settled spec: recipe 13 — 6 pitted red dates + 8 longan in 400 ml water, Joyoung \u7f8e\u5473\u6c64 ~10 min, 60 g oats stirred in, \u4fdd\u6e29 8–10 min; egg separate). Ervina finds the oats breakfast reliably eases her bowel movement — soluble fibre doing real work — so it outranks the rotation. The original breakfasts (ginger congee, red date porridge, black sesame paste, black chicken congee, ginger fried rice) remain as **alternates** any day she wants a change; black sesame paste also lives on as a snack.
+> 🥣 **Breakfast default — oatmeal (decided 5 Nov 2026, Eric + Ervina):** from Day 11 on, breakfast is **oatmeal w/ red dates & longan + egg** every day (settled spec: recipe 13 — 6 pitted red dates + 8 longan in 400 ml water, Joyoung 美味汤 ~10 min, 60 g oats stirred in, 保温 8–10 min; egg separate). Ervina finds the oats breakfast reliably eases her bowel movement — soluble fibre doing real work — so it outranks the rotation. The original breakfasts (ginger congee, red date porridge, black sesame paste, black chicken congee, ginger fried rice) remain as **alternates** any day she wants a change; black sesame paste also lives on as a snack.
 
 ## Week 1 — Gentle Recovery 排毒 (Days 1–7)
 
