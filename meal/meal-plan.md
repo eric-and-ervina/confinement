@@ -88,6 +88,8 @@ Every recipe in [`recipes.md`](recipes.md) is scored out of 5 for **ease** (how 
 
 ---
 
+> 🥣 **Breakfast default — oatmeal (decided 5 Nov 2026, Eric + Ervina):** from Day 11 on, breakfast is **oatmeal w/ red dates & longan + egg** every day (settled spec: recipe 13 — 6 pitted red dates + 8 longan in 400 ml water, Joyoung \u7f8e\u5473\u6c64 ~10 min, 60 g oats stirred in, \u4fdd\u6e29 8–10 min; egg separate). Ervina finds the oats breakfast reliably eases her bowel movement — soluble fibre doing real work — so it outranks the rotation. The original breakfasts (ginger congee, red date porridge, black sesame paste, black chicken congee, ginger fried rice) remain as **alternates** any day she wants a change; black sesame paste also lives on as a snack.
+
 ## Week 1 — Gentle Recovery 排毒 (Days 1–7)
 
 **Focus:** expel lochia, rest digestion, perineal recovery. Light and easy-to-digest only — no heavy tonics.
@@ -127,10 +129,10 @@ Every recipe in [`recipes.md`](recipes.md) is scored out of 5 for **ease** (how 
 | **8** | Black sesame paste + egg | Rice, **sesame oil chicken** 🍶 (first time!), stir-fried broccoli, tofu soup | Rice, steamed threadfin, braised black fungus + snow peas, peanut & pork rib soup |
 | **9** | Ginger congee + egg | Rice, **beef w/ ginger & onion** (gentle pan), stir-fried okra, fish soup | Rice, steamed chicken w/ ginger, blanched spinach, red date & chicken soup |
 | **10** | Oatmeal w/ longan | Rice, steamed pomfret, stir-fried cauliflower, pork collar & carrot soup | Rice, sesame oil pork slices w/ ginger 🍶, stir-fried kai lan |
-| **11** | Red date porridge + egg | Rice, baked cod (air-fry), stir-fried nai bai, egg & tomato soup (warm) | Rice noodles w/ beef slices + greens in broth |
-| **12** | Black sesame paste + egg | Rice, **angkak chicken** 🍶 (红曲米鸡 — [recipe 69](recipes.md#69-angkak-chicken-红曲米鸡), light on wine), stir-fried zucchini, fish tofu soup | Rice, steamed seabass, braised lotus root slices, pork rib soup |
-| **13** | Ginger porridge + egg | Rice, steamed chicken thigh w/ goji, stir-fried sweet potato leaves, clear fish soup | Rice, pork collar w/ black fungus (pan), blanched broccoli |
-| **14** | Oatmeal + egg | Rice, **sesame oil chicken** 🍶, stir-fried spinach, peanut pork rib soup | Steamed fish, stir-fried mixed veg, red date chicken soup |
+| **11** | Oatmeal w/ red dates & longan + egg | Rice, baked cod (air-fry), stir-fried nai bai, egg & tomato soup (warm) | Rice noodles w/ beef slices + greens in broth |
+| **12** | Oatmeal w/ red dates & longan + egg | Rice, **angkak chicken** 🍶 (红曲米鸡 — [recipe 69](recipes.md#69-angkak-chicken-红曲米鸡), light on wine), stir-fried zucchini, fish tofu soup | Rice, steamed seabass, braised lotus root slices, pork rib soup |
+| **13** | Oatmeal w/ red dates & longan + egg | Rice, steamed chicken thigh w/ goji, stir-fried sweet potato leaves, clear fish soup | Rice, pork collar w/ black fungus (pan), blanched broccoli |
+| **14** | Oatmeal w/ red dates & longan + egg | Rice, **sesame oil chicken** 🍶, stir-fried spinach, peanut pork rib soup | Steamed fish, stir-fried mixed veg, red date chicken soup |
 
 **Snacks (week 2):** sweet potato from the oven (**红薯** preset — set-and-forget), black sesame paste, red date tea, warm soy milk with ginger.
 
@@ -150,13 +152,13 @@ Every recipe in [`recipes.md`](recipes.md) is scored out of 5 for **ease** (how 
 
 | Day | Breakfast | Lunch | Dinner |
 |---|---|---|---|
-| **15** | Oatmeal (lactation!) + egg | Rice, **green papaya fish soup** (生鱼/午鱼), stir-fried kai lan, braised lean pork | Rice, sesame oil chicken 🍶, blanched spinach |
-| **16** | Black chicken congee w/ goji | Rice, steamed threadfin, stir-fried asparagus, green papaya fish soup | Rice, braised pork collar w/ chestnuts, stir-fried cabbage |
-| **17** | Oatmeal + red dates | Rice, **herbal black chicken soup** (药材鸡汤 — dang gui + astragalus + red dates; DIY herbal pack amounts in [recipe 3](recipes.md#3-herbal-black-chicken-soup-药材鸡汤)), stir-fried broccoli | Rice, baked salmon (air-fry), stir-fried nai bai |
-| **18** | Ginger porridge + egg | Rice, steamed seabass, stir-fried spinach, papaya fish soup | Rice, sesame oil chicken 🍶, braised black fungus |
-| **19** | Oatmeal + longan | Rice, **herbal black chicken soup**, stir-fried choy sum | Rice, **baked salmon** (air-fry), stir-fried okra |
-| **20** | Black sesame paste + egg | Rice, yellow wine chicken 🍶 (250 ml — the biggest wine dose in the plan), stir-fried asparagus, fish soup | Rice, braised pork ribs w/ lotus root + red dates, blanched broccoli |
-| **21** | Red date porridge + egg | Rice, green papaya fish soup, stir-fried sweet potato leaves | Rice, **braised pork belly w/ ginger**, stir-fried mixed veg |
+| **15** | Oatmeal w/ red dates & longan + egg | Rice, **green papaya fish soup** (生鱼/午鱼), stir-fried kai lan, braised lean pork | Rice, sesame oil chicken 🍶, blanched spinach |
+| **16** | Oatmeal w/ red dates & longan + egg | Rice, steamed threadfin, stir-fried asparagus, green papaya fish soup | Rice, braised pork collar w/ chestnuts, stir-fried cabbage |
+| **17** | Oatmeal w/ red dates & longan + egg | Rice, **herbal black chicken soup** (药材鸡汤 — dang gui + astragalus + red dates; DIY herbal pack amounts in [recipe 3](recipes.md#3-herbal-black-chicken-soup-药材鸡汤)), stir-fried broccoli | Rice, baked salmon (air-fry), stir-fried nai bai |
+| **18** | Oatmeal w/ red dates & longan + egg | Rice, steamed seabass, stir-fried spinach, papaya fish soup | Rice, sesame oil chicken 🍶, braised black fungus |
+| **19** | Oatmeal w/ red dates & longan + egg | Rice, **herbal black chicken soup**, stir-fried choy sum | Rice, **baked salmon** (air-fry), stir-fried okra |
+| **20** | Oatmeal w/ red dates & longan + egg | Rice, yellow wine chicken 🍶 (250 ml — the biggest wine dose in the plan), stir-fried asparagus, fish soup | Rice, braised pork ribs w/ lotus root + red dates, blanched broccoli |
+| **21** | Oatmeal w/ red dates & longan + egg | Rice, green papaya fish soup, stir-fried sweet potato leaves | Rice, **braised pork belly w/ ginger**, stir-fried mixed veg |
 
 **Snacks / teas (week 3):** warm fruit, black sesame paste, warm red date & longan tea, warm soy milk with ginger.
 
@@ -174,13 +176,13 @@ Every recipe in [`recipes.md`](recipes.md) is scored out of 5 for **ease** (how 
 
 | Day | Breakfast | Lunch | Dinner |
 |---|---|---|---|
-| **22** | Ginger fried rice w/ chicken + egg | Rice, sesame oil chicken 🍶, stir-fried kai lan, peanut pork rib soup | Steamed fish w/ fermented black beans, stir-fried mixed veg |
-| **23** | Oatmeal + egg | Rice, braised pork belly w/ chestnuts, stir-fried spinach, herbal black chicken soup | Rice, baked threadfin (air-fry), stir-fried zucchini |
-| **24** | Black sesame paste + egg | Rice, **herbal black chicken soup**, stir-fried broccoli | Rice, **baked salmon** (air-fry), braised lotus root |
-| **25** | Ginger congee + egg | Rice, **angkak chicken** 🍶 (红曲米鸡 — mum's [recipe 69](recipes.md#69-angkak-chicken-红曲米鸡)), stir-fried sweet potato leaves, fish soup | Rice, braised beef brisket w/ ginger, blanched choy sum |
-| **26** | Oatmeal w/ red dates | Rice, green papaya fish soup, stir-fried asparagus | Rice, sesame oil chicken 🍶, stir-fried nai bai |
-| **27** | Red date porridge + egg | Rice, **baked salmon** (air-fry), stir-fried spinach, pork rib-corn soup | Rice, braised pork collar w/ mushrooms, blanched broccoli |
-| **28** | Ginger fried rice w/ egg | Rice, herbal chicken soup, stir-fried kai lan | Rice, steamed fish, stir-fried mixed veg — celebrate! 🎉 |
+| **22** | Oatmeal w/ red dates & longan + egg | Rice, sesame oil chicken 🍶, stir-fried kai lan, peanut pork rib soup | Steamed fish w/ fermented black beans, stir-fried mixed veg |
+| **23** | Oatmeal w/ red dates & longan + egg | Rice, braised pork belly w/ chestnuts, stir-fried spinach, herbal black chicken soup | Rice, baked threadfin (air-fry), stir-fried zucchini |
+| **24** | Oatmeal w/ red dates & longan + egg | Rice, **herbal black chicken soup**, stir-fried broccoli | Rice, **baked salmon** (air-fry), braised lotus root |
+| **25** | Oatmeal w/ red dates & longan + egg | Rice, **angkak chicken** 🍶 (红曲米鸡 — mum's [recipe 69](recipes.md#69-angkak-chicken-红曲米鸡)), stir-fried sweet potato leaves, fish soup | Rice, braised beef brisket w/ ginger, blanched choy sum |
+| **26** | Oatmeal w/ red dates & longan + egg | Rice, green papaya fish soup, stir-fried asparagus | Rice, sesame oil chicken 🍶, stir-fried nai bai |
+| **27** | Oatmeal w/ red dates & longan + egg | Rice, **baked salmon** (air-fry), stir-fried spinach, pork rib-corn soup | Rice, braised pork collar w/ mushrooms, blanched broccoli |
+| **28** | Oatmeal w/ red dates & longan + egg | Rice, herbal chicken soup, stir-fried kai lan | Rice, steamed fish, stir-fried mixed veg — celebrate! 🎉 |
 
 **Snacks / teas (week 4):** warm fruit, black sesame paste, warm red date & longan tea, warm soy milk with ginger — same as week 3.
 
