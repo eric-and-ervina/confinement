@@ -812,6 +812,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 **Trick:** never boil the beef — the residual heat of the broth finishes it. This is your week-2 iron boost.
 
+**Cooked 5 Nov 2026 (Day 11), household scale:** 300 g beef shabu + 300 g kway teow, 800 ml water + Maggi concentrate, ½ carrot (~47 g) in place of greens, 6 ginger slices. **Ervina's verdict: easy to make and delicious — flagged as a post-confinement repeat dish.** Note: with soy-marinated beef poached in the broth, the full Day-3 Maggi dose (1 tbsp + 1 tsp per 800 ml) stacked up more umami than expected — next time use **1 tbsp flat**; the marinade makes up the difference.
+
 ---
 
 # 🥚 Steamed Dishes
