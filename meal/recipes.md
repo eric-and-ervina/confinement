@@ -125,25 +125,28 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: days 8, 14, 15, 18, 22, 26*
 
-**Scores — ⭐ 28/30 · Ease 4/5 · Taste 5/5 · Confinement 5/5** · *Pan sear, one-pot finish; the definitive confinement chicken. Wine, so feed-first.*
+**Scores — ⭐ 28/30 · Ease 4/5 · Taste 5/5 · Confinement 5/5** · *Pan sear, one-pot finish; the definitive confinement chicken. Wine is now a 2 tsp splash — background only.*
 
 **Ingredients**
 - 500 g chicken (prefer 甘榜/camp chicken or bone-in thighs)
 - 3 tbsp sesame oil (use roasted, not the pale cooking kind)
 - 8–10 slices old ginger (老姜)
-- 150 ml rice wine (米酒/黄酒) + water to cover
-- 1 tbsp brown sugar (optional)
+- 2 tsp huadiao (花雕) — a splash on the hot pan edge, **not** a braise *(revised 5 Nov 2026; was 150 ml rice wine)*
+- ~100 ml water
+- 1 tsp brown sugar (optional)
 
-**Method (pan sear → pressure cooker)**
+**Method (all in the pan)**
 1. Pat the chicken dry. Warm the sesame oil in the frying pan on **medium**, fry the ginger slices until golden and fragrant (5–7 min) — this is where the flavour lives.
 2. Add the chicken and sear until golden on all sides; don't crowd the pan — two batches beats one steamed batch.
-3. Pour in the rice wine and scrape the browned bits off the pan, then tip the chicken, ginger and liquid into the pressure cooker. Add enough water to barely cover.
-4. Close the lid, select **鸡鸭肉** and cook ~25–30 min until tender.
-5. Quick or natural release; if the sauce is loose, **开盖收汁** 3–5 min. Add sugar if you like. Serve with rice or 面线.
+3. Everything back in the pan. Splash the **2 tsp huadiao around the hot pan's edge** — it sizzles and mostly flashes off, deglazing the browned bits. Scrape them up as it goes.
+4. Add the ~100 ml water — just enough to keep the pan moist, not a bath. Lid on, **gentle simmer 15–20 min**, turn the pieces once, until the largest piece is cooked through (no pink at the bone).
+5. Lid off; if the sauce is loose, reduce 2–3 min. Add sugar if you like. Serve with rice or 面线.
 
-**Trick:** the pan gives you the golden crust the dish is named for; the cooker gives you the tender, hands-off finish. Deglazing with the wine means none of that browned flavour stays behind in the pan.
+**Trick:** the dish's flavour is sesame + ginger + sear, not wine. The splash gives aroma and lifts the fond; at 2 tsp the wine never becomes the sauce.
 
-> ⚠️ **Alcohol note (breastfeeding):** alcohol does **not** boost milk supply — and it passes into breastmilk — so treat the wine as flavour and tradition, not a supply tool. A pressure-cook finish still leaves some alcohol; for peace of mind, use low-alcohol confinement-brewed wine (米酒), or swap some of the wine for extra water/stock. **Practical rule:** have her feed/pump just before the meal, or wait ~2 hours after it — most of this plan's wine dishes land at lunch, so feed-first is the realistic version (cooking them at dinner when you can is still the easy win).
+> 📝 **Revision note (5 Nov 2026, Eric's call):** the original version braised in 150 ml rice wine + water to cover, pressure-cooker finish — cooked Day 8, the wine dominated and the dish drank like wine soup. The Day 10 stir-fried pork collar set the preferred pattern (wine as a 2 tsp background splash on the hot pan edge). This recipe now follows that pattern; the pressure cooker is retired from this dish.
+>
+> ⚠️ **Alcohol note (breastfeeding):** alcohol does **not** boost milk supply — treat wine as flavour and tradition, never a supply tool. At this dose (2 tsp splashed on a hot pan, then simmered, across two servings) the remaining alcohol is negligible, and the feed-first timing that bound the old 150 ml version no longer constrains this dish.
 
 ---
 
