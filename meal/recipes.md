@@ -147,6 +147,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 > 📝 **Revision note (5 Nov 2026, Eric's call):** the original version braised in 150 ml rice wine + water to cover, pressure-cooker finish — cooked Day 8, the wine dominated and the dish drank like wine soup. The Day 10 stir-fried pork collar set the preferred pattern (wine as a 2 tsp background splash on the hot pan edge). This recipe now follows that pattern; the pressure cooker is retired from this dish.
 >
 > ⚠️ **Alcohol note (breastfeeding):** alcohol does **not** boost milk supply — treat wine as flavour and tradition, never a supply tool. At this dose (2 tsp splashed on a hot pan, then simmered, across two servings) the remaining alcohol is negligible, and the feed-first timing that bound the old 150 ml version no longer constrains this dish.
+>
+> 🍽️ **Day 12 cook result (6 Nov 2026):** taste verdict — **great, unlike Day 8**; the wine-splash fix is validated. One flaw: the chicken was **a little tough**. Context: the thighs were frozen stock, cold-water thawed that morning; they simmered the full 20 min, then rested ~50 min in the pan while the fish soup ran long. Day 14 counters: gentlest possible simmer, start checking at 15 min, and plate-and-cover when done instead of holding in the pan.
 
 ---
 
