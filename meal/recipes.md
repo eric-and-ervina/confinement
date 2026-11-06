@@ -136,7 +136,7 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 - 1 tsp brown sugar (optional)
 
 **Method (all in the pan)**
-1. Pat the chicken dry. Warm the sesame oil in the frying pan on **medium**, fry the ginger slices until golden and fragrant (5–7 min) — this is where the flavour lives.
+1. Pat the chicken dry. Warm the sesame oil in the frying pan on **medium-low**, fry the ginger slices until golden at the edges and smelling strong — cook by colour, not the clock. On Eric's stove this is **~2–3 min** (6 Nov 2026: 5 min turned the ginger dark, almost burnt, in black sesame oil).
 2. Add the chicken and sear until golden on all sides; don't crowd the pan — two batches beats one steamed batch.
 3. Everything back in the pan. Splash the **2 tsp huadiao around the hot pan's edge** — it sizzles and mostly flashes off, deglazing the browned bits. Scrape them up as it goes.
 4. Add the ~100 ml water — just enough to keep the pan moist, not a bath. Lid on, **gentle simmer 15–20 min**, turn the pieces once, until the largest piece is cooked through (no pink at the bone).
@@ -576,10 +576,12 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 - Spring onion, to finish
 
 **Method**
-1. Warm the sesame oil in the pressure cooker on **开盖收汁 (open-lid)** — ginger only, no sear needed here — and fry the ginger.
-2. Pour in boiling water, add the tofu, simmer 10 min (gentle open-lid heat).
-3. Slide in fish slices, simmer 2–3 min until just opaque (don't boil hard).
-4. Season, top with spring onion, serve hot.
+1. **No frying in the Joyoung.** Do not warm sesame oil in the pressure cooker on **开盖收汁 (open-lid)** to fry the ginger — on Eric's Joyoung the open-lid mode splashes and its power cannot be turned down (Eric's veto, 6 Nov 2026). The sesame oil goes in as a **1 tsp drizzle at the end** instead; its aroma lands stronger that way.
+2. Pour **1 L boiling water** (800 ml if you prefer it more concentrated — everything still submerges) into the Joyoung, add the ginger slices and the tofu cubes. Simmer **10 min on a gentle simmer; 5 min is the full job if it is running at a rolling boil** — the tofu is already cooked and only needs heating through, and a long rolling boil breaks it up and clouds the soup (6 Nov 2026).
+3. **Cancel the heat.** Slide in the fish slices, spread out so they are not stacked, lid on, and poach in the **residual heat 4–5 min** until just opaque. Check the thickest piece: opaque white all the way through and flaking = done. Still glassy in the middle? One short pulse — heat back on ~1 min, then off again. The rule is no sustained hard boil, which breaks fish up.
+4. Season (salt, pinch of white pepper), top with spring onion, drizzle the sesame oil over the top, serve hot.
+
+> 📝 **Revision note (6 Nov 2026, Day 12 cook):** the book's open-lid ginger fry and 2–3 min powered simmer were replaced by the version above after Eric found the Joyoung splashes on open-lid frying and runs a rolling boil, not a gentle simmer. The residual-heat poach worked — the batang slices came out opaque and holding together.
 
 ---
 
