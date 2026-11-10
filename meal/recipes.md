@@ -28,7 +28,7 @@ Two honest caveats. These are judgement calls, not lab data, and **nothing here 
 
 | # | Tool | What's on it | What it cooks |
 |---|---|---|---|
-| 1 | **Joyoung electric pressure cooker** | 精煮饭 · 快速饭 · 浓香粥 · 快速粥 · 美味汤 · 鸡鸭肉 · 排骨 · 牛羊肉 · 豆/蹄筋 · 开盖收汁 · 口感 · 保温 · **预约** | rice, congee, soups, braises, chicken — **set-and-forget** |
+| 1 | **Joyoung electric pressure cooker** | 精煮饭 · 快速饭 · 浓香粥 · 快速粥 · 美味汤 · 鸡鸭肉 · 肉排骨 · 牛羊肉 · 豆/蹄筋 · 开盖收汁 · 口感 · 保温 · **预约** | rice, congee, soups, braises, chicken — **set-and-forget** |
 | 2 | **Stainless frying pan + the wire rack that sits inside it** — this is the steamer | gas hob, plus a lid (or a plate / foil) | every steamed dish — fish, egg custard, chicken |
 | 3 | **AUX air-fryer oven** | 烤鱼 · 烤鸡 · 鸡翅 · 红薯 · 蛋挞 · 蛋糕 · 披萨 · 牛排 · 薯条 · 炸虾 · 汉堡 · **预约** | baked fish dinners, sweet potato, toasted snacks |
 | 4 | **The same frying pan, rack out** | gas hob | greens, stir-fries, noodles, poached eggs, the red-date tea |
@@ -43,7 +43,7 @@ Two honest caveats. These are judgement calls, not lab data, and **nothing here 
 | "porridge / congee" | **浓香粥** (thick — the default here); **快速粥** if you're running late |
 | "煲汤 / soup" | **美味汤** |
 | "chicken programme" | **鸡鸭肉** |
-| "meat programme" | **排骨** for ribs / pork collar / pork belly · **牛羊肉** for beef |
+| "meat programme" | **肉排骨** for ribs / pork collar / pork belly · **牛羊肉** for beef |
 | "beans" | **豆/蹄筋** — for the peanut soup (recipe 7) |
 | "open-lid (开盖煮)" | **开盖收汁** |
 | "keep warm" | **保温** |
@@ -52,9 +52,9 @@ Two honest caveats. These are judgement calls, not lab data, and **nothing here 
 
 > 🔧 **开盖收汁 is a sauce reducer, not a frying pan — so this book splits the job.** The button is built to hold a gentle simmer with the lid off, after a pressure cycle, until the sauce thickens. That is exactly what it is good at. It is *not* a sear mode: in practice it does not get hot enough to brown meat properly, and the pot is too deep and narrow for a 500 g batch, so food added cold releases water and goes grey instead of golden.
 >
-> So: **sear and brown in the frying pan on medium → deglaze the pan with the recipe's wine or water → tip everything into the cooker → close and run the preset → use 开盖收汁 for the final reduction.** One extra pan, and the deglaze leaves it nearly clean.
+> So: **sear and brown in the cooker's own stainless inner pot, set directly on the gas ring on medium → deglaze the pot with the recipe's wine or water → wipe the pot's outside dry and seat it back in the cooker → close and run the preset → use 开盖收汁 for the final reduction.** No transfer and no extra pan: the inner pot *is* a stainless pot, and on the ring it sears like one — full flame control, which the cooker body itself never gives you. (Eric's one-vessel rule, confirmed 10 Nov 2026.)
 >
-> Frying *aromatics* in the pot was **live-tested on Eric's Joyoung (2 Nov 2026) and failed — the oil splashes**. So fry the ginger in the frying pan even for one-pot dishes, then tip oil and ginger into the cooker. **开盖收汁** is kept only for what it is good at: reducing a watery sauce after the pressure cycle, which simmers without splashing.
+> Frying *aromatics* **inside the cooker body on 开盖收汁** was **live-tested on Eric's Joyoung (2 Nov 2026) and failed — the oil splashes**, and that mode's power cannot be turned down. That veto covers the electric open-lid mode only. Frying aromatics in the **inner pot on the gas ring** is a different thing entirely — an ordinary stainless pot on a controllable flame — and is how every cooker dish in this book starts: fry the ginger in the inner pot on the ring, in the same vessel that then goes into the cooker. **开盖收汁** is kept only for what it is good at: reducing a watery sauce after the pressure cycle, which simmers without splashing.
 
 ### Steaming in a frying pan — the one technique to get right
 
@@ -91,7 +91,7 @@ Everything that needs real time under heat (rice, soups, braises, fish) happens 
 | Congee / porridge | **浓香粥** (or **快速粥**) | unattended |
 | Oatmeal | simmer in the pan | 12 min |
 | Soup | **美味汤** | 25–35 min, unattended |
-| Braise / seasoned chicken | pan sear → deglaze → close + **鸡鸭肉** / **排骨** / **牛羊肉** → **开盖收汁** to finish | mostly unattended |
+| Braise / seasoned chicken | pan sear → deglaze → close + **鸡鸭肉** / **肉排骨** / **牛羊肉** → **开盖收汁** to finish | mostly unattended |
 | Steamed fish / egg / chicken | pan + rack + lid | 8–15 min, timer only |
 | Fish dinner | **烤鱼** preset on the AUX oven | 8–18 min, timer only |
 | Sweet potato (snack) | **红薯** preset on the AUX oven | unattended |
@@ -165,9 +165,9 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 - 1.5 L boiling water (this is the milky-broth secret)
 - Salt to taste (light)
 
-**Method (pan-fried fish → pressure cooker)**
-1. Pat the fish dry — wet fish won't brown. Heat a little sesame oil in the frying pan on **medium**; fry the ginger until fragrant, then the **bones** until lightly golden. Keep the fillets aside. In a stainless pan, leave each piece untouched for 30 sec before you try to move it.
-2. Pour a ladle of the **boiling** water into the hot pan — it will hiss, emulsify and lift the browned bits; scrape it in. Tip the bones, ginger and that liquid into the pressure cooker, then add the rest of the boiling water. The broth turns milky white.
+**Method (fish fried in the inner pot → pressure cooker)**
+1. Pat the fish dry — wet fish won't brown. Heat a little sesame oil in the cooker's inner pot on the gas ring on **medium**; fry the ginger until fragrant, then the **bones** until lightly golden. Keep the fillets aside. In the stainless pot, leave each piece untouched for 30 sec before you try to move it.
+2. Pour a ladle of the **boiling** water into the hot pot — it will hiss, emulsify and lift the browned bits; scrape them loose. Add the rest of the boiling water, wipe the pot's outside dry and seat it in the cooker. The broth turns milky white.
 3. Add the papaya chunks. Close the lid, select **美味汤**, cook ~20–25 min until papaya is soft.
 4. Quick-release, open the lid, slide in the fillet pieces and cook **开盖收汁** 3–5 min until just opaque — they stay whole instead of dissolving. Season lightly, serve hot.
 
@@ -230,9 +230,9 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 - 2 tbsp sesame oil
 - 50 g black fungus (soaked, optional)
 
-**Method (pan sear → pressure cooker)**
-1. Pat the chicken dry. Warm the sesame oil in the frying pan on **medium**, fry the ginger until golden. Add the chicken and sear well.
-2. Pour in the yellow wine and scrape the pan, then tip everything into the pressure cooker. Add the black fungus and a splash of water.
+**Method (inner-pot sear → pressure cooker)**
+1. Pat the chicken dry. Warm the sesame oil in the cooker's inner pot on the gas ring on **medium**, fry the ginger until golden. Add the chicken and sear well.
+2. Pour in the yellow wine and scrape the pot. Add the black fungus and a splash of water, wipe the pot's outside dry and seat it in the cooker.
 3. Close the lid, select **鸡鸭肉** and cook ~20–25 min so the wine mellows. If the sauce is loose, **开盖收汁** 3–5 min. Serve hot over rice.
 
 > ⚠️ **Alcohol note (breastfeeding):** alcohol doesn't boost milk supply and passes into breastmilk — the wine is for flavour and tradition. Use low-alcohol confinement wine to keep the alcohol content minimal, and have her feed/pump just before the meal (or wait ~2 hours after it) — cooking it at dinner is still the easiest.
@@ -471,7 +471,7 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 # 🍲 Soups & Broths
 
-> **The gas hob's job in here is zero-pots-on-high.** Every soup below is set-and-forget on **美味汤** — press it, then set the minutes with **时间/温度 + +/−** (its own default runs long; the times below are what you dial in). Deep flavour in ~25–35 min instead of 1.5–2 h on a stove. For the fish soups, you first brown the bones in the frying pan so the broth goes milky-white — the one place a wide, hot pan really earns its keep — then tip them into the cooker.
+> **The gas hob's job in here is zero-pots-on-high.** Every soup below is set-and-forget on **美味汤** — press it, then set the minutes with **时间/温度 + +/−** (its own default runs long; the times below are what you dial in). Deep flavour in ~25–35 min instead of 1.5–2 h on a stove. For the fish soups, you first brown the bones in the cooker's inner pot on the gas ring so the broth goes milky-white, then seat the pot in the cooker — no transfer.
 
 ## 15. Clear Chicken-Carrot Broth (鸡汤胡萝卜清汤)
 
@@ -553,8 +553,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 - Spring onion, to finish
 
 **Method**
-1. Pat the fish dry. Heat the sesame oil in the frying pan on **medium**, fry the ginger until fragrant, then the bones until lightly golden.
-2. Pour a splash of the **boiling** water into the hot pan and scrape up the browned bits, then tip bones + liquid into the pressure cooker and add the rest of the water — the broth turns milky white.
+1. Pat the fish dry. Heat the sesame oil in the cooker's inner pot on the gas ring on **medium**, fry the ginger until fragrant, then the bones until lightly golden.
+2. Pour a splash of the **boiling** water into the hot pot and scrape up the browned bits. Add the rest of the water, wipe the pot's outside dry and seat it in the cooker — the broth turns milky white.
 3. Close the lid, **美味汤**, ~15 min. Quick-release, open the lid, slide in the fillet slices and cook **开盖收汁** 3–5 min at a bare simmer so they stay tender.
 4. Season lightly, top with spring onion, serve hot.
 
@@ -1020,7 +1020,7 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 # 🥩 Meat Dishes
 
-> **All the braises: sear in the frying pan, deglaze, then close the pressure cooker and run the preset — 开盖收汁 finishes the sauce.** The "stir-fried meat" dishes are *gentle pan* versions on low–medium heat. Nothing here needs a fierce wok flame, and nothing needs hot-oil splatter — pat the meat dry and keep the pan on medium.
+> **All the braises: sear in the cooker's inner pot on the gas ring, deglaze in the same pot, seat it in the cooker and run the preset — 开盖收汁 finishes the sauce.** The "stir-fried meat" dishes are *gentle pan* versions on low–medium heat. Nothing here needs a fierce wok flame, and nothing needs hot-oil splatter — pat the meat dry and keep the pan on medium.
 
 ## 38. Beef with Ginger & Onion (姜葱炒牛肉) — gentle pan
 
@@ -1116,15 +1116,15 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 # 🍖 Braises (Pressure Cooker)
 
-> **Every braise = sear in the pan → deglaze → close and use 排骨 (牛羊肉 for beef) → 开盖收汁 to finish.** ~30–45 min set-and-forget for what used to be 1–1.5 h of stove-watching.
+> **Every braise = sear in the inner pot on the gas ring → deglaze in the same pot → seat it, close and use 肉排骨 (牛羊肉 for beef) → 开盖收汁 to finish.** ~30–45 min set-and-forget for what used to be 1–1.5 h of stove-watching.
 >
-> 🔧 **Two things worth knowing.** (1) **开盖收汁 reduces the sauce; it doesn't sear.** It holds a simmer, so cold meat added to it goes grey. Brown in the pan, then deglaze with the recipe's water or wine and tip it all in — the fond *is* the flavour (see [the note at the top](#the-buttons-as-printed-on-your-machines)). (2) Every preset defaults to its own time, so **set the minutes with 时间/温度 + +/−** to the number in the recipe.
+> 🔧 **Two things worth knowing.** (1) **开盖收汁 reduces the sauce; it doesn't sear.** It holds a simmer, so cold meat added to it goes grey. Brown in the cooker's inner pot on the gas ring, then deglaze with the recipe's water or wine in the same pot and seat it in the cooker — the fond *is* the flavour (see [the note at the top](#the-buttons-as-printed-on-your-machines)). (2) Every preset defaults to its own time, so **set the minutes with 时间/温度 + +/−** to the number in the recipe.
 
 ## 42. Braised Pork Collar Slices with Ginger (姜焖猪颈肉)
 
 *Appears: day 2*
 
-**Scores — ⭐ 24/30 · Ease 4/5 · Taste 4/5 · Confinement 4/5** · *Sear + 排骨 preset; savoury-sweet and easy to chew in week 1.*
+**Scores — ⭐ 24/30 · Ease 4/5 · Taste 4/5 · Confinement 4/5** · *Sear + 肉排骨 preset; savoury-sweet and easy to chew in week 1.*
 
 **Ingredients**
 - 250 g pork collar, sliced
@@ -1135,9 +1135,9 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 - 400 ml water
 
 **Method**
-1. Pat the pork dry. Warm the sesame oil in the frying pan on **medium**, fry ginger until golden.
+1. Pat the pork dry. Warm the sesame oil in the cooker's inner pot on the gas ring on **medium**, fry ginger until golden.
 2. Add pork, sear until golden on all sides.
-3. Add soy + sugar + water, scrape the pan, and tip everything into the pressure cooker. Close the lid, press **排骨** and cook ~30–35 min until tender.
+3. Add soy + sugar + water and scrape the pot. Wipe the pot's outside dry, seat it in the cooker, close the lid, press **肉排骨** and cook ~30–35 min until tender.
 4. Release, then **开盖收汁** 3–5 min to reduce the sauce. Serve hot over rice.
 
 **Note:** gentle, savoury-sweet, and easy to chew — a good week-1 "real meal."
@@ -1159,9 +1159,9 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 - 500 ml water
 
 **Method**
-1. Pat the belly dry. Sear it in the frying pan on **medium** to render out some fat; drain the excess.
+1. Pat the belly dry. Sear it in the cooker's inner pot on the gas ring on **medium** to render out some fat; pour off the excess.
 2. Fry ginger in the sesame oil, return the belly.
-3. Add soy + sugar + water, scrape the pan, tip into the pressure cooker, close the lid, press **排骨** and cook ~40–45 min until meltingly soft.
+3. Add soy + sugar + water and scrape the pot. Wipe the pot's outside dry, seat it in the cooker, close the lid, press **肉排骨** and cook ~40–45 min until meltingly soft.
 4. Release, then **开盖收汁** 3–5 min to glaze the sauce. Serve over rice.
 
 **Note:** "not too rich" — light soy + a little sugar only (no dark soy, no rock sugar, no deep-fried skin). The ginger keeps it warming.
@@ -1172,7 +1172,7 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 *Appears: day 15*
 
-**Scores — ⭐ 27/30 · Ease 4/5 · Taste 4/5 · Confinement 5/5** · *Sear + 排骨 preset; the week-3 protein workhorse — lean, soft and hands-off.*
+**Scores — ⭐ 27/30 · Ease 4/5 · Taste 4/5 · Confinement 5/5** · *Sear + 肉排骨 preset; the week-3 protein workhorse — lean, soft and hands-off.*
 
 **Ingredients**
 - 250 g lean pork, cubed
@@ -1183,8 +1183,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 - 300 ml water
 
 **Method**
-1. Pat the pork dry. Warm sesame oil + ginger in the frying pan on **medium**, sear the pork until browned.
-2. Add soy + sugar + water, scrape the pan, tip into the pressure cooker, close the lid, press **排骨** and cook ~30–35 min until tender.
+1. Pat the pork dry. Warm sesame oil + ginger in the cooker's inner pot on the gas ring on **medium**, sear the pork until browned.
+2. Add soy + sugar + water and scrape the pot. Wipe the pot's outside dry, seat it in the cooker, close the lid, press **肉排骨** and cook ~30–35 min until tender.
 3. Release, then **开盖收汁** 2–3 min to tighten the sauce. Serve hot with rice.
 
 **Note:** the week-3 protein workhorse — lean, satisfying, and gentle.
@@ -1207,8 +1207,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 - 400 ml water
 
 **Method**
-1. Pat the pork dry. Sear it in the frying pan with the sesame oil + ginger on **medium**.
-2. Add soy + sugar + water, scrape the pan, tip into the pressure cooker, close the lid, press **排骨** and cook ~30 min.
+1. Pat the pork dry. Sear it in the cooker's inner pot on the gas ring with the sesame oil + ginger on **medium**.
+2. Add soy + sugar + water and scrape the pot. Wipe the pot's outside dry, seat it in the cooker, close the lid, press **肉排骨** and cook ~30 min.
 3. Quick-release, open the lid, add the chestnuts and **开盖收汁** 10–12 min — they cook through in the reducing sauce and stay whole. (A second pressure cycle works too, but they go mushy if they ride the whole time.)
 4. Serve hot.
 
@@ -1232,9 +1232,9 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 - 500 ml water
 
 **Method**
-1. Pat the belly dry. Sear it in the frying pan on **medium** to render excess fat, drain.
+1. Pat the belly dry. Sear it in the cooker's inner pot on the gas ring on **medium** to render excess fat, pour off the excess.
 2. Fry ginger in the sesame oil, return the belly.
-3. Add soy + sugar + water, scrape the pan, tip into the pressure cooker, close the lid, **排骨** ~40 min.
+3. Add soy + sugar + water and scrape the pot. Wipe the pot's outside dry, seat it in the cooker, close the lid, **肉排骨** ~40 min.
 4. Quick-release, add the chestnuts, and **开盖收汁** 10–12 min to a glossy sauce. Serve over rice.
 
 ---
@@ -1256,8 +1256,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 **Method**
 1. Blanch ribs 2–3 min, rinse and pat dry.
-2. Fry ginger in the sesame oil in the frying pan on **medium**, brown the ribs.
-3. Add lotus root + red dates + soy + water, scrape the pan, tip into the pressure cooker, close the lid, press **排骨** and cook ~35–40 min.
+2. Fry ginger in the sesame oil in the cooker's inner pot on the gas ring on **medium**, brown the ribs.
+3. Add lotus root + red dates + soy + water and scrape the pot. Wipe the pot's outside dry, seat it in the cooker, close the lid, press **肉排骨** and cook ~35–40 min.
 4. Release, then **开盖收汁** 3–5 min to reduce the sauce. Serve hot.
 
 **Note:** red dates + lotus root = the classic blood-building braise. Lotus root keeps a pleasant crunch even after cooking.
@@ -1281,8 +1281,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 **Method**
 1. If using dried shiitake, soak 30 min, slice, reserve the soaking liquid.
-2. Pat the pork dry. Sear it in the frying pan with the sesame oil + ginger on **medium**.
-3. Add mushrooms + soy + sugar + water, scrape the pan, tip into the pressure cooker, close the lid, press **排骨** and cook ~30–35 min.
+2. Pat the pork dry. Sear it in the cooker's inner pot on the gas ring with the sesame oil + ginger on **medium**.
+3. Add mushrooms + soy + sugar + water and scrape the pot. Wipe the pot's outside dry, seat it in the cooker, close the lid, press **肉排骨** and cook ~30–35 min.
 4. Release, then **开盖收汁** 3–5 min. Serve hot. The shiitake water adds free umami.
 
 ---
@@ -1303,8 +1303,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 **Method**
 1. Blanch brisket 3 min, rinse and pat dry.
-2. Fry ginger in the sesame oil in the frying pan on **medium**, brown the brisket well — two batches, so it browns rather than steams.
-3. Add soy + sugar + water, scrape the pan, tip into the pressure cooker, close the lid, press **牛羊肉** and cook ~50–60 min until fork-tender.
+2. Fry ginger in the sesame oil in the cooker's inner pot on the gas ring on **medium**, brown the brisket well — two batches, so it browns rather than steams.
+3. Add soy + sugar + water and scrape the pot. Wipe the pot's outside dry, seat it in the cooker, close the lid, press **牛羊肉** and cook ~50–60 min until fork-tender.
 4. Release, then **开盖收汁** 5 min to reduce the sauce. Serve hot over rice.
 
 **Trick:** brisket needs time — batch-cook double and freeze half. This is the richest, most satisfying dish of week 4.
@@ -1328,8 +1328,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 
 **Method**
 1. Soak lotus root slices in water + vinegar 10 min, drain.
-2. Fry ginger in the sesame oil in the frying pan on **medium**, add the lotus root, toss 1 min.
-3. Add soy + water, scrape the pan, tip into the pressure cooker, close the lid, **排骨** set to 10–12 min, until tender-crisp.
+2. Fry ginger in the sesame oil in the cooker's inner pot on the gas ring on **medium**, add the lotus root, toss 1 min.
+3. Add soy + water and scrape the pot. Wipe the pot's outside dry, seat it in the cooker, close the lid, **肉排骨** set to 10–12 min, until tender-crisp.
 4. Release, then **开盖收汁** 2 min. Serve hot.
 
 **Note:** served on its own as a side, or double the water for a light soup.
@@ -1774,13 +1774,13 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 - 1 tsp brown sugar (optional)
 - 50 g black fungus (soaked, optional) or 4–6 dried mushrooms (soaked)
 
-**Method (pan sear → pressure cooker)**
+**Method (inner-pot sear → pressure cooker)**
 1. **Make the angkak paste:** put the angkak in a small bowl with 2 tbsp of the rice wine, mash with the back of a spoon into a smooth red paste (30 sec). This is what gives an even colour instead of speckled rice grains stuck to the chicken.
-2. Pat the chicken dry. Warm the sesame oil in the frying pan on **medium**.
+2. Pat the chicken dry. Warm the sesame oil in the cooker's inner pot on the gas ring on **medium**.
 3. Fry the ginger slices until golden and fragrant (5–7 min) — the flavour base, same as the sesame oil chicken.
 4. Add the chicken, sear until golden on all sides.
 5. Spoon in the angkak paste and toss 1 min until every piece is coated red — the colour sets now, in the hot oil.
-6. Add the fungus/mushrooms, the rest of the wine and the water, and scrape the pan. Tip everything into the pressure cooker, then add the soy and sugar.
+6. Add the fungus/mushrooms, the rest of the wine and the water, and scrape the pot. Add the soy and sugar, wipe the pot's outside dry and seat it in the cooker.
 7. Close the lid, select **鸡鸭肉** and cook ~20–25 min until tender.
 8. Natural release, then **开盖收汁** 3–5 min to a glossy red sauce. Serve hot over rice or 面线.
 
