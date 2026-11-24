@@ -10,6 +10,8 @@ Methods below are **the versions actually cooked and eaten in this house**, whic
 
 *As validated on Day 12 (6 Nov): "great, unlike Day 8." The fix that made it: wine as a 2 tsp background splash, never a braise. **Since Day 28 (22 Nov) the house default is the pressure-cooker variant below — Eric and Ervina prefer it to the pan; the pan method here remains the fallback.***
 
+**Pan version (the fallback):**
+
 - 500 g chicken (bone-in thighs or kampung chicken)
 - 3 tbsp roasted sesame oil · 8–10 slices old ginger
 - 2 tsp huadiao (花雕) · ~100 ml water · 1 tsp brown sugar (optional)
@@ -22,7 +24,19 @@ Methods below are **the versions actually cooked and eaten in this house**, whic
 
 Full text: recipes.md #1.
 
-*Day 28 variant (22 Nov lunch) — pressure-cooker run, validated ("great — Ervina likes it very much") and **preferred over the pan (Eric, 22 Nov) — this is now the default method**. Eric's stated reason: the pan version often left red at the bone inside; pressure cooks through to the bone evenly, no judgement call: frozen bone-in thighs, cold-water thawed; sear in the cooker's **inner pot on the gas ring** (3 tbsp sesame oil, 8–10 ginger slices golden, chicken golden in batches); **2 tsp huadiao splashed on the hot edge**; **100 ml water** (Eric's choice — under the angkak precedent's 150 ml, and it was enough); gas off, pot wiped dry outside, seated and sealed **鸡鸭肉 20 min**, natural release, **开盖收汁 ~3–4 min** to a light glaze, plated immediately. This is NOT the retired Day 8 pressure version (150 ml wine braise, water to cover, no sear) — the sear-first, splash-wine, low-water load is what makes the cooker work for this dish. Note: the pot went in hot off the ring, so it pressurised almost immediately — the 20 min is time at pressure either way.*
+### Pressure-cooker version (Day 28, 22 Nov — the house default)
+
+*Validated on Day 28 lunch ("great — Ervina likes it very much") and **preferred over the pan (Eric, 22 Nov) — this is now the default method**. Eric's stated reason: the pan version often left red at the bone inside; pressure cooks through to the bone evenly, no judgement call. This is NOT the retired Day 8 pressure version (150 ml wine braise, water to cover, no sear) — the sear-first, splash-wine, low-water load is what makes the cooker work for this dish.*
+
+- Bone-in chicken thighs (frozen ones cold-water thawed first)
+- 3 tbsp roasted sesame oil · 8–10 slices old ginger
+- 2 tsp huadiao (花雕) · 100 ml water
+
+1. Sear in the cooker's **inner pot on the gas ring**: sesame oil + ginger until golden, then the chicken golden in batches.
+2. Splash the **2 tsp huadiao** on the hot pot edge; scrape up the browned bits as it sizzles.
+3. Add the **100 ml water** (Eric's choice — under the angkak precedent's 150 ml, and it was enough). Gas off, wipe the pot dry outside, seat it in the cooker and seal.
+4. **鸡鸭肉 20 min.** The pot goes in hot off the ring, so it pressurises almost immediately — the 20 min is time at pressure either way.
+5. Natural release, then **开盖收汁 ~3–4 min** to a light glaze. Plate immediately.
 
 ## 2. Sesame-Oil Pork Slices with Ginger (麻油猪肉片) — book recipe 40
 
