@@ -12,6 +12,8 @@
 | Old ginger, green papaya, leafy greens | Wet market or NTUC FairPrice / Sheng Siong / Cold Storage |
 | Oatmeal, black sesame paste | Supermarket |
 
+**Pork soft bone （软骨） — the house soup cut (Eric, 21 Nov 2026):** substitutes 1:1 for spare ribs in any rib soup (proven in the r7 peanut soup, Day 27 — "these soft bones are great"). Cheaper per kg (Sheng Siong LeBao 400 g packs, 2 for $9.90 = $12.38/kg vs FairPrice spare ribs $12.90/kg) and cheaper again per edible gram: the cartilage cooks tender and is eaten, so almost nothing is thrown away, unlike rib bone. Blanch the same way; no water adjustment for the swap.
+
 **Avoid / limit** (see [`avoid-limit-card.md`](avoid-limit-card.md)): high-mercury fish (shark, swordfish, king mackerel), coffee/strong tea while establishing supply, and raw/cold foods — already covered by the 4 golden rules.
 
 ---

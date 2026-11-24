@@ -8,7 +8,7 @@ Methods below are **the versions actually cooked and eaten in this house**, whic
 
 ## 1. Sesame Oil Chicken (麻油鸡) — book recipe 1
 
-*As validated on Day 12 (6 Nov): "great, unlike Day 8." The fix that made it: wine as a 2 tsp background splash, never a braise.*
+*As validated on Day 12 (6 Nov): "great, unlike Day 8." The fix that made it: wine as a 2 tsp background splash, never a braise. **Since Day 28 (22 Nov) the house default is the pressure-cooker variant below — Eric and Ervina prefer it to the pan; the pan method here remains the fallback.***
 
 - 500 g chicken (bone-in thighs or kampung chicken)
 - 3 tbsp roasted sesame oil · 8–10 slices old ginger
@@ -21,6 +21,8 @@ Methods below are **the versions actually cooked and eaten in this house**, whic
 5. Plate and cover when done — do not hold it in the pan (Day 12's toughness came from a long hold).
 
 Full text: recipes.md #1.
+
+*Day 28 variant (22 Nov lunch) — pressure-cooker run, validated ("great — Ervina likes it very much") and **preferred over the pan (Eric, 22 Nov) — this is now the default method**. Eric's stated reason: the pan version often left red at the bone inside; pressure cooks through to the bone evenly, no judgement call: frozen bone-in thighs, cold-water thawed; sear in the cooker's **inner pot on the gas ring** (3 tbsp sesame oil, 8–10 ginger slices golden, chicken golden in batches); **2 tsp huadiao splashed on the hot edge**; **100 ml water** (Eric's choice — under the angkak precedent's 150 ml, and it was enough); gas off, pot wiped dry outside, seated and sealed **鸡鸭肉 20 min**, natural release, **开盖收汁 ~3–4 min** to a light glaze, plated immediately. This is NOT the retired Day 8 pressure version (150 ml wine braise, water to cover, no sear) — the sear-first, splash-wine, low-water load is what makes the cooker work for this dish. Note: the pot went in hot off the ring, so it pressurised almost immediately — the 20 min is time at pressure either way.*
 
 ## 2. Sesame-Oil Pork Slices with Ginger (麻油猪肉片) — book recipe 40
 
@@ -49,6 +51,8 @@ Full text: recipes.md #40.
 4. **鸡鸭肉 / soft setting ~42 min** (the frozen-thigh run). Open, and reduce with 开盖收汁 if the sauce is loose.
 
 Full text (pan version + cautions on angkak dosing): recipes.md #69.
+
+*Day 25 variant (19 Nov lunch) — also liked by Ervina, so both runs stand as keepers: 500 g **thawed** bone-in thighs, seared in the inner pot in **two batches** (1 tbsp sesame oil per batch; the 8–10 ginger slices go in with batch 1 and stay in), paste-only wine (2 tsp angkak + **30 ml huangjiu — the only wine**), 150 ml water + 1 tsp light soy + 1 tsp brown sugar + 1 tsp vinegar, **鸡鸭肉 20 min**, natural release, 开盖收汁 ~4 min. The finishing sesame drizzle was skipped and not missed.*
 
 ## 4. Pan-Braised Lean Pork (焖瘦肉) — as cooked Days 15 & 16, NOT the book method
 
@@ -82,3 +86,19 @@ Full text (pan version + cautions on angkak dosing): recipes.md #69.
 6. Ladling note: if you ever need to take liquid out before cooking, what floats off is mostly the sesame oil — accepted, no top-up needed; collar + peanuts give richness to spare.
 
 Served Day 16 with stir-fried cabbage (¼ head shredded — which cooked down to very little; use ⅓–½ head when cabbage is the vegetable) and reheated rice.
+
+## 6. Braised Beef (红烧牛肉) — as cooked Day 25 dinner (19 Nov), adapted from book recipe 49
+
+*The book's cut is brisket; what was cooked and liked is a 500 g pack of frozen mixed-trim beef cubes (Suria, Brazil), fridge-thawed. Two corrections from the night are part of the method: the water is **400 ml, about ¾ up the meat** — the book's open-pot quantity scaled up made a soup, not a braise, in the sealed cooker — and the browning is a **stir-fry**, because blanched beef steams before it browns and a still sear never coloured.*
+
+- 500 g frozen beef cubes, thawed
+- 2.5 tbsp sesame oil · 16 slices ginger
+- Sauce bowl, pre-mixed: **400 ml water + 2.5 tbsp light soy + 1.5 tsp brown sugar**
+
+1. **Blanch in the inner pot** on the gas ring, 3 min. Tip the water away, rinse the beef, **pat very dry**; rinse the pot (the grey blanch scum comes off — it is not fond) and dry it.
+2. Same pot: sesame oil + ginger until golden, then **stir-fry the beef in two batches**, high heat, ~4 min each — through the steaming phase until the surface water boils off and the edges brown.
+3. All the beef back in, sauce bowl in, scrape the bottom by feel, bring to a boil.
+4. Wipe the pot dry outside, seat it, **牛羊肉 set to 60 min** (the preset default is 40 — mixed trim needs the long end).
+5. Release, **开盖收汁 to a gloss**. Taste only *after* reducing: the sauce tastes salty alone and right with rice — that is the design, not a fault. Rest the beef in its sauce on keep-warm while the vegetables cook.
+
+Served with blanched choy sum (1 tsp sesame oil + ½ tsp light soy + ⅛ tsp salt dressing) and rice. Ervina's verdict, 19 Nov: liked it — keeper.

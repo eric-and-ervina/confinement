@@ -24,6 +24,26 @@ Two honest caveats. These are judgement calls, not lab data, and **nothing here 
 
 ---
 
+## 📏 House standard measures (set by Eric, 16 Nov 2026)
+
+**No vague measures in this book or in any spec quoted from it.** "Pinch", "handful", "splash" and "a few drops" are banned — their definitions vary and they are unusable mid-cook. Where an older recipe or a spec used one, it converts to the calibrated amount below. Every quantity is given in teaspoons, millilitres, grams, or counts.
+
+| Vague term (banned) | Exact house amount | Calibrated on |
+|---|---|---|
+| pinch of salt | **⅛ tsp (~0.4 g)** | ~200 g greens seasoned with ½ tsp light soy alongside (Day 21–22 greens) |
+| pinch of Ajinomoto (MSG) | **¼ tsp per ~1.2 L soup**, ceiling ½ tsp | Day 22 red date chicken soup; past ½ tsp the MSG becomes the flavour |
+| pinch of white pepper | **⅛ tsp per pot** | clear soups, finishing |
+| small handful of goji | **1 tbsp (~10 g)** | soup finishing handful |
+| splash of water (greens) | **1 tbsp (15 ml)** | pan-steaming greens under a lid |
+| a few drops of sesame oil | **¼ tsp per bowl** | soup finishing drizzle |
+| salt "to taste" (soups) | **start ½ tsp per 1.2–1.5 L, adjust in ¼ tsp steps** | pressure-cooker soups, seasoned at the end |
+
+Dried fruit and aromatics (red dates, longan, ginger) are always given as **counts or grams**, never handfuls.
+
+**House water rule (Eric, 16 Nov 2026).** The Joyoung is sealed: soup water does not reduce during pressure cooking, so the volume that goes in is roughly the volume that gets eaten (plus meat juice, minus what peanuts/grains absorb). Any quantity written as if evaporation will concentrate the pot is wrong for this cooker. Excess water taxes **Taste** (dilution), and repairing dilution with extra seasoning taxes **Confinement** — so water is set correctly at loading and never corrected at the bowl. **The reason Eric negotiates water down is flavour concentration at the recipe's own seasoning level — NOT leftover avoidance (correction by Eric, 21 Nov 2026; an earlier "finished volume two people will drink" framing was Muse's invention, not Eric's rule).** Calibrated house quantities: peanut rib soup (r7) **1.4 L** (book was 2 L); red date chicken soup **1.2 L per ~650 g chicken**; pressure-cooker fish soups **~1.6 L**. When scaling a soup, keep the water as low as the ingredients properly need to cook, so the broth tastes right without added seasoning.
+
+---
+
 ## 🔧 Your 4 cooking tools (exactly these)
 
 | # | Tool | What's on it | What it cooks |
@@ -149,6 +169,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 > ⚠️ **Alcohol note (breastfeeding):** alcohol does **not** boost milk supply — treat wine as flavour and tradition, never a supply tool. At this dose (2 tsp splashed on a hot pan, then simmered, across two servings) the remaining alcohol is negligible, and the feed-first timing that bound the old 150 ml version no longer constrains this dish.
 >
 > 🍽️ **Day 12 cook result (6 Nov 2026):** taste verdict — **great, unlike Day 8**; the wine-splash fix is validated. One flaw: the chicken was **a little tough**. Context: the thighs were frozen stock, cold-water thawed that morning; they simmered the full 20 min, then rested ~50 min in the pan while the fish soup ran long. Day 14 counters: gentlest possible simmer, start checking at 15 min, and plate-and-cover when done instead of holding in the pan.
+>
+> 🍽️ **Day 28 cook result (22 Nov 2026):** the pressure cooker is **un-retired** for this dish — as a sear-first variant, not the Day 8 method. Frozen thighs, cold-water thawed; seared in the inner pot on the gas ring (3 tbsp sesame oil, ginger golden, chicken golden in batches); 2 tsp huadiao splashed on the hot edge; **100 ml water**; sealed 鸡鸭肉 20 min, natural release, 开盖收汁 to a light glaze, plated at once. Verdict — **great; Ervina likes it very much** (Taste 5/5, level with the pan version). The Day 8 failure was the load (150 ml wine braise, water to cover, no sear), not the vessel. Full variant filed in favourites.md #1.
 
 ---
 
@@ -212,6 +234,8 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 **Shortcut:** pre-packed confinement herbal packs (Eu Yan Sang, Ma Kuang, any Chinese medical hall) are built for exactly this — zero measuring. If using one, follow the pack's weight (typically one pack per 2 L), and add goji at the end if it isn't already inside.
 
 **Batch tip:** this soup is on the plan 5× (days 17, 19, 23, 24, 28) — cook a double batch once and freeze half in meal-size portions. Reheat gently; it tastes even better the next day.
+
+> 🍽️ **Day 24 cook result (18 Nov 2026):** the house build, now proven — **no black chicken: 757 g frozen chicken thighs, cooked straight from frozen** (no blanch; skim at opening instead). The house pre-packed herbal pack goes in at the **bottom**, chicken on top, **1.2 L water** (not the book's 2 L), sealed on the chicken preset. Finish: skim, **goji 1 tbsp** in for 5 min residual heat lid-on, **salt ½ tsp + Ajinomoto ¼ tsp** (Eric's call — the house dose for a 1.2 L pot). Verdict, reported the next morning: **great** — this from-frozen build is the default for this soup, and it was repeated as-is for the Day 26 dinner (20 Nov).
 
 > ⚠️ **Dang gui (当归) caution:** dang gui is a blood-moving herb. If lochia is still heavy — or bleeding restarts — pause the dang gui until it settles. Simply leave it out (or swap in a little more astragalus) — astragalus and red dates are safe throughout.
 
@@ -291,12 +315,14 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 - 100 g raw peanuts (skins on)
 - 6 red dates
 - 8 slices ginger
-- 2 L water
+- 1.4 L water *(reduced from 2 L on 16 Nov 2026 — see the House water rule; the sealed cooker loses nothing and 2 L diluted the broth)*
 
 **Method (pressure cooker)**
 1. Blanch ribs 2 min, drain.
-2. Add all ingredients + water to the pressure cooker. Close the lid, select **豆/蹄筋** — it's built for beans and peanuts — and cook ~30 min (falls-off-the-bone tender in a fraction of stove time).
+2. Add all ingredients + water to the pressure cooker. Close the lid, select **豆/蹄筋** — it's built for beans and peanuts. **The preset on this machine runs 50 min** (corrected 16 Nov 2026 — the book originally said ~30 min; the machine's preset is the truth, and ribs and peanuts both take the long cook well: falls-off-the-bone tender, peanuts fully soft).
 3. Season lightly. Great for strength and (with the red dates) blood-building.
+
+> 🍽️ **Day 27 cook result (21 Nov 2026):** cooked with **pork soft bone （软骨） in place of the ribs** — one 400 g pack, blanched the same 2 min — and the water at **1.2 L (Eric's call on the day)**, under the 1.4 L calibration above; 豆/蹄筋 50 min as written. Verdict (Eric): *"These soft bones are great. They're cheaper than the spare ribs"* — and cheaper again per edible gram, since the cartilage cooks tender and is eaten rather than discarded. Soft bone is now the house soup cut (see shopping-list.md); the swap itself needs no water change — the 1.2 L was this load's call, not a new calibration.
 
 ---
 
@@ -1234,7 +1260,7 @@ Two rules: **keep the delay under ~8 hours**, and **grains, water and dried herb
 **Method**
 1. Pat the belly dry. Sear it in the cooker's inner pot on the gas ring on **medium** to render excess fat, pour off the excess.
 2. Fry ginger in the sesame oil, return the belly.
-3. Add soy + sugar + water and scrape the pot. Wipe the pot's outside dry, seat it in the cooker, close the lid, **肉排骨** ~40 min.
+3. Add soy + sugar + water and scrape the pot. Wipe the pot's outside dry, seat it in the cooker, close the lid, **肉排骨** (Eric's machine: the preset runs **45 min**, confirmed 17 Nov).
 4. Quick-release, add the chestnuts, and **开盖收汁** 10–12 min to a glossy sauce. Serve over rice.
 
 ---

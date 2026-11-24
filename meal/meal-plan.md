@@ -178,7 +178,8 @@ Every recipe in [`recipes.md`](recipes.md) is scored out of 5 for **ease** (how 
 |---|---|---|---|
 | **22** | Oatmeal w/ red dates & longan + egg | Rice, sesame oil chicken 🍶, stir-fried kai lan, peanut pork rib soup | Steamed fish w/ fermented black beans, stir-fried mixed veg |
 | **23** | Oatmeal w/ red dates & longan + egg | Rice, braised pork belly w/ chestnuts, stir-fried spinach, herbal black chicken soup | Rice, baked threadfin (air-fry), stir-fried zucchini |
-| **24** | Oatmeal w/ red dates & longan + egg | Rice, **herbal black chicken soup**, stir-fried broccoli | Rice, **baked salmon** (air-fry), braised lotus root |
+| **23 — as cooked (17 Nov)** | — | Rice, **braised pork — the full 500 g PorKee cubes** + stir-fried **kai lan**. The cubes were thawed at room temperature (~1 h), so they had to be cooked today: blanched, simmered ~50 min, reduced to a gloss; lunch ~13:30. **Herbal chicken soup deferred to Day 24 lunch** (black chicken NOT bought 17 Nov — frozen thighs instead, herb pack in stock at home; start from frozen, 1.2 L water, +10–15 min, skim at opening). No braise was set aside for Day 24 — the whole pack went into today's lunch. | Rice, **steamed toman fillet** (358 g pack; Eric's pick at the market over threadfin/snapper — steaming chosen over air-fry after weighing both; 6 ginger slices, steam 10 min from steady steam, pour off plate juice, 1 tbsp light soy + 1 tsp hot sesame oil finish), stir-fried **spinach 118 g** (parents' buy; passed the slime / smell / spot checks, so it cooked in the broccoli slot; zucchini not found at Blk 278) |
+| **24** | Oatmeal w/ red dates & longan + egg | Rice, **herbal black chicken soup**, stir-fried broccoli | Rice, **baked salmon** (air-fry), stir-fried choy sum (braised lotus root dropped 18 Nov — Eric didn't want to buy or cook it; kai lan named as the replacement, then Eric bought choy sum instead) |
 | **25** | Oatmeal w/ red dates & longan + egg | Rice, **angkak chicken** 🍶 (红曲米鸡 — mum's [recipe 69](recipes.md#69-angkak-chicken-红曲米鸡)), stir-fried sweet potato leaves, fish soup | Rice, braised beef brisket w/ ginger, blanched choy sum |
 | **26** | Oatmeal w/ red dates & longan + egg | Rice, green papaya fish soup, stir-fried asparagus | Rice, sesame oil chicken 🍶, stir-fried nai bai |
 | **27** | Oatmeal w/ red dates & longan + egg | Rice, **baked salmon** (air-fry), stir-fried spinach, pork rib-corn soup | Rice, braised pork collar w/ mushrooms, blanched broccoli |
@@ -195,6 +196,10 @@ Every recipe in [`recipes.md`](recipes.md) is scored out of 5 for **ease** (how 
 | Threadfin (午鱼) | Batang (马鲛), snapper, pomfret |
 | Seabass | Any white fish (cod, grouper) |
 | Pork collar/ribs | Pork shoulder, lean pork, chicken |
+| **Pork belly (any recipe)** | **Pork collar — house rule (Eric, 17 Nov): this household does not eat pork belly; belly in a recipe is always cooked as collar** |
+| Chestnuts | Peanuts (the r45 variant — a keeper dish) or omit; chestnuts join the intermittent list at Blk 278 (not found 17 Nov) |
+| Spinach | Kai lan (Eric's standing preference — easier to clean) |
+| Zucchini | Broccoli, kai lan, or nai bai (zucchini not found at Blk 278, 17 Nov) |
 | Kai lan / choy sum | Bok choy, nai bai, spinach, broccoli |
 | Green papaya | Ripe papaya (in a pinch, weaker effect) |
 | Black sesame paste | Tahini + a touch of brown sugar, or red bean paste |
